@@ -4,6 +4,23 @@
  * Made by Ivan de Wolf
  */
 
+
+/* Temporary */
+.section {
+  margin-bottom: 58px;
+
+  & .title {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 26px;
+
+    & img {
+      height: 40px;
+      margin-right: 16px;
+    }
+  }
+}
+
 /**
  * The colors used on the site.
  */
@@ -176,7 +193,7 @@ main {
   }
 
   &__background {
-    background: url('../assets/images/landing-no-logo.jpg');
+    background: url('/images/landing-no-logo.jpg');
     background-size: cover;
     background-position: center;
   }
@@ -541,6 +558,22 @@ main {
   &__text {
     font-size: 15px;
     font-weight: normal;
+
+    & > ol, & > ul {
+      padding-left: 18px;
+
+      & > li {
+        padding-bottom: 4px;
+      }
+    }
+
+    & > p {
+      padding-bottom: 12px;
+    }
+
+    & > h4 {
+      padding-top: 8px;
+    }
 
     &--light {
       font-weight: 300;
