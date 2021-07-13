@@ -1,0 +1,145 @@
+{{ define "header" }}
+<div class="header__menu">
+  <a class="header__button" href="{{ .Parent.Permalink }}">
+    <img src="/icons/back-arrow.png" alt="tile arrow" class="header__menu--icon">
+    <!-- The text to go back to the course size page. -->
+    {{ .Parent.Title }}
+  </a>
+
+  <!-- Dash between the menu items. -->
+  <span>-</span>
+
+  <!-- Dropdown menu -->
+  <div class="dropdown">
+    <div class="dropdown__primary">
+      <!-- The active activity name. -->
+      <span class="dropdown__text">{{ .Title }}</span>
+      <img src="/icons/dropdown-arrow.png" alt="tile arrow" class="dropdown__icon">
+    </div>
+
+    <!-- Let this be here to allow outside clicks close the dropdown. -->
+    <div class="dropdown__overlay"></div>
+
+    <div class="dropdown__options">
+      <!-- The other activity options in this course size. -->
+      {{ $current := .Title }}
+      {{ range .Parent.Pages.ByWeight }}
+      {{ if ne $current .Title }}
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
+
+
+{{ define "main" }}
+<!-- The heading which contains the title and subtitle. -->
+<div class="banner" style="background-image: url('{{ .Params.Banner }}');">
+  <img class="banner__logo" src="/images/teaching-centre-hero.png" alt="Teaching Logo">
+  <div class="heading">
+    <span class="heading__overline">Large course: 100+ students</span>
+    <h1 class="heading__title heading__title--big">{{ .Title }}</h1>
+    <p class="heading__subtitle heading__subtitle--wider">
+      Offline, lecturers who are teaching 100+ students
+      typically give a 2-hour presentation. The lecturer’s focus is on providing an overview and explaining the
+      subject matter in a clear manner. The goals for students are to <span class="accent">understand the subject
+        matter</span> and to get <span class="accent">the bigger picture.</span> Let’s take this online!
+    </p>
+  </div>
+</div>
+
+<div class="block block--larger">
+  <div class="block--inner block__information">
+    <div class="block__information-section">
+
+      {{ range .Pages.ByWeight }}
+      <div class="block__header block__header--with-image">
+        <img src="{{ .Params.Icon }}" alt="tips icon" class="block__header-icon">
+        <h2 class="block__title" id="{{ .Params.Id }}">{{ .Title }}</h2>
+      </div>
+      {{ if eq .Params.Expandable true }}
+      <div class="card card--collapsible card--bottom-space">
+        <div class="card__text card__text--light card--collaps">
+          {{ truncate 230 .Content }}
+        </div>
+        <div class="card__text card__text--light card--expand">
+          {{ .Content }}
+        </div>
+        <div class="card__action card__action--left">
+          <img src="/icons/collapse.png" alt="expand section" class="card__action--icon card--expand">
+          <img src="/icons/expand.png" alt="expand section" class="card__action--icon card--collaps">
+          <span class="card--collaps">Show everything</span>
+          <span class="card--expand">Show less</span>
+        </div>
+      </div>
+      {{ end }}
+      {{ if eq .Params.Expandable false}}
+      {{ if eq .Params.Instructions false }}
+      <div class="card card--bottom-space">
+        <div class="card__text card__text--light">
+          {{ .Content }}
+        </div>
+      </div>
+      {{ end }}
+      <!-- {{ if eq .Params.Instructions true }}
+      <div class="card card--bottom-space">
+        <div class="card__text card__text--light">
+          {{ .Content }}
+        </div>
+      </div>
+      {{ end }} -->
+      {{ end }}
+      
+      {{ if eq .Params.Instructions true }}
+      <div class="card--bottom-space">
+        {{ .Content }}
+      </div>
+      {{ end }}
+      {{ end }}
+
+    </div>
+
+    <!-- The menu for the section which also scrolls with us. -->
+    <div class="block__information-menu">
+      <div class="card card--menu card--shadow card--border">
+        <div class="card__menu-title">Jump to:</div>
+        {{ range .Pages.ByWeight }}
+        <a href="#{{ .Params.Id }}" class="card__action card__action--menu card__action--left">
+          <img src="{{ .Params.Menu }}" alt="expand section"
+            class="card__action--icon card__action--medium">
+          <span class="card__action-text">{{ .Params.Title }}</span>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- A central block for choosing the course size. -->
+<div class="block block--larger block--white">
+  <div class="block__header">
+    <h2 class="block__title">Other teaching methods</h2>
+    <span class="block__subtitle">For large-sized courses (100+ students) - </span>
+    <a href="/" class="block__header--link">change course size</a>
+  </div>
+
+  <!-- The cards for different activities. -->
+  <div class="block__cards">
+    {{ $current := .Title }}
+    {{ range .Parent.Pages.ByWeight }}
+    {{ if ne $current .Title }}
+    <a class="card card--shadow card--showcase" href="{{ .Permalink }}">
+      <img src="{{ .Params.Icon }}" alt="course icon" class="card__icon">
+      <span class="card__title">
+        {{ .Title }}
+        <img src="/icons/tile-arrow@2x.png" alt="tile arrow" class="card__title--icon">
+      </span>
+    </a>
+    {{ end }}
+    {{ end }}
+  </div>
+</div>
+
+{{ end }}
