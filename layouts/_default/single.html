@@ -42,22 +42,19 @@
     <span class="heading__overline">Large course: 100+ students</span>
     <h1 class="heading__title heading__title--big">{{ .Title }}</h1>
     <p class="heading__subtitle heading__subtitle--wider">
-      Offline, lecturers who are teaching 100+ students
-      typically give a 2-hour presentation. The lecturer’s focus is on providing an overview and explaining the
-      subject matter in a clear manner. The goals for students are to <span class="accent">understand the subject
-        matter</span> and to get <span class="accent">the bigger picture.</span> Let’s take this online!
+      {{ .RenderString .Params.Description }}
     </p>
   </div>
 </div>
 
-<div class="block block--larger">
+<div class="block">
   <div class="block--inner block__information">
     <div class="block__information-section">
 
       {{ range .Pages.ByWeight }}
       <div class="block__header block__header--with-image">
         <img src="{{ .Params.Icon }}" alt="tips icon" class="block__header-icon">
-        <h2 class="block__title" id="{{ .Params.Id }}">{{ .Title }}</h2>
+        <h2 class="block__title" id="{{ replace (lower .Title) " " "_" }}">{{ .Title }}</h2>
       </div>
       {{ if eq .Params.Expandable true }}
       <div class="card card--collapsible card--bottom-space">
@@ -106,7 +103,7 @@
       <div class="card card--menu card--shadow card--border">
         <div class="card__menu-title">Jump to:</div>
         {{ range .Pages.ByWeight }}
-        <a href="#{{ .Params.Id }}" class="card__action card__action--menu card__action--left">
+        <a href="#{{ replace (lower .Title) " " "_" }}" class="card__action card__action--menu card__action--left">
           <img src="{{ .Params.Menu }}" alt="expand section"
             class="card__action--icon card__action--medium">
           <span class="card__action-text">{{ .Params.Title }}</span>

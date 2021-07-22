@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/nl/large/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/large/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/nl/large/"
+                />
+  </url>
+  
+  <url>
+    <loc>/nl/large/lectures/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/large/lectures/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/nl/large/lectures/"
+                />
+  </url>
+  
+  <url>
+    <loc>/nl/large/lectures/tips/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/large/lectures/tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/nl/large/lectures/tips/"
+                />
+  </url>
+  
+  <url>
+    <loc>/nl/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/nl/"
+                />
+  </url>
+  
+  <url>
+    <loc>/nl/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/nl/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/nl/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/nl/tags/"
+                />
+  </url>
+  
+</urlset>
