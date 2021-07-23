@@ -3,90 +3,135 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/nl/large/</loc>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/large/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/large/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/nl/large/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/large/"
                 />
   </url>
   
   <url>
-    <loc>/nl/large/lectures/</loc>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/large/lectures/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/large/lectures/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/lectures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/nl/large/lectures/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/large/lectures/"
                 />
   </url>
   
   <url>
-    <loc>/nl/large/lectures/tips/</loc>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/medium/lectures/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/large/lectures/tips/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/lectures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/nl/large/lectures/tips/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/medium/lectures/"
                 />
   </url>
   
   <url>
-    <loc>/nl/</loc>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/large/lectures/tips/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/lectures/tips/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/nl/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/large/lectures/tips/"
                 />
   </url>
   
   <url>
-    <loc>/nl/categories/</loc>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/medium/lectures/tips/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/lectures/tips/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/nl/categories/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/medium/lectures/tips/"
                 />
   </url>
   
   <url>
-    <loc>/nl/tags/</loc>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/nl/tags/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/medium/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/medium/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/tags/"
                 />
   </url>
   

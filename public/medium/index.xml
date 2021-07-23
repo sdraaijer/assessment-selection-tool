@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Medium course on Educational Redesign Aid</title>
-    <link>/medium/</link>
+    <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/</link>
     <description>Recent content in Medium course on Educational Redesign Aid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate>
     
-	<atom:link href="/medium/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
