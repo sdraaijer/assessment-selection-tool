@@ -1,7 +1,7 @@
 {{ define "header" }}
 <div class="header__menu">
   <a class="header__button" href="{{ .Parent.Permalink }}">
-    <img src="/public/icons/back-arrow.png" alt="tile arrow" class="header__menu--icon">
+    <img src="{{ .Site.BaseURL }}icons/back-arrow.png" alt="tile arrow" class="header__menu--icon">
     <!-- The text to go back to the course size page. -->
     {{ .Parent.Title }}
   </a>
@@ -14,7 +14,7 @@
     <div class="dropdown__primary">
       <!-- The active activity name. -->
       <span class="dropdown__text">{{ .Title }}</span>
-      <img src="/public/icons/dropdown-arrow.png" alt="tile arrow" class="dropdown__icon">
+      <img src="{{ .Site.BaseURL }}icons/dropdown-arrow.png" alt="tile arrow" class="dropdown__icon">
     </div>
 
     <!-- Let this be here to allow outside clicks close the dropdown. -->
@@ -37,7 +37,7 @@
 {{ define "main" }}
 <!-- The heading which contains the title and subtitle. -->
 <div class="banner" style="background-image: url('{{ .Params.Banner }}');">
-  <img class="banner__logo" src="/public/images/teaching-centre-hero.png" alt="Teaching Logo">
+  <img class="banner__logo" src="{{ .Site.BaseURL }}images/teaching-centre-hero.png" alt="Teaching Logo">
   <div class="heading">
     <span class="heading__overline">{{ .Parent.Title }}: {{ .Parent.Params.Subtitle }}</span>
     <h1 class="heading__title heading__title--big">{{ .Title }}</h1>
@@ -65,8 +65,8 @@
           {{ .Content }}
         </div>
         <div class="card__action card__action--left">
-          <img src="/public/icons/collapse.png" alt="expand section" class="card__action--icon card--expand">
-          <img src="/public/icons/expand.png" alt="expand section" class="card__action--icon card--collaps">
+          <img src="{{ .Site.BaseURL }}icons/collapse.png" alt="expand section" class="card__action--icon card--expand">
+          <img src="{{ .Site.BaseURL }}icons/expand.png" alt="expand section" class="card__action--icon card--collaps">
           <span class="card--collaps">Show everything</span>
           <span class="card--expand">Show less</span>
         </div>
@@ -131,7 +131,7 @@
       <img src="{{ .Params.Icon }}" alt="course icon" class="card__icon">
       <span class="card__title">
         {{ .Title }}
-        <img src="/public/icons/tile-arrow@2x.png" alt="tile arrow" class="card__title--icon">
+        <img src="{{ .Site.BaseURL }}icons/tile-arrow@2x.png" alt="tile arrow" class="card__title--icon">
       </span>
     </a>
     {{ end }}
