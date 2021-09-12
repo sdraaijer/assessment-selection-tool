@@ -1,343 +1,441 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/</loc>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/large/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/nl/large/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/lectures/</loc>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/lectures/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/large/lectures/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/nl/large/lectures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/lectures/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/lectures/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/lectures/</loc>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/lectures/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/lectures/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/assessment/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/assessment/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/assessment/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/group_assignments/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/group_assignments/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/group_assignments/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/guest_lectures/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/individual_assignments/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/individual_assignments/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/individual_assignments/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/lectures/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/office_hours/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/office_hours/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/seminars/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/seminars/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/seminars/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/workgroups/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/workgroups/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/workgroups/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/guest_lectures/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/guest_lectures/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/lectures/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/lectures/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/office_hours/what/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/guest_lectures/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/guest_lectures/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/guest_lectures/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/assessment/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/assessment/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/assessment/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/group_assignments/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/group_assignments/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/group_assignments/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/guest_lectures/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/individual_assignments/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/individual_assignments/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/individual_assignments/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/lectures/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/office_hours/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/office_hours/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/seminars/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/seminars/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/seminars/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/workgroups/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/workgroups/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/workgroups/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/guest_lectures/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/guest_lectures/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/lectures/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/lectures/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/office_hours/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/seminars/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/seminars/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/seminars/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/assessment/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/assessment/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/assessment/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/group_assignments/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/group_assignments/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/group_assignments/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/guest_lectures/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/individual_assignments/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/individual_assignments/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/individual_assignments/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/lectures/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/office_hours/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/office_hours/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/seminars/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/seminars/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/seminars/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/workgroups/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/workgroups/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/workgroups/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/guest_lectures/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/guest_lectures/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/lectures/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/lectures/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/office_hours/why/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/assessment/tips/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/assessment/tips/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/assessment/tips/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/group_assignments/tips/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/group_assignments/tips/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/group_assignments/tips/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/guest_lectures/tips/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/individual_assignments/tips/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/individual_assignments/tips/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/individual_assignments/tips/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/lectures/tips/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/medium/lectures/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/nl/large/lectures/tips/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/lectures/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/lectures/tips/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/assessment/what/</loc>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/office_hours/tips/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/group_assignments/what/</loc>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/office_hours/tips/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/guest_lectures/what/</loc>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/seminars/tips/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/individual_assignments/what/</loc>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/seminars/tips/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/lectures/what/</loc>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/seminars/tips/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/office_hours/what/</loc>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/workgroups/tips/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/seminars/what/</loc>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/workgroups/tips/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/workgroups/what/</loc>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/workgroups/tips/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/lectures/what/</loc>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/guest_lectures/tips/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/guest_lectures/</loc>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/guest_lectures/tips/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/</loc>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/lectures/tips/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/lectures/tips/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/office_hours/tips/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/workgroups/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/workgroups/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/workgroups/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/individual_assignments/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/individual_assignments/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/individual_assignments/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/group_assignments/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/group_assignments/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/group_assignments/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/assessment/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/assessment/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/assessment/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/large/office_hours/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/medium/office_hours/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/small/office_hours/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/medium/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/nl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/assessment/tools/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/group_assignments/tools/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/guest_lectures/tools/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/individual_assignments/tools/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/lectures/tools/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/office_hours/tools/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/seminars/tools/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/workgroups/tools/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/lectures/tools/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/seminars/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/assessment/why/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/group_assignments/why/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/guest_lectures/why/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/individual_assignments/why/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/lectures/why/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/office_hours/why/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/seminars/why/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/workgroups/why/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/lectures/why/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/assessment/tips/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/group_assignments/tips/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/guest_lectures/tips/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/individual_assignments/tips/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/lectures/tips/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/large/lectures/tips/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/nl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/lectures/tips/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/office_hours/tips/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/seminars/tips/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/workgroups/tips/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/lectures/tips/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/medium/lectures/tips/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/nl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/lectures/tips/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/tags/"
                 />
   </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/workgroups/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/individual_assignments/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/group_assignments/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/assessment/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/office_hours/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/nl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/tags/"
-                />
-  </url>
-  
 </urlset>
