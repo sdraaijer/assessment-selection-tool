@@ -1,4 +1,4 @@
-baseURL = "https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/public/"
+baseURL = "https://werkgroep-toetsen-op-afstand.github.io"
 languageCode = "en-us"
 title = "Educational Redesign Aid"
 theme = "TLC-UvA-theme"
