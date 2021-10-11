@@ -1,5 +1,6 @@
 {{ define "header" }}
 <div class="header__menu">
+{{ partial "search-form.html" . }}
   <a class="header__button" href="{{ .Parent.Permalink }}">
     <img src="{{ .Site.BaseURL }}icons/back-arrow.png" alt="tile arrow" class="header__menu--icon">
     <!-- The text to go back to the course size page. -->
@@ -42,7 +43,7 @@
 
 {{ define "main" }}
 <!-- The heading which contains the title and subtitle. -->
-<div class="banner" style="background-image: url('{{ .Params.Banner }}');">
+<div class="banner" style="background-image: url('{{ .Site.BaseURL }}{{ .Params.Banner }}');">
   <img class="banner__logo" src="{{ .Site.BaseURL }}images/teaching-centre-hero.png" alt="Teaching Logo">
   <div class="heading">
     {{ if eq .Parent.Params.layout "list" }}
