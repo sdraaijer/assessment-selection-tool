@@ -1,4 +1,5 @@
-baseURL = "https://keep-on-teaching-rus4o.ondigitalocean.app/"
+baseURL = "https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/"
+publishDir = "docs"
 languageCode = "en-us"
 title = "Educational Redesign Aid"
 theme = "TLC-UvA-theme"
