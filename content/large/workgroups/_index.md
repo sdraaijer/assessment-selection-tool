@@ -6,4 +6,5 @@ icon: /icons/workgroups-icon.png
 date: 2020-07-31T11:05:44+02:00
 layout: single
 weight: 4
+tags: ["workgroups", "seminar"]
 ---

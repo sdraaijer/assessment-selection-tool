@@ -3,9 +3,14 @@
   <a class="header__button" href="{{ .Parent.Permalink }}">
     <img src="{{ .Site.BaseURL }}icons/back-arrow.png" alt="tile arrow" class="header__menu--icon">
     <!-- The text to go back to the course size page. -->
+    {{ if isset .Parent.Params "category" }}
     {{ .Parent.Title }}
+    {{ else }}
+    Other course sizes
+    {{ end }}
   </a>
 
+  {{ if isset .Parent.Params "category" }}
   <!-- Dash between the menu items. -->
   <span>-</span>
 
@@ -30,6 +35,7 @@
       {{ end }}
     </div>
   </div>
+  {{ end }}
 </div>
 {{ end }}
 
@@ -39,7 +45,11 @@
 <div class="banner" style="background-image: url('{{ .Params.Banner }}');">
   <img class="banner__logo" src="{{ .Site.BaseURL }}images/teaching-centre-hero.png" alt="Teaching Logo">
   <div class="heading">
+    {{ if eq .Parent.Params.layout "list" }}
     <span class="heading__overline">{{ .Parent.Title }}: {{ .Parent.Params.Subtitle }}</span>
+    {{ else }}
+    <span class="heading__overline">{{ .Title }}</span>
+    {{ end }}
     <h1 class="heading__title heading__title--big">{{ .Title }}</h1>
     <p class="heading__subtitle heading__subtitle--wider">
       {{ .RenderString .Params.Description }}
@@ -115,6 +125,7 @@
 </div>
 
 <!-- A central block for choosing the course size. -->
+{{ if isset .Parent.Params "category" }}
 <div class="block block--larger block--white">
   <div class="block__header">
     <h2 class="block__title">Other teaching methods</h2>
@@ -138,5 +149,6 @@
     {{ end }}
   </div>
 </div>
+{{ end }}
 
 {{ end }}

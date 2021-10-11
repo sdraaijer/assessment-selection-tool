@@ -1,5 +1,7 @@
 {{ define "header" }}
 <div class="header__menu">
+  {{ partial "search-form.html" . }}
+
   {{ range .Translations }}
   <a href="{{ .Permalink }}">
     <img width="auto" height="28px" src="{{ .Site.BaseURL }}icons/{{ .Lang }}.svg" alt="Language icon">
@@ -208,12 +210,15 @@
   <!-- The cards for different course sizes. -->
   <div class="block__cards">
     {{ range .Pages.ByWeight }}
+      {{ if eq .Params.layout "list" }}
       <a class="card card--shadow card--showcase" href="{{ .Permalink }}">
         <img src="{{ .Params.Icon }}" alt="course icon" class="card__icon">
         <span class="card__title">{{ .Title }}</span>
         <span class="card__subtitle">{{ .Params.Subtitle }}</span>
       </a>
+      {{ end }}
     {{ end }}
   </div>
 </div>
+{{ partial "search-index.html" . }}
 {{ end }}
