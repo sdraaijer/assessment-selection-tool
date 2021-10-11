@@ -36,11 +36,13 @@
     <!-- The cards for different course sizes. -->
     <div class="block__cards">
       {{ range .Pages.ByWeight }}
+        {{ if gt .Params.weight 0 }}
         <a class="card card--shadow card--showcase" href="{{ .Permalink }}">
           <img src="{{ .Params.Icon }}" alt="course icon" class="card__icon">
           <span class="card__title">{{ .Title }}</span>
           <span class="card__subtitle">{{ .Params.Subtitle }}</span>
         </a>
+        {{ end }}
       {{ end }}
     </div>
   </div>
@@ -210,7 +212,7 @@
   <!-- The cards for different course sizes. -->
   <div class="block__cards">
     {{ range .Pages.ByWeight }}
-      {{ if eq .Params.layout "list" }}
+      {{ if gt .Params.weight 0 }}
       <a class="card card--shadow card--showcase" href="{{ .Permalink }}">
         <img src="{{ .Params.Icon }}" alt="course icon" class="card__icon">
         <span class="card__title">{{ .Title }}</span>
