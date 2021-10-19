@@ -5,12 +5,18 @@ title = "Educational Redesign Aid"
 theme = "TLC-UvA-theme"
 defaultContentLanguage = "en"
 
-[languages]
-  [languages.en]
-    languageName = "English"
-    title = "Educational Redesign Aid"
-    weight = 1
-  [languages.nl]
-    languageName = "Nederlands"
-    title = "Educational Redesign Aid"
-    weight = 2
+[params]
+  landingpageTitle = "Taking your teaching online"
+  landingpageSubtitle = "The Teaching & Learning Centre developed an Educational Redesign Aid (ERA). It’s specifically designed to help you teach online."
+  landingpageBannerImage = "images/landing-no-logo.jpg"
+  landingpageLogoImage = "images/teaching-centre-landing.png"
+
+# [languages]
+#   [languages.en]
+#     languageName = "English"
+#     title = "Educational Redesign Aid"
+#     weight = 1
+#   [languages.nl]
+#     languageName = "Nederlands"
+#     title = "Educational Redesign Aid"
+#     weight = 2

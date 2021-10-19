@@ -1,6 +1,6 @@
 {{ define "header" }}
 <div class="header__menu">
-  {{ partial "search-form.html" . }}
+  <!-- {{ partial "search-form.html" . }} -->
 
   {{ range .Translations }}
   <a href="{{ .Permalink }}">
@@ -11,13 +11,12 @@
 {{ end }}
 
 {{ define "main" }}
-<div class="main__full-height main__background">
-  <img class="main__logo" src="{{ .Site.BaseURL }}images/teaching-centre-landing.png" alt="Teaching Logo">
+<div class="main__full-height main__background" style="background: url('{{ .Site.BaseURL }}{{ .Site.Params.landingpageBannerImage }}');">
+  <img class="main__logo" src="{{ .Site.BaseURL }}{{ .Site.Params.landingpageLogoImage }}" alt="Teaching Logo">
   <!-- The heading which contains the title and subtitle. -->
   <div class="heading heading__landing">
-    <h1 class="heading__title">Taking your teaching online</h1>
-    <p class="heading__subtitle">The Teaching & Learning Centre developed an Educational Redesign Aid (ERA). It’s
-      specifically designed to help you teach online.</p>
+    <h1 class="heading__title">{{ .Site.Params.landingpageTitle }}</h1>
+    <p class="heading__subtitle">{{ .Site.Params.landingpageSubtitle }}</p>
   </div>
 
   <!-- A central block for choosing the course size. -->
@@ -214,7 +213,7 @@
     {{ range .Pages.ByWeight }}
       {{ if gt .Params.weight 0 }}
       <a class="card card--shadow card--showcase" href="{{ .Permalink }}">
-        <img src="{{ .Params.Icon }}" alt="course icon" class="card__icon">
+        <img src="{{ .Site.BaseURL }}{{ .Params.Icon }}" alt="course icon" class="card__icon">
         <span class="card__title">{{ .Title }}</span>
         <span class="card__subtitle">{{ .Params.Subtitle }}</span>
       </a>

@@ -1,6 +1,6 @@
 {{ define "header" }}
 <div class="header__menu">
-  <a class="header__button" href="/">
+  <a class="header__button" href="{{ .Site.BaseURL }}">
     <img src="{{ .Site.BaseURL }}icons/back-arrow.png" alt="tile arrow" class="header__menu--icon">
     Other course sizes
   </a>
@@ -32,7 +32,7 @@
   <div class="block__cards">
     {{ range .Pages }}
     <a class="card card--shadow card--showcase" href="{{ .Permalink }}">
-      <img src="{{ .Params.Icon }}" alt="course icon" class="card__icon">
+      <img src="{{ .Site.BaseURL }}{{ .Params.Icon }}" alt="course icon" class="card__icon">
       <span class="card__title">
         {{ .Title }}
         <img src="{{ .Site.BaseURL }}icons/tile-arrow@2x.png" alt="tile arrow" class="card__title--icon">
@@ -67,8 +67,7 @@
     </div>
 
     <span class="block__links">
-      Show me: <a href="small.html#show_me">Small course
-        calendar</a> - <a href="medium.html#show_me">Medium course calendar</a>
+      Show me: <a href="{{ .Site.BaseURL }}small/#show_me">Small course calendar</a> - <a href="{{ .Site.BaseURL }}medium/#show_me">Medium course calendar</a> - <a href="{{ .Site.BaseURL }}large/#show_me">Large course calendar</a>
     </span>
   </div>
 </div>

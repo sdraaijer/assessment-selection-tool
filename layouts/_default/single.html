@@ -1,6 +1,5 @@
 {{ define "header" }}
 <div class="header__menu">
-{{ partial "search-form.html" . }}
   <a class="header__button" href="{{ .Parent.Permalink }}">
     <img src="{{ .Site.BaseURL }}icons/back-arrow.png" alt="tile arrow" class="header__menu--icon">
     <!-- The text to go back to the course size page. -->
@@ -64,7 +63,7 @@
 
       {{ range .Pages.ByWeight }}
       <div class="block__header block__header--with-image">
-        <img src="{{ .Params.Icon }}" alt="tips icon" class="block__header-icon">
+        <img src="{{ .Site.BaseURL }}{{ .Params.Icon }}" alt="tips icon" class="block__header-icon">
         <h2 class="block__title" id="{{ replace (lower .Title) " " "_" }}">{{ .Title }}</h2>
       </div>
       {{ if eq .Params.Expandable true }}
@@ -115,7 +114,7 @@
         <div class="card__menu-title">Jump to:</div>
         {{ range .Pages.ByWeight }}
         <a href="#{{ replace (lower .Title) " " "_" }}" class="card__action card__action--menu card__action--left">
-          <img src="{{ .Params.Menu }}" alt="expand section"
+          <img src="{{ .Site.BaseURL }}{{ .Params.Menu }}" alt="expand section"
             class="card__action--icon card__action--medium">
           <span class="card__action-text">{{ .Params.Title }}</span>
         </a>
@@ -131,7 +130,7 @@
   <div class="block__header">
     <h2 class="block__title">Other teaching methods</h2>
     <span class="block__subtitle">For {{ .Parent.Params.Category }} ({{ .Parent.Params.Subtitle }}) - </span>
-    <a href="/" class="block__header--link">change course size</a>
+    <a href="{{ .Site.BaseURL }}" class="block__header--link">change course size</a>
   </div>
 
   <!-- The cards for different activities. -->
@@ -140,7 +139,7 @@
     {{ range .Parent.Pages.ByWeight }}
     {{ if ne $current .Title }}
     <a class="card card--shadow card--showcase" href="{{ .Permalink }}">
-      <img src="{{ .Params.Icon }}" alt="course icon" class="card__icon">
+      <img src="{{ .Site.BaseURL }}{{ .Params.Icon }}" alt="course icon" class="card__icon">
       <span class="card__title">
         {{ .Title }}
         <img src="{{ .Site.BaseURL }}icons/tile-arrow@2x.png" alt="tile arrow" class="card__title--icon">
