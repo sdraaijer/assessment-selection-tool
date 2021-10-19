@@ -43,7 +43,7 @@
 {{ define "main" }}
 <!-- The heading which contains the title and subtitle. -->
 <div class="banner" style="background-image: url('{{ .Site.BaseURL }}{{ .Params.Banner }}');">
-  <img class="banner__logo" src="{{ .Site.BaseURL }}images/teaching-centre-hero.png" alt="Teaching Logo">
+  <img class="banner__logo" src="{{ .Site.BaseURL }}{{ .Site.Params.landingpageLogoImageSmall }}" alt="Teaching Logo">
   <div class="heading">
     {{ if eq .Parent.Params.layout "list" }}
     <span class="heading__overline">{{ .Parent.Title }}: {{ .Parent.Params.Subtitle }}</span>
