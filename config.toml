@@ -12,6 +12,8 @@ defaultContentLanguage = "en"
   landingpageLogoImage = "images/teaching-centre-landing.png"
   landingpageLogoImageSmall = "images/teaching-centre-hero.png"
 
+  color = "#008bc1"
+
 # [languages]
 #   [languages.en]
 #     languageName = "English"
