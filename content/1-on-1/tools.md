@@ -8,5 +8,6 @@ instructions: true
 weight: 2
 ---
 
-{{< uvaweblectures >}}
-{{< canvasdiscussionboard >}}
+{{< tool title="UvA Weblectures Link-generatorrr" subtitle="Provides a tool to select segments in weblectures." >}}
+You can find the tool <a href="http://www.avcprompt.nl/mediasite/webcollegefragment.html" target="_blank">here</a>. You can watch a 5 min video tutorial <a href="https://youtu.be/bReSP0oEPUw" target="_blank">here</a> (made by Fam te Poel, UvA TLC).
+{{< /tool >}}
