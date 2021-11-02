@@ -1,1 +1,0 @@
-../../large/group_assignments/_index.md
