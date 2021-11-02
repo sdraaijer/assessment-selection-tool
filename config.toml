@@ -3,7 +3,7 @@ publishDir = "docs"
 languageCode = "en-us"
 title = "Educational Redesign Aid"
 theme = "TLC-UvA-theme"
-defaultContentLanguage = "en"
+defaultContentLanguage = "nl"
 
 [params]
   landingpageTitle = "Taking your teaching online"
@@ -12,7 +12,7 @@ defaultContentLanguage = "en"
   landingpageLogoImage = "images/teaching-centre-landing.png"
   landingpageLogoImageSmall = "images/teaching-centre-hero.png"
 
-  color = "#008bc1"
+  color = "#9E8E67"
 
 # [languages]
 #   [languages.en]
