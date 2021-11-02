@@ -9,3 +9,11 @@ A website to showcase different remote assessment methods to use instead of the 
 ```
 dir=office_hours; size=large; ln -s ../../$size/$dir/_index.md; ln -s ../../$size/$dir/tips.md; ln -s ../../$size/$dir/tools.md; ln -s ../../$size/$dir/what.md; ln -s ../../$size/$dir/why.md
 ```
+
+brew upgrade hugo
+
+# Add config file
+
+blogdown::config_Rprofile()
+
+# set config file to hugo version 0.88.1
