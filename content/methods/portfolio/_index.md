@@ -1,5 +1,5 @@
 ---
-title: "Method name"
+title: "Portfolio"
 description: "leerwerkmap, competentieoverzicht, vaardighedendossier, verrichtingenoverzicht, presentatieportfolio, showcase, showmap, assessment portfolio, development portfolio, ontwikkelingsportfolio, beoordelingsportfolio, digitaal portfolio, e-portfolio"
 banner: /images/assessment-hero.jpg
 icon: /icons/assessment-icon.png
