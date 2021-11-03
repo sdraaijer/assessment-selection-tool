@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Method name on Assessment Redesign Aid</title>
+    <title>Projecten en Producten on Assessment Redesign Aid</title>
     <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/</link>
-    <description>Recent content in Method name on Assessment Redesign Aid</description>
+    <description>Recent content in Projecten en Producten on Assessment Redesign Aid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,8 @@
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/definition/</guid>
-      <description></description>
+      <description>Definitie Met projecten en producten past de student kennis toe op een actieve, praktische wijze binnen de gestelde kaders. Het toepassen van kennis leidt tot betere verwerking van de lesstof. Projecten en producten zijn geschikt om vast te stellen of de student kennis kan toepassen, analyseren, evalueren of creëren.
+Combineren Projecten en producten zijn minder geschikt om te beoordelen of iemand beschikt over een brede kennisbasis. In de praktijk worden projecten en producten dan ook vaak gecombineerd met toetsvormen die hiervoor wel geschikt zijn, zoals toetsen met open en/of gesloten vragen.</description>
     </item>
     
     <item>
@@ -22,7 +23,9 @@
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/online/</guid>
-      <description></description>
+      <description>Bij een project of product voert de student een afgebakende opdracht uit. Projecten hebben vaak een product als een analyse, advies, ontwerp of fabricaat als resultaat.
+Soorten poducten:
+ Analyse Een student analyseert een situatie, probleem of vraagstuk, onderscheidt hierbij hoofd- en bijzaken en/of identificeert hierbij voor- en nadelen. Advies Een advies volgt vaak op een analyse. De student integreert informatie uit verschillende bronnen om tot een onderbouwd advies te komen en een mogelijke oplossing te presenteren.</description>
     </item>
     
     <item>
@@ -31,7 +34,8 @@
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/approach/</guid>
-      <description></description>
+      <description>Voorbereiding De voorbereiding voor online projecten en producten verschilt nauwelijks van de voorbereiding bij campus onderwijs. Eerst inventariseer je welke leerdoelen behaald moeten worden door de student. Daarna ontwerp je een opdracht die ervoor zorgt dat deze leerdoelen getoond kunnen worden, bijvoorbeeld in de vorm van producten. Ook schets je de kaders waarbinnen het project of product moet worden afgerond.
+Communicatie Het is belangrijk dat de kaders zoals de beoordelingscriteria/rubric, feedbackmomenten en de inleverdatum vooraf duidelijk zijn gecommuniceerd met de student.</description>
     </item>
     
     <item>
@@ -40,7 +44,8 @@
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/tips/</guid>
-      <description></description>
+      <description>Ruim voor de inleverdatum van de laatste conceptversie van de scriptie organiseer ik een online peerfeedbacksessie. Aan de hand van een beoordelingsformulier geven studenten feedback op elkaars product. Ik merk dat het mij als docent tijd scheelt bij het geven van feedback. Veelvoorkomende fouten worden door de studenten zelf opgemerkt en aangepast.
+  Faciliteer en stimuleer zelfsturend leren binnen een project. Laat studenten persoonlijke doelen stellen binnen het project en hierop reflecteren.</description>
     </item>
     
   </channel>
