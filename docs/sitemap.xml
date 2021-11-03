@@ -31,7 +31,7 @@
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/what/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/application/what/</loc>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/application/description/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/what/</loc>
@@ -85,9 +85,6 @@
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/tools/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/application/tools/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-  </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/tools/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
@@ -110,6 +107,9 @@
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/small/observation/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/application/how/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/approach/</loc>
@@ -136,10 +136,10 @@
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/oral_exam/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/why/</loc>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/application/methods/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/application/why/</loc>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/why/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/why/</loc>

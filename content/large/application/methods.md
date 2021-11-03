@@ -5,11 +5,11 @@ menuicon: /icons/tools-menu.png
 date: 2020-07-31T11:05:44+02:00
 expandable: false
 instructions: true
-weight: 2
+weight: 3
 ---
 
-{{< tool title="UvA Assessment Documentation" subtitle="Online support for UvA lecturers on taking assignments and assessments online." >}}
-Find out more <a href="https://canvas.uva.nl/courses/41/pages/exams" target="_blank">here</a>.
+{{< tool title="Digitaal toetsen" subtitle=" " >}}
+Meer informatie vind je <a href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/" target="_blank">hier</a>.
 {{< /tool >}}
 
 {{< tool title="Canvas assessments" subtitle="Online tool for submission and online grading of assessments." >}}
