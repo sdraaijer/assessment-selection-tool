@@ -4,10 +4,22 @@
   <url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/search/</loc>
   </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/definition/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/what/</loc>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/what/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/application/what/</loc>
@@ -40,7 +52,10 @@
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/tools/</loc>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/online/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/tools/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/application/tools/</loc>
@@ -70,10 +85,13 @@
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/small/observation/tools/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/approach/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/small/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/why/</loc>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/why/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/application/why/</loc>
@@ -103,10 +121,10 @@
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/small/observation/why/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/</loc>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/tips/</loc>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/tips/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/application/tips/</loc>
@@ -125,6 +143,9 @@
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/observation/tips/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/tips/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/small/application/tips/</loc>

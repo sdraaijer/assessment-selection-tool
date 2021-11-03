@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digitaal Toetsen on Assessment Redesign Aid</title>
+    <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/</link>
+    <description>Recent content in Digitaal Toetsen on Assessment Redesign Aid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Definitie</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/definition/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/definition/</guid>
+      <description>Onder digitale toetsen verstaan we toetsen die worden afgenomen in een daarvoor gespecialiseerde applicatie. Dit kan een functionaliteit van de elektronische leeromgeving zijn als canvas, of een afzonderlijke toetsapplicatie zoals TestVision of Remindo. Met een digitale toets kan je gebruik maken van diverse vraag vormen. Deze lopen uiteen van meerkeuze vragen, drag and drop vragen tot korte essayvragen. Digitale toetsen zijn geschikt voor toetsen van de volgende cognitieve niveaus: onthouden, begrijpen, toepassen, analyseren, evalueren.</description>
+    </item>
+    
+    <item>
+      <title>Online</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/online/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/online/</guid>
+      <description>Digitale toetsen kunnen zowel op de campus als online, plaats onafhankelijk worden afgenomen. Een keuze die hierbij echter nog te maken valt is of de afname ook tijdonafhankelijk kan. Maken alle studenten de toets tegelijkertijd of kunnen ze dit op verschillende momenten doen? Voor formatieve toetsing kleven hier relatief weinig bezwaren aan. Voor summatieve toetsen heeft dat echter wel implicaties. De vragen van een eerdere afname kunnen immers uitlekken. Voor zowel plaats en tijd onafhankelijke summatieve toetsing is het raadzaam om de online proctoring goed op orde te hebben (zie ook Klinkenberg, 2021).</description>
+    </item>
+    
+    <item>
+      <title>Aanpak</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/approach/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/approach/</guid>
+      <description>Afhankelijk van de inzet van formatieve of summatieve toetsing zijn er verschillende stappen te zetten in de aanpak. Tevens bepalen de hoeveelheid studenten in je onderwijs en de hoeveelheid beschikbare nakijktijd de mogelijkheid om meer of minder vragen op te nemen die niet geautomatiseerd nagekeken kunnen worden.
+Formatief Voor aanvang Keuze van het toets systeem, bij voorkeur dezelfde als voor de summatieve toets, zodat studenten kunnen wennen aan de omgeving.</description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/tips/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/tips/</guid>
+      <description>Ik laat studenten zelf toetsvragen ontwikkelen en maak deze beschikbaar als oefenmateriaal. Een deel van de door de student ontwikkelde vragen kan gebruikt worden in de toets.
+  Koppel je leerdoelen met tags aan de formatieve en summatieve digitale toetsen en rapporteer deze resultaten aan studenten en aan jezelf als docent. Zie deze SURF uitgave. Benadruk voor de formatieve toetsing dat fouten maken is toegestaan, maar dat er wel veel energie gestoken dient te worden met in het oefenen.</description>
+    </item>
+    
+  </channel>
+</rss>
