@@ -1,0 +1,10 @@
+---
+title: "Definitie"
+icon: /icons/what-to-do.png
+menuicon: /icons/what-to-do-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: false
+instructions: false
+weight: 1
+---
+
