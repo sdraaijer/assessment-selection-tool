@@ -1,1 +1,1 @@
-Test snippet
+Het digitaal afnemen van zo'n toets heeft duidelijke voordelen, omdat de antwoorden worden gestandaardiseerd en (deels) digitaal worden nagekeken. Er zijn geen problemen met moeilijk leesbare handschriften. Door de toets op afstand af te nemen, kan de afname plaats- en tijdsonafhankelijk zijn. Er is dan geen ruimte nodig om de toets af te nemen en het kost studenten minder tijd en reiskosten. 

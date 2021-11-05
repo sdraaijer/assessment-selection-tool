@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 op 1 supervisie on Assessment Redesign Aid</title>
+    <title>Toepassing on Assessment Redesign Aid</title>
     <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/</link>
-    <description>Recent content in 1 op 1 supervisie on Assessment Redesign Aid</description>
+    <description>Recent content in Toepassing on Assessment Redesign Aid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>What to do</title>
+      <title>Beschrijving</title>
       <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/description/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/description/</guid>
-      <description>  </description>
+      <description></description>
     </item>
     
     <item>
-      <title>Tools to use</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/methods/</link>
-      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
-      
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/methods/</guid>
-      <description>{{&amp;lt; tool title=“UvA Weblectures Link-generatorrr” subtitle=“Provides a tool to select segments in weblectures.” &amp;gt;}} You can find the tool here. You can watch a 5 min video tutorial here (made by Fam te Poel, UvA TLC). {{&amp;lt; /tool &amp;gt;}}</description>
-    </item>
-    
-    <item>
-      <title>Why do this</title>
+      <title>Wat te doen</title>
       <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/how/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/how/</guid>
-      <description>  </description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toetsvormen op afstand</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/methods/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/methods/</guid>
+      <description>UvA Weblectures Link-generatorrr - Provides a tool to select segments in weblectures.  Instructions &amp; Download   You can find the tool here. You can watch a 5 min video tutorial here (made by Fam te Poel, UvA TLC).   </description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/tips/</guid>
-      <description>  </description>
+      <description></description>
     </item>
     
   </channel>

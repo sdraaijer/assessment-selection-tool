@@ -1,0 +1,1 @@
+Echter kan het nakijken van deze toetsvormen in een formatieve setting behapbaarder worden gemaakt door de studenten op te delen in groepen en/of gebruik te maken van peer feedback, waarbij studenten elkaars werk beoordelen. Ook kan het praktisch zijn om de studenten hun presentaties op te laten nemen, zodat de beoordelaar deze tijd- en plaatsonafhankelijk kan beoordelen. 

@@ -8,42 +8,32 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>What to do</title>
+      <title>Beschrijving</title>
       <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/description/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/description/</guid>
-      <description>Test snippet</description>
+      <description>Van de toetsen die op grote schaal af te nemen zijn, is een kennistoets wellicht het makkelijkst op afstand te realiseren. Denk bijvoorbeeld aan een multiple choice-toets of een toets met open vragen. Op locatie wordt een dergelijke toets vaak afgenomen in een grote sport- of collegezaal.
+Het digitaal afnemen van zo’n toets heeft duidelijke voordelen, omdat de antwoorden worden gestandaardiseerd en (deels) digitaal worden nagekeken. Er zijn geen problemen met moeilijk leesbare handschriften.</description>
     </item>
     
     <item>
-      <title>What to do</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/what/</link>
-      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
-      
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/what/</guid>
-      <description>Test snippet
-Appropriate assessment formats depend on a range of factors, including the subject matter, content complexity, course level and the number of students enrolled. Typically, they include essays, reports, presentations, skills tests, open-ended or multiple choice exams. We recommend that you review our Assessments Documentation to learn more about the digital varieties for each of the assignment and assessment options, and then determine what is most appropriate for your course.</description>
-    </item>
-    
-    <item>
-      <title>Tools to use</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/methods/</link>
-      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
-      
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/methods/</guid>
-      <description>{{&amp;lt; tool title=“UvA Assessment Documentation” subtitle=“Online support for UvA lecturers on taking assignments and assessments online.” &amp;gt;}} Find out more here. {{&amp;lt; /tool &amp;gt;}}
-{{&amp;lt; tool title=“Canvas assessments” subtitle=“Online tool for submission and online grading of assessments.” &amp;gt;}} Here are the instructions to set up an assessment in Canvas. {{&amp;lt; /tool &amp;gt;}}
-{{&amp;lt; tool title=“Canvas Rubrics” subtitle=“Online grading grid used with a Canvas assessment. Helps to grade faster and more consistently.</description>
-    </item>
-    
-    <item>
-      <title>Why do this</title>
+      <title>Wat te doen</title>
       <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/how/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/how/</guid>
-      <description>  </description>
+      <description>Het digitaal afnemen van kennistoetsen is relatief fraudegevoelig. Daarom is het nodig om maatregelen te nemen die dit tegengaan. Digitale toetssystemen kunnen mogelijkheden bieden om fraude zoveel mogelijk te voorkomen. Zo kan een toetssysteem bijvoorbeeld bepaalde computerfuncties uitschakelen, zodat studenten bijvoorbeeld tijdelijk geen externe webpagina’s kunnen openen.
+Ook kan online proctoring worden toegepast. Live monitoring houdt in dat studenten in real-time, via bijvoorbeeld een webcam of telefoon, worden bekeken.</description>
+    </item>
+    
+    <item>
+      <title>Toetsvormen op afstand</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/methods/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/methods/</guid>
+      <description>{{&amp;lt; tool title=“Digitaal toetsen” subtitle=&#34; &#34; &amp;gt;}} Meer informatie vind je hier. {{&amp;lt; /tool &amp;gt;}} {{&amp;lt; tool title=“Canvas assessments” subtitle=“Online tool for submission and online grading of assessments.” &amp;gt;}}</description>
     </item>
     
     <item>
