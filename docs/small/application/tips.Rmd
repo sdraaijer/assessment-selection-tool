@@ -8,3 +8,23 @@ instructions: false
 weight: 4
 ---
 
+```{r, child="../../snippets/knowledge/know_tips_timelimit.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_tips_ethics.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_tips_communication.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_tips_transparancy.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_tips_proctoring.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_tips_technical.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_tips_environment.md"}
+```

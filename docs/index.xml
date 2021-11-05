@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ERA on Assessment Redesign Aid</title>
+    <title>ERA on Online Assessment Aid</title>
     <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/</link>
-    <description>Recent content in ERA on Assessment Redesign Aid</description>
+    <description>Recent content in ERA on Online Assessment Aid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/description/</guid>
-      <description></description>
+      <description>  </description>
     </item>
     
     <item>
@@ -40,7 +40,8 @@
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/application/description/</guid>
-      <description></description>
+      <description>Vaak wil men niet alleen kennis toetsen, maar ook toepassingsvaardigheden. Met een digitale toets kunnen toepassingsvaardigheden worden getoetst door middel van bijvoorbeeld open vragen. Ook kan gedacht worden aan open boek-tentamens of casustoetsen. Dit is op afstand minder fraudegevoelig dan het afnemen van toetsen met alleen multiple choice-vragen, maar wel arbeidsintensiever.
+Presentaties, projecten of producten passen vaak ook goed bij het meten van toepassingsvaardigheden. Hoewel presentaties en gesprekken vaak op locatie plaatsvinden, zijn er ook mogelijkheden om dit op afstand te doen door gebruik te maken van video conferencing software zoals Zoom of Microsoft Teams.</description>
     </item>
     
     <item>
@@ -59,7 +60,7 @@ Het digitaal afnemen van zo’n toets heeft duidelijke voordelen, omdat de antwo
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/observation/description/</guid>
-      <description></description>
+      <description>  </description>
     </item>
     
     <item>
@@ -68,7 +69,7 @@ Het digitaal afnemen van zo’n toets heeft duidelijke voordelen, omdat de antwo
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/application/description/</guid>
-      <description></description>
+      <description>  </description>
     </item>
     
     <item>
@@ -98,7 +99,7 @@ know_description_oral</description>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/small/application/description/</guid>
-      <description></description>
+      <description>  </description>
     </item>
     
     <item>
@@ -240,7 +241,7 @@ Soorten poducten:
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/how/</guid>
-      <description></description>
+      <description>  </description>
     </item>
     
     <item>
@@ -267,7 +268,9 @@ Soorten poducten:
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/application/how/</guid>
-      <description></description>
+      <description>Bij groepen van meer dan 100 studenten is een toets met alleen open vragen vaak niet efficiënt.
+Wanneer zowel kennis als toepassing worden getoetst, kan de werkdruk verlicht worden door een mix van multiple choice- of invulvragen en open vragen te gebruiken. Er kan gebruik worden gemaakt van itembanken of gestandaardiseerde antwoordmodellen waarbij er bijvoorbeeld door de beoordelaar gescand wordt op het voorkomen van bepaalde termen.
+Het beoordelen van presentaties, projecten of producenten kan veel tijd kosten.</description>
     </item>
     
     <item>
@@ -286,7 +289,7 @@ Ook kan online proctoring worden toegepast. Live monitoring houdt in dat student
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/observation/how/</guid>
-      <description></description>
+      <description>  </description>
     </item>
     
     <item>
@@ -295,7 +298,7 @@ Ook kan online proctoring worden toegepast. Live monitoring houdt in dat student
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/application/how/</guid>
-      <description></description>
+      <description>  </description>
     </item>
     
     <item>
@@ -322,7 +325,7 @@ Ook kan online proctoring worden toegepast. Live monitoring houdt in dat student
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/small/application/how/</guid>
-      <description></description>
+      <description>  </description>
     </item>
     
     <item>
@@ -411,7 +414,7 @@ Communicatie Het is belangrijk dat de kaders zoals de beoordelingscriteria/rubri
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/methods/</guid>
-      <description>UvA Weblectures Link-generatorrr - Provides a tool to select segments in weblectures.  Instructions &amp; Download   You can find the tool here. You can watch a 5 min video tutorial here (made by Fam te Poel, UvA TLC).   </description>
+      <description>{{&amp;lt; tool title=“UvA Weblectures Link-generatorrr” subtitle=“Provides a tool to select segments in weblectures.” &amp;gt;}} You can find the tool here. You can watch a 5 min video tutorial here (made by Fam te Poel, UvA TLC). {{&amp;lt; /tool &amp;gt;}}</description>
     </item>
     
     <item>
@@ -438,7 +441,7 @@ Communicatie Het is belangrijk dat de kaders zoals de beoordelingscriteria/rubri
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/application/methods/</guid>
-      <description>UvA Weblectures Link-generatorrr - Provides a tool to select segments in weblectures.  Instructions &amp; Download   You can find the tool here. You can watch a 5 min video tutorial here (made by Fam te Poel, UvA TLC).   </description>
+      <description>{{&amp;lt; tool title=“UvA Weblectures Link-generatorrr” subtitle=“Provides a tool to select segments in weblectures.” &amp;gt;}} You can find the tool here. You can watch a 5 min video tutorial here (made by Fam te Poel, UvA TLC). {{&amp;lt; /tool &amp;gt;}}</description>
     </item>
     
     <item>
@@ -447,8 +450,9 @@ Communicatie Het is belangrijk dat de kaders zoals de beoordelingscriteria/rubri
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/methods/</guid>
-      <description>{{&amp;lt; tool title=“Digitaal toetsen” subtitle=&#34; &#34; &amp;gt;}} Meer informatie vind je hier. {{&amp;lt; /tool &amp;gt;}}
-{{&amp;lt; tool title=“Canvas assessments” subtitle=“Online tool for submission and online grading of assessments.” &amp;gt;}}</description>
+      <description>  Dit is een test
+Digitaal toetsen Informatie over digitaal toetsen vind je hier
+ </description>
     </item>
     
     <item>
@@ -466,7 +470,7 @@ Communicatie Het is belangrijk dat de kaders zoals de beoordelingscriteria/rubri
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/application/methods/</guid>
-      <description>UvA Weblectures Link-generatorrr - Provides a tool to select segments in weblectures.  Instructions &amp; Download   You can find the tool here. You can watch a 5 min video tutorial here (made by Fam te Poel, UvA TLC).   </description>
+      <description>{{&amp;lt; tool title=“UvA Weblectures Link-generatorrr” subtitle=“Provides a tool to select segments in weblectures.” &amp;gt;}} You can find the tool here. You can watch a 5 min video tutorial here (made by Fam te Poel, UvA TLC). {{&amp;lt; /tool &amp;gt;}}</description>
     </item>
     
     <item>
@@ -493,7 +497,7 @@ Communicatie Het is belangrijk dat de kaders zoals de beoordelingscriteria/rubri
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/small/application/methods/</guid>
-      <description>UvA Weblectures Link-generatorrr - Provides a tool to select segments in weblectures.  Instructions &amp; Download   You can find the tool here. You can watch a 5 min video tutorial here (made by Fam te Poel, UvA TLC).   </description>
+      <description>{{&amp;lt; tool title=“UvA Weblectures Link-generatorrr” subtitle=“Provides a tool to select segments in weblectures.” &amp;gt;}} You can find the tool here. You can watch a 5 min video tutorial here (made by Fam te Poel, UvA TLC). {{&amp;lt; /tool &amp;gt;}}</description>
     </item>
     
     <item>
@@ -520,7 +524,10 @@ Communicatie Het is belangrijk dat de kaders zoals de beoordelingscriteria/rubri
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/tips/</guid>
-      <description></description>
+      <description>Stel een passende tijdslimiet: teveel tijd vergroot de kans op fraude, maar tijdsnood zorgt voor stress bij studenten en minder valide toetsresultaten. Zie van Berkel (1999) voor tijdsindicaties.
+ Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
+ Zorg voor een goede communicatie met studenten.
+ Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten.</description>
     </item>
     
     <item>
@@ -547,7 +554,10 @@ Communicatie Het is belangrijk dat de kaders zoals de beoordelingscriteria/rubri
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/application/tips/</guid>
-      <description></description>
+      <description>Stel een passende tijdslimiet: teveel tijd vergroot de kans op fraude, maar tijdsnood zorgt voor stress bij studenten en minder valide toetsresultaten. Zie van Berkel (1999) voor tijdsindicaties.
+ Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
+ Zorg voor een goede communicatie met studenten.
+ Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten.</description>
     </item>
     
     <item>
@@ -557,9 +567,9 @@ Communicatie Het is belangrijk dat de kaders zoals de beoordelingscriteria/rubri
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/tips/</guid>
       <description>Stel een passende tijdslimiet: teveel tijd vergroot de kans op fraude, maar tijdsnood zorgt voor stress bij studenten en minder valide toetsresultaten. Zie van Berkel (1999) voor tijdsindicaties.
-Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
-Zorg voor een goede communicatie met studenten.
-Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera).</description>
+ Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
+ Zorg voor een goede communicatie met studenten.
+ Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten.</description>
     </item>
     
     <item>
@@ -568,7 +578,7 @@ Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/observation/tips/</guid>
-      <description></description>
+      <description>  </description>
     </item>
     
     <item>
@@ -577,7 +587,10 @@ Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/medium/application/tips/</guid>
-      <description></description>
+      <description>Stel een passende tijdslimiet: teveel tijd vergroot de kans op fraude, maar tijdsnood zorgt voor stress bij studenten en minder valide toetsresultaten. Zie van Berkel (1999) voor tijdsindicaties.
+ Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
+ Zorg voor een goede communicatie met studenten.
+ Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten.</description>
     </item>
     
     <item>
@@ -660,7 +673,10 @@ Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/small/application/tips/</guid>
-      <description></description>
+      <description>Stel een passende tijdslimiet: teveel tijd vergroot de kans op fraude, maar tijdsnood zorgt voor stress bij studenten en minder valide toetsresultaten. Zie van Berkel (1999) voor tijdsindicaties.
+ Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
+ Zorg voor een goede communicatie met studenten.
+ Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten.</description>
     </item>
     
     <item>
@@ -696,7 +712,7 @@ Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/snippets/application/app_description_presentations/</guid>
-      <description>Test snippet</description>
+      <description>Vaak wil men niet alleen kennis toetsen, maar ook toepassingsvaardigheden. Met een digitale toets kunnen toepassingsvaardigheden worden getoetst door middel van bijvoorbeeld open vragen. Ook kan gedacht worden aan open boek-tentamens of casustoetsen. Dit is op afstand minder fraudegevoelig dan het afnemen van toetsen met alleen multiple choice-vragen, maar wel arbeidsintensiever.</description>
     </item>
     
     <item>
@@ -705,7 +721,7 @@ Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/snippets/application/app_how_distance/</guid>
-      <description>Test snippet</description>
+      <description>Echter kan het nakijken van deze toetsvormen behapbaarder worden gemaakt door de studenten op te delen in groepen. In een formatieve setting kan gebruik gemaakt worden van peerfeedback, waarbij studenten elkaars werk beoordelen. Ook kan het praktisch zijn om de studenten hun presentaties op te laten nemen, zodat de beoordelaar deze tijd- en plaatsonafhankelijk kan beoordelen.</description>
     </item>
     
     <item>
@@ -948,7 +964,7 @@ Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/snippets/observation/obs_description_tasks/</guid>
-      <description>Test snippet</description>
+      <description>Vaak wil men niet alleen kennis toetsen, maar ook toepassingsvaardigheden. Met een digitale toets kunnen toepassingsvaardigheden worden getoetst door middel van bijvoorbeeld open vragen. Ook kan gedacht worden aan open boek-tentamens of casustoetsen. Dit is op afstand minder fraudegevoelig dan het afnemen van toetsen met alleen multiple choice-vragen, maar wel arbeidsintensiever.</description>
     </item>
     
     <item>

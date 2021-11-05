@@ -1,11 +1,11 @@
 ---
-title: "Tools to use"
+title: "Toetsvormen op afstand"
 icon: /icons/tools.png
 menuicon: /icons/tools-menu.png
 date: 2020-07-31T11:05:44+02:00
 expandable: false
 instructions: true
-weight: 2
+weight: 3
 ---
 
 {{< tool title="UvA Weblectures Link-generatorrr" subtitle="Provides a tool to select segments in weblectures." >}}

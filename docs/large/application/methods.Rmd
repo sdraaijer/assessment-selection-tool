@@ -1,5 +1,5 @@
 ---
-title: "Tools to use"
+title: "Toetsvormen op afstand"
 icon: /icons/tools.png
 menuicon: /icons/tools-menu.png
 date: 2020-07-31T11:05:44+02:00
@@ -8,22 +8,6 @@ instructions: true
 weight: 3
 ---
 
-{{< tool title="Digitaal toetsen" subtitle=" " >}}
-Meer informatie vind je <a href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/" target="_blank">hier</a>.
-{{< /tool >}}
-
-{{< tool title="Canvas assessments" subtitle="Online tool for submission and online grading of assessments." >}}
-Here are the instructions to <a href="https://canvas.uva.nl/courses/169/pages/creating-assignments-online-submissions?module_item_id=1424" target="_blank">set up an assessment</a> in Canvas.
-{{< /tool >}}
-
-{{< tool title="Canvas Rubrics" subtitle="Online grading grid used with a Canvas assessment. Helps to grade faster and more consistently." >}}
-Here are the instructions on how to <a href="https://canvas.uva.nl/courses/169/pages/creating-and-using-rubrics?module_item_id=1440" target="_blank">set up a rubric</a> up and how to <a href="https://community.canvaslms.com/docs/DOC-12931-4152724107" target="_blank">use rubrics for grading submissions</a>.
-{{< /tool >}}
-
-{{< tool title="SpeedGrader in Canvas" subtitle="Online tool in Canvas to provide (peer)feedback in an efficient and effective manner." >}}
-Find out more <a href="https://canvas.uva.nl/courses/169/modules/items/1441" target="_blank">here</a>.
-{{< /tool >}}
-
-{{< tool title="Feedback Fruits" subtitle="Online (peer)feedback tool in Canvas." >}}
-First, check with your ICTO team if your department uses Feedback Fruits. Here are the instructions to <a href="https://vimeo.com/252696165" target="_blank">use the peer-feedback functionality</a>.
+{{< tool title="UvA Weblectures Link-generatorrr" subtitle="Provides a tool to select segments in weblectures." >}}
+You can find the tool <a href="http://www.avcprompt.nl/mediasite/webcollegefragment.html" target="_blank">here</a>. You can watch a 5 min video tutorial <a href="https://youtu.be/bReSP0oEPUw" target="_blank">here</a> (made by Fam te Poel, UvA TLC).
 {{< /tool >}}

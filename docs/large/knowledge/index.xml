@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kennis on Assessment Redesign Aid</title>
+    <title>Kennis on Online Assessment Aid</title>
     <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/</link>
-    <description>Recent content in Kennis on Assessment Redesign Aid</description>
+    <description>Recent content in Kennis on Online Assessment Aid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/index.xml" rel="self" type="application/rss+xml" />
@@ -33,8 +33,9 @@ Ook kan online proctoring worden toegepast. Live monitoring houdt in dat student
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/methods/</guid>
-      <description>{{&amp;lt; tool title=“Digitaal toetsen” subtitle=&#34; &#34; &amp;gt;}} Meer informatie vind je hier. {{&amp;lt; /tool &amp;gt;}}
-{{&amp;lt; tool title=“Canvas assessments” subtitle=“Online tool for submission and online grading of assessments.” &amp;gt;}}</description>
+      <description>  Dit is een test
+Digitaal toetsen Informatie over digitaal toetsen vind je hier
+ </description>
     </item>
     
     <item>
@@ -44,9 +45,9 @@ Ook kan online proctoring worden toegepast. Live monitoring houdt in dat student
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/knowledge/tips/</guid>
       <description>Stel een passende tijdslimiet: teveel tijd vergroot de kans op fraude, maar tijdsnood zorgt voor stress bij studenten en minder valide toetsresultaten. Zie van Berkel (1999) voor tijdsindicaties.
-Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
-Zorg voor een goede communicatie met studenten.
-Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera).</description>
+ Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
+ Zorg voor een goede communicatie met studenten.
+ Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten.</description>
     </item>
     
   </channel>

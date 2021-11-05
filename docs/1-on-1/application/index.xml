@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Toepassing on Assessment Redesign Aid</title>
+    <title>Toepassing on Online Assessment Aid</title>
     <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/</link>
-    <description>Recent content in Toepassing on Assessment Redesign Aid</description>
+    <description>Recent content in Toepassing on Online Assessment Aid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/description/</guid>
-      <description></description>
+      <description>  </description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/how/</guid>
-      <description></description>
+      <description>  </description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/methods/</guid>
-      <description>UvA Weblectures Link-generatorrr - Provides a tool to select segments in weblectures.  Instructions &amp; Download   You can find the tool here. You can watch a 5 min video tutorial here (made by Fam te Poel, UvA TLC).   </description>
+      <description>{{&amp;lt; tool title=“UvA Weblectures Link-generatorrr” subtitle=“Provides a tool to select segments in weblectures.” &amp;gt;}} You can find the tool here. You can watch a 5 min video tutorial here (made by Fam te Poel, UvA TLC). {{&amp;lt; /tool &amp;gt;}}</description>
     </item>
     
     <item>
@@ -40,7 +40,10 @@
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/1-on-1/application/tips/</guid>
-      <description></description>
+      <description>Stel een passende tijdslimiet: teveel tijd vergroot de kans op fraude, maar tijdsnood zorgt voor stress bij studenten en minder valide toetsresultaten. Zie van Berkel (1999) voor tijdsindicaties.
+ Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
+ Zorg voor een goede communicatie met studenten.
+ Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten.</description>
     </item>
     
   </channel>
