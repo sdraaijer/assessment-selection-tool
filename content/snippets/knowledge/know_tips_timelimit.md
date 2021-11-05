@@ -1,1 +1,1 @@
-Test snippet
+* Stel een passende tijdslimiet: teveel tijd vergroot de kans op fraude, maar tijdsnood zorgt voor stress bij studenten en minder valide toetsresultaten. Zie van [Berkel (1999)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjKnODgsO_zAhVH7rsIHageBcQQFnoECAUQAQ&url=https%3A%2F%2Fwww.uu.nl%2Fsites%2Fdefault%2Ffiles%2Finschatting_beantwoordingstijd_naar_vraagtype_van_berkel_1999_ot.pdf&usg=AOvVaw0QbDntv3c6E8vkehprB403) voor tijdsindicaties.

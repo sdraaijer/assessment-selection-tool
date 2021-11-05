@@ -1,1 +1,1 @@
-Test snippet
+* Niet elke student heeft een leefomgeving die geschikt is om in alle rust een toets te maken. Bied waar mogelijk alternatieven aan, bijvoorbeeld een ruimte op de campus waar studenten kunnen zitten.

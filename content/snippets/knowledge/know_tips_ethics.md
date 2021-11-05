@@ -1,1 +1,1 @@
-Test snippet
+* Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.

@@ -1,1 +1,1 @@
-Test snippet
+Echter kan het nakijken van deze toetsvormen behapbaarder worden gemaakt door de studenten op te delen in groepen. In een formatieve setting kan gebruik gemaakt worden van peerfeedback, waarbij studenten elkaars werk beoordelen. Ook kan het praktisch zijn om de studenten hun presentaties op te laten nemen, zodat de beoordelaar deze tijd- en plaatsonafhankelijk kan beoordelen.
