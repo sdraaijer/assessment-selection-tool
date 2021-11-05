@@ -22,7 +22,7 @@
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/application/how/</guid>
-      <description></description>
+      <description>  </description>
     </item>
     
     <item>
@@ -31,7 +31,9 @@
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/application/methods/</guid>
-      <description>Digitaal toetsen -   Instructions &amp; Download   Meer informatie vind je hier.   Canvas assessments - Online tool for submission and online grading of assessments.  Instructions &amp; Download   Here are the instructions to set up an assessment in Canvas.   Canvas Rubrics - Online grading grid used with a Canvas assessment. Helps to grade faster and more consistently.  Instructions &amp; Download   Here are the instructions on how to set up a rubric up and how to use rubrics for grading submissions.</description>
+      <description>{{&amp;lt; tool title=“Digitaal toetsen” subtitle=&#34; &#34; &amp;gt;}} Meer informatie vind je hier. {{&amp;lt; /tool &amp;gt;}}
+{{&amp;lt; tool title=“Canvas assessments” subtitle=“Online tool for submission and online grading of assessments.” &amp;gt;}} Here are the instructions to set up an assessment in Canvas. {{&amp;lt; /tool &amp;gt;}}
+{{&amp;lt; tool title=“Canvas Rubrics” subtitle=“Online grading grid used with a Canvas assessment. Helps to grade faster and more consistently.” &amp;gt;}} Here are the instructions on how to set up a rubric up and how to use rubrics for grading submissions.</description>
     </item>
     
     <item>
@@ -40,7 +42,7 @@
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/large/application/tips/</guid>
-      <description></description>
+      <description>  </description>
     </item>
     
   </channel>

@@ -1,0 +1,1 @@
+Zorg voor duidelijke eisen omtrent een video-opname. Vergeet hierbij ook de audio niet. 

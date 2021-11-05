@@ -1,0 +1,1 @@
+Gebruik live opnames als het nodig is om in te grijpen of direct na te bespreken, of als de taak in één keer goed of binnen een bepaalde tijd moet worden uitgevoerd. Anders is het makkelijker om een video-opname te maken.

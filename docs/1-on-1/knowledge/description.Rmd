@@ -7,8 +7,3 @@ expandable: false
 instructions: false
 weight: 1
 ---
-
-<script src="/remote-assessment-aid/rmarkdown-libs/header-attrs/header-attrs.js"></script>
-
-
-<p>Test snippet</p>

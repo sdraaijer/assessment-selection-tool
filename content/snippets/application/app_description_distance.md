@@ -1,0 +1,1 @@
+Presentaties, projecten of producten passen vaak ook goed bij het meten van toepassingsvaardigheden. Hoewel presentaties en gesprekken vaak op locatie plaatsvinden, zijn er ook mogelijkheden om dit op afstand te doen door gebruik te maken van video conferencing software zoals Zoom of Microsoft Teams. Dit kan docenten en studenten reistijd en -kosten besparen.

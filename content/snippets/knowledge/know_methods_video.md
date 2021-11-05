@@ -1,0 +1,1 @@
+Het kan een goed idee zijn om video-opnames te maken. Zo kunnen deze achteraf teruggekeken worden, bijvoorbeeld door de beoordelaar zelf bij twijfelgevallen, of door een tweede beoordelaar. Ook voor de student kan het leerzaam zijn om de opname zelf of samen met de beoordelaar terug te kijken, om te reflecteren op de presentatie of om de beoordeling te bespreken. 

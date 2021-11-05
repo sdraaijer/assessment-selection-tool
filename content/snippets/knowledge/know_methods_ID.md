@@ -1,0 +1,1 @@
+Vraag de student een identiteitskaart of studentenpas te tonen als de beoordelaar onbekend is met de student.

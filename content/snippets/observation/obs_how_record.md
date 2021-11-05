@@ -1,0 +1,1 @@
+Een andere optie is om de student video-opnames te laten maken. Deze kunnen tijds- en plaatsonafhankelijk worden uitgevoerd en bekeken.

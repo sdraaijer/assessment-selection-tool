@@ -1,0 +1,1 @@
+Het digitaal afnemen van kennistoetsen is relatief fraudegevoelig. Daarom is het nodig om maatregelen te nemen die dit tegengaan. Digitale toetssystemen kunnen mogelijkheden bieden om fraude zoveel mogelijk te voorkomen. Zo kan een toetssysteem bijvoorbeeld bepaalde computerfuncties uitschakelen, zodat studenten bijvoorbeeld tijdelijk geen externe webpagina’s kunnen openen.

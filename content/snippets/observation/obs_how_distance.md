@@ -1,0 +1,1 @@
+Sommige handelingen kunnen door de student thuis (of op een andere locatie naar keuze) worden uitgevoerd, bijvoorbeeld het voeren van een gesprek of het gebruiken van software. Andere handelingen, zoals een voorstelling in een theater of een handeling die op de stageplek plaatsvindt, zijn minder eenvoudig plaatsonafhankelijk te toetsen.

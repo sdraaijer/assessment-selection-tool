@@ -1,0 +1,1 @@
+Indien de studenten zelf filmapparatuur neer moeten zetten, geef ze dan een checklist met duidelijke eisen mee om ervoor te zorgen dat alles goed zichtbaar is. Laat de student deze ergens neerzetten waar er geen andere mensen voor langs lopen. 

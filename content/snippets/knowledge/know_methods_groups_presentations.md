@@ -1,0 +1,1 @@
+Deel de studenten wanneer mogelijk op in groepen en laat ze per groep presenteren om de beoordelingstijd te beperken. 
