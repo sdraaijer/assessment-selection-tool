@@ -7,3 +7,12 @@ expandable: false
 instructions: false
 weight: 4
 ---
+
+```{r, child="../../snippets/observation/obs_tips_equipment.md"}
+```
+
+```{r, child="../../snippets/observation/obs_tips_visibility.md"}
+```
+
+```{r, child="../../snippets/observation/obs_tips_peerfeedback.md"}
+```
