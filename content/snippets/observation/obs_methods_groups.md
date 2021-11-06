@@ -1,1 +1,1 @@
-Op deze schaal is deze toetsvorm vooral haalbaar bij presentaties of voorstellingen in groepen. 
+* Op deze schaal is deze toetsvorm vooral haalbaar bij presentaties of voorstellingen in groepen. 

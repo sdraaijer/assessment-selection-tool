@@ -1,1 +1,1 @@
-Bij formatief evalueren kan er gebruik worden gemaakt van peerfeedback.
+* Bij formatief evalueren kan er gebruik worden gemaakt van peerfeedback.

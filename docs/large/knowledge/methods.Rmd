@@ -8,7 +8,13 @@ instructions: false
 weight: 3
 ---
 
-Dit is een test
+## [Digitale toets](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/)
 
-## Digitaal toetsen
-Informatie over digitaal toetsen vind je [hier](link)
+```{r, child="../../snippets/knowledge/know_methods_mc.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_methods_limitations.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_methods_breakoutrooms.md"}
+```

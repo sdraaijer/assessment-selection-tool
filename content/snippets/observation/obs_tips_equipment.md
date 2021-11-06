@@ -1,1 +1,1 @@
-Test snippet
+* Voor het maken van de opnames is vaak apparatuur nodig zoals een goede camera, een statief en één of meerdere microfoons. Deze apparatuur moet voor de student beschikbaar worden gesteld. Er is apparatuur beschikbaar die speciaal ontwikkeld is voor het opnemen van vaardigheden, bijvoorbeeld apparatuur om lessen op te nemen.
