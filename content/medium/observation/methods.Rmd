@@ -26,5 +26,18 @@ Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-ai
 Klik [hier](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/observations/) voor meer informatie over observaties.  
 <br> 
 
+```{r, child="../../snippets/observation/obs_methods_videoaudio.md"}
+```
+
+```{r, child="../../snippets/observation/obs_methods_live.md"}
+```
+
 ## Portfolio
 Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/portfolio/) voor meer informatie over portfolio’s.  
+
+```{r, child="../../snippets/observation/obs_methods_videoaudio.md"}
+```
+
+```{r, child="../../snippets/observation/obs_methods_live.md"}
+```
+
