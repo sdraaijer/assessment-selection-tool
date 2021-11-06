@@ -8,7 +8,6 @@ instructions: false
 weight: 3
 ---
 
-
 ## Presentaties
 Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/presentation) voor meer informatie over presentaties.  
 <br>

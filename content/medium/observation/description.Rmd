@@ -7,3 +7,9 @@ expandable: true
 instructions: false
 weight: 1
 ---
+
+```{r, child="../../snippets/observation/obs_description_tasks.md"}
+```
+
+```{r, child="../../snippets/observation/obs_description_situation.md"}
+```

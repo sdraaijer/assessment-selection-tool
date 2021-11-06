@@ -4,10 +4,27 @@ icon: /icons/tools.png
 menuicon: /icons/tools-menu.png
 date: 2020-07-31T11:05:44+02:00
 expandable: false
-instructions: true
+instructions: false
 weight: 3
 ---
 
-{{< tool title="UvA Weblectures Link-generatorrr" subtitle="Provides a tool to select segments in weblectures." >}}
-You can find the tool <a href="http://www.avcprompt.nl/mediasite/webcollegefragment.html" target="_blank">here</a>. You can watch a 5 min video tutorial <a href="https://youtu.be/bReSP0oEPUw" target="_blank">here</a> (made by Fam te Poel, UvA TLC).
-{{< /tool >}}
+## Presentaties
+Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/presentation) voor meer informatie over presentaties.  
+<br>
+
+**Tips voor deze toetsvorm**
+```{r, child="../../snippets/observation/obs_methods_groups.md"}
+```
+
+```{r, child="../../snippets/observation/obs_methods_videoaudio.md"}
+```
+
+```{r, child="../../snippets/observation/obs_methods_live.md"}
+```
+
+## Observaties
+Klik [hier](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/observations/) voor meer informatie over observaties.  
+<br> 
+
+## Portfolio
+Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/portfolio/) voor meer informatie over portfolio’s.  
