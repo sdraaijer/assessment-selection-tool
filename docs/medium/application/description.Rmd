@@ -7,3 +7,11 @@ expandable: true
 instructions: false
 weight: 1
 ---
+
+```{r, child="../../snippets/application/app_description_presentations.md"}
+```
+Wees daarom realistisch over wat er mogelijk is in de tijd die je beschikbaar hebt.  
+
+```{r, child="../../snippets/application/app_description_distance.md"}
+```
+  

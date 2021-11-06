@@ -1,1 +1,0 @@
-* De technische eisen moeten vooraf duidelijk zijn. Studenten moeten in ieder geval beschikken over een stabiele internetverbinding. Wanneer er bepaalde computerspecificaties vereist zijn voor het toetssysteem, is dat ook belangrijk om te communiceren, en alternatieven te bieden wanneer studenten hier niet over beschikken.

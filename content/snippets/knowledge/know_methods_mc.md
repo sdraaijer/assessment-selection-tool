@@ -1,1 +1,1 @@
-Test snippet
+* Wanneer het aantal studenten te groot is om gebruik te maken van veel open vragen, kan er een multiple choice-toets of een toets met invulvragen worden gebruikt. Het belang van de overige genoemde maatregelen om fraude tegen te gaan wordt dan groter.

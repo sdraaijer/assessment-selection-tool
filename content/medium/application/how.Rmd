@@ -7,3 +7,8 @@ expandable: false
 instructions: false
 weight: 2
 ---
+
+Afhankelijk van de beschikbare tijd en mankracht, kan het op deze schaal nog steeds te arbeidsintensief zijn om alleen open vragen na te kijken. 
+
+```{r, child="../../snippets/application/app_how_distance.md"}
+```

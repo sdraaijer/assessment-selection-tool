@@ -1,1 +1,1 @@
-Wanneer live monitoring gewenst is, splits de studenten dan op in groepen. In dat geval kan er een surveillant aanwezig zijn per break-out room.
+* Stel bij open vragen beperkingen aan de antwoorden van studenten, bijvoorbeeld in het aantal woorden of in de inhoud van de antwoorden, om te uitgebreide antwoorden te voorkomen. 
