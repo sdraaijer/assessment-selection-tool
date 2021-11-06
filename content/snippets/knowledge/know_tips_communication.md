@@ -1,1 +1,1 @@
-* Zorg voor een goede communicatie met studenten. 
+* Zorg voor een goede communicatie met studenten.
