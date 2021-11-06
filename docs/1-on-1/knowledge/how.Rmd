@@ -1,9 +1,11 @@
 ---
-title: "Why do this"
-icon: /icons/why-do-this.png
-menuicon: /icons/why-do-this-menu.png
+title: "Wat te doen"
+icon: /icons/what-to-do.png
+menuicon: /icons/what-to-do-menu.png
 date: 2020-07-31T11:05:44+02:00
-expandable: true
+expandable: false
 instructions: false
-weight: 3
+weight: 2
 ---
+
+Ook op deze schaal kan online proctoring worden toegepast. Live monitoring is hier de meest voor de hand liggende optie. Dit houdt in dat studenten in real-time, via bijvoorbeeld een webcam of telefoon, worden bekeken.  
