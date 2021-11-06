@@ -7,3 +7,5 @@ expandable: false
 instructions: false
 weight: 2
 ---
+
+Ook op deze schaal kan online proctoring worden toegepast. Live monitoring is hier de meest voor de hand liggende optie. Dit houdt in dat studenten in real-time, via bijvoorbeeld een webcam of telefoon, worden bekeken.  

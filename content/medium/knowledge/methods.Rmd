@@ -52,3 +52,6 @@ Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-ai
 
 ```{r, child="../../snippets/knowledge/know_methods_peerfeedback.md"}
 ```
+
+```{r, child="../../snippets/knowledge/know_methods_ID.md"}
+```

@@ -7,3 +7,15 @@ expandable: false
 instructions: false
 weight: 2
 ---
+
+```{r, child="../../snippets/knowledge/know_how_fraud.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_how_proctoring.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_how_itembanks.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_how_formative.md"}
+```

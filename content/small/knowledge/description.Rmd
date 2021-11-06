@@ -7,3 +7,12 @@ expandable: true
 instructions: false
 weight: 1
 ---
+
+Een voor de hand liggende vorm van een kennistoets is een multiple choice-toets of een toets met open vragen.  
+
+```{r, child="../../snippets/knowledge/know_description_advantages.md"}
+```
+
+Op een kleine schaal zijn er ook andere mogelijkheden om kennis te toetsen, bijvoorbeeld een (groeps)presentatie of mondeling examen.
+```{r, child="../../snippets/knowledge/know_description_oral.md"}
+```
