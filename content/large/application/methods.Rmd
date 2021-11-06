@@ -39,3 +39,11 @@ Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-ai
 
 ```{r, child="../../snippets/knowledge/know_methods_peerfeedback.md"}
 ```
+
+## Projecten en producten
+Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/) voor meer informatie over projecten en producten.  
+<br>
+
+**Tips voor deze toetsvorm**
+```{r, child="../../snippets/application/app_methods_groups.md"}
+```
