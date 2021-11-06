@@ -1,0 +1,21 @@
+---
+title: "Wat te doen"
+icon: /icons/what-to-do.png
+menuicon: /icons/what-to-do-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: false
+instructions: false
+weight: 2
+---
+
+```{r, child="../../snippets/knowledge/know_how_fraud.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_how_proctoring.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_how_itembanks.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_how_formative.md"}
+```
