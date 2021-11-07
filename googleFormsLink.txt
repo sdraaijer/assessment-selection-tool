@@ -1,0 +1,7 @@
+op pagina single.html
+
+op regel 70
+
+        <!-- Add feedback link -->
+        <a class="feedbackBTN" href="https://docs.google.com/forms/d/e/1FAIpQLSeIJp2KUWZrkWc4ynzizsIxewydEeeIXE62wU1K2nbr1Ge_CA/viewform?usp=pp_url&entry.1613502009={{ .Permalink }}">Feedback</a>
+        
