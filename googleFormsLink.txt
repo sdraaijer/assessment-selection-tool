@@ -3,5 +3,33 @@ op pagina single.html
 op regel 70
 
         <!-- Add feedback link -->
-        <a class="feedbackBTN" href="https://docs.google.com/forms/d/e/1FAIpQLSeIJp2KUWZrkWc4ynzizsIxewydEeeIXE62wU1K2nbr1Ge_CA/viewform?usp=pp_url&entry.1613502009={{ .Permalink }}">Feedback</a>
+        <a class="feedbackBTN" style="border: 1px solid #fedb00; background-color: #fedb00;" href="https://docs.google.com/forms/d/e/1FAIpQLSeIJp2KUWZrkWc4ynzizsIxewydEeeIXE62wU1K2nbr1Ge_CA/viewform?usp=pp_url&entry.1613502009={{ .Permalink }}">Feedback</a>
         
+.feedbackBTN {
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: 0;
+    -webkit-transition: all .2s ease;
+    color: #000;
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: middle;
+    transition: all .2s ease;
+    font-family: "Proxima Soft",sans-serif;
+    font-weight: 600;
+    line-height: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    border-radius: 8px;
+    border: 1px solid #fedb00;
+    background-color: #fedb00;
+    padding-right: 15px;
+    padding-left: 15px;
+}
