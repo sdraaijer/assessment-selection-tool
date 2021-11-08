@@ -8,7 +8,7 @@ defaultContentLanguage = "nl"
 [params]
   landingpageTitle = "Breng je toetsing online"
   landingpageSubtitle = "De werkgroep toetsen op afstand heeft deze keuze tool voor toetsen ontwikkeld. Op basis van jouw onderwijssituatie kom je snel tot de geschikte toetsmethoden."
-  landingpageBannerImage = "images/landing-no-logo.jpg"
+  landingpageBannerImage = "images/landing-no-logo-2.jpg"
   landingpageLogoImage = "images/toetsendiap.png"
   landingpageLogoImageSmall = "images/toetsendiap.png"
 
