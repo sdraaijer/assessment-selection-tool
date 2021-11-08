@@ -8,9 +8,7 @@ instructions: false
 weight: 2
 ---
 
-Bij een project of product voert de student een afgebakende opdracht uit. Projecten hebben vaak een product als een analyse, advies, ontwerp of fabricaat als resultaat. 
-
-Soorten poducten:
+Bij een project of product voert de student een afgebakende opdracht uit. Projecten hebben vaak een product als een analyse, advies, ontwerp, fabricaat of essay als resultaat: 
 
 *	**Analyse** Een student analyseert een situatie, probleem of vraagstuk, onderscheidt hierbij hoofd- en bijzaken en/of identificeert hierbij voor- en nadelen. 
 *	**Advies** Een advies volgt vaak op een analyse. De student integreert informatie uit verschillende bronnen om tot een onderbouwd advies te komen en een mogelijke oplossing te presenteren. 
@@ -20,7 +18,7 @@ Soorten poducten:
 
 Bovenstaande producten kunnen natuurlijk ook gecombineerd worden tot één eindproduct. Zo is een onderzoeksverslag bijvoorbeeld een combinatie van analyse, essay en advies.
 
-Studenten leveren het werk vaak digitaal via het leer management systeem in. Hierdoor kan beoordeling op afstand eenvoudig plaatsvinden. Voor fysieke fabricaten kan gebruik worden gemaakt van een zelfgemaakte opname of een livestream demonstratie.
+Studenten leveren het werk vaak digitaal via een leer management systeem (LMS) in. Hierdoor kan beoordeling op afstand eenvoudig plaatsvinden. Voor fysieke fabricaten kan gebruik worden gemaakt van een zelfgemaakte opname of een livestream demonstratie.
 
 ## Voor- en nadelen
 
