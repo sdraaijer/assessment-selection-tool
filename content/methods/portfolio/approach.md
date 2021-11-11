@@ -20,7 +20,7 @@ Gedurende het portfolio traject kunnen verschillende online bijeenkomsten worden
 
 ## Na afloop 
 
-Ter afronding kan ook het assessment gesprek online plaatsvinden. Dit kan in sommige gevallen gecombineerd worden met een online persentatie waarin de kandidaat de de verzamelde bewijsstukken in het portfolio toelicht.
+Ter afronding kan ook het assessment gesprek online plaatsvinden. Dit kan in sommige gevallen gecombineerd worden met een online presentatie waarin de kandidaat de de verzamelde bewijsstukken in het portfolio toelicht.
 
 ## Aandachtspunten 
 
