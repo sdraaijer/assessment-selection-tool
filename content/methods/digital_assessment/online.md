@@ -12,8 +12,8 @@ Digitale toetsen kunnen zowel op de campus als online, plaatsonafhankelijk worde
 
 ## Formatief
 
-Bij op afstand inzetten van formatieve toetsen kan je denken aan digitale oefentoetsen voor een tentamen dat alle leerdoelen van het tentamen bevat, maar ook aan toetsen die een beperkt leerdoel bevragen. Zoals een digitale formatieve toets die random vragen selecteert uit een grote vragenbank over een bepaald onderwerp. Een andere mogelijkheid is het inzetten van een oefentoets als een didactisch leerinstrument. Hierbij kan de toets bijvoorbeeld zowel instructie in de vorm van kennisclips, tekst, beeld en bestanden bevatten. Een voorbeeld hiervan is een Exceltoets waarin eerst wordt uitgelegd hoe je excel moet gebruiken, je een Excel file kan downloaden, een bepaalde handeling moet uitvoeren en in een invul veld kan aangeven wat een bepaalde uitkomst is van de handeling.
-De resultaten van de formatieve toetsen zijn zowel waardervol voor de student als voor de docent. Beiden krijgen hiermee inzicht in waar studenten staan in het leerproces, maar ook waar de hiaten zich nog bevinden.
+Bij op afstand inzetten van formatieve toetsen kan je denken aan digitale oefentoetsen voor een tentamen dat alle leerdoelen van het tentamen bevat, maar ook aan toetsen die een beperkt leerdoel bevragen. Zoals een digitale formatieve toets die random vragen selecteert uit een grote vragenbank over een bepaald onderwerp. Een andere mogelijkheid is het inzetten van een oefentoets als een didactisch leerinstrument. Hierbij kan de toets bijvoorbeeld zowel instructie in de vorm van kennisclips, tekst, beeld en bestanden bevatten. Een voorbeeld hiervan is een Exceltoets waarin eerst wordt uitgelegd hoe je excel moet gebruiken, je een Excel file kan downloaden, een bepaalde handeling moet uitvoeren en in een invulveld kan aangeven wat een bepaalde uitkomst is van de handeling.
+De resultaten van de formatieve toetsen zijn zowel waardervol voor de student als voor de docent. Beiden krijgen hiermee inzicht in waar de student staat in het leerproces, maar ook waar de hiaten zich nog bevinden.
 
 ### Voor en nadelen 
 
