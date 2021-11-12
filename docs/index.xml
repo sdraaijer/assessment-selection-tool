@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ERA on Online Assessment Aid</title>
+    <title>ERA on Assessment Selection Tool</title>
     <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/</link>
-    <description>Recent content in ERA on Online Assessment Aid</description>
+    <description>Recent content in ERA on Assessment Selection Tool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/index.xml" rel="self" type="application/rss+xml" />
@@ -129,7 +129,7 @@ Het digitaal afnemen van zo’n toets heeft duidelijke voordelen, omdat de antwo
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/definition/</guid>
-      <description>Onder digitale toetsen verstaan we toetsen die worden afgenomen in een daarvoor gespecialiseerde applicatie. Dit kan een functionaliteit van de elektronische leeromgeving zijn als canvas, of een afzonderlijke toetsapplicatie zoals TestVision of Remindo. Met een digitale toets kan je gebruik maken van diverse vraag vormen. Deze lopen uiteen van meerkeuze vragen, drag and drop vragen tot korte essayvragen. Digitale toetsen zijn geschikt voor toetsen van de volgende cognitieve niveaus: onthouden, begrijpen, toepassen, analyseren, evalueren.</description>
+      <description>Onder digitale toetsen verstaan we toetsen die worden afgenomen in een daarvoor gespecialiseerde applicatie. Dit kan een functionaliteit van de elektronische leeromgeving zijn als canvas, of een afzonderlijke toetsapplicatie zoals TestVision of Remindo. Met een digitale toets kan je gebruik maken van diverse vraagvormen. Deze lopen uiteen van meerkeuze vragen, drag and drop vragen tot korte essayvragen. Digitale toetsen zijn geschikt voor toetsen van de volgende cognitieve niveaus: onthouden, begrijpen, toepassen, analyseren, evalueren.</description>
     </item>
     
     <item>
@@ -157,7 +157,7 @@ Een mondelinge toets wordt vaak gebruikt in combinatie met andere toetsvormen. V
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/portfolio/definition/</guid>
-      <description>Definitie Een portfolio is een verzamelingen documenten/bestanden die aantonen dat de student bepaalde competenties bezit en/of zich ontwikkelt. In het portfolio kunnen dus ook andere toetsvormen opgenomen zijn. Een portfolio bevat meestal reflecties van de student en wordt vaak over een langere tijd opgebouwd, waarmee het inzicht kan geven in de ontwikkeling en zelfsturende leervaardigheden van de student. Hierdoor is een portfolio ook erg geschikt voor formatief gebruik. Vaak wordt (een gedeelte van) het portfolio ook gebruikt voor summatieve toetsing.</description>
+      <description>Een portfolio is een verzameling documenten/bestanden die aantonen dat de student bepaalde competenties bezit en/of zich ontwikkelt. In het portfolio kunnen dus ook andere toetsvormen opgenomen zijn. Een portfolio bevat meestal reflecties van de student en wordt vaak over een langere tijd opgebouwd, waarmee het inzicht kan geven in de ontwikkeling en zelfsturende leervaardigheden van de student. Hierdoor is een portfolio ook erg geschikt voor formatief gebruik. Vaak wordt (een gedeelte van) het portfolio ook gebruikt voor summatieve toetsing.</description>
     </item>
     
     <item>
@@ -185,7 +185,7 @@ Projecten en producten zijn minder geschikt om te beoordelen of iemand beschikt 
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/online/</guid>
-      <description>Digitale toetsen kunnen zowel op de campus als online, plaats onafhankelijk worden afgenomen. Een keuze die hierbij echter nog te maken valt is of de afname ook tijdonafhankelijk kan. Maken alle studenten de toets tegelijkertijd of kunnen ze dit op verschillende momenten doen? Voor formatieve toetsing kleven hier relatief weinig bezwaren aan. Voor summatieve toetsen heeft dat echter wel implicaties. De vragen van een eerdere afname kunnen immers uitlekken. Voor zowel plaats en tijd onafhankelijke summatieve toetsing is het raadzaam om de online proctoring goed op orde te hebben (zie ook Klinkenberg, 2021).</description>
+      <description>Digitale toetsen kunnen zowel op de campus als online, plaatsonafhankelijk worden afgenomen. Een keuze die hierbij echter nog te maken valt is of de afname ook tijdonafhankelijk kan. Maken alle studenten de toets tegelijkertijd of kunnen ze dit op verschillende momenten doen? Voor formatieve toetsing kleven hier relatief weinig bezwaren aan. Voor summatieve toetsen heeft dat echter wel implicaties. De vragen van een eerdere afname kunnen immers uitlekken. Voor zowel plaats en tijd onafhankelijke summatieve toetsing is het raadzaam om de online proctoring goed op orde te hebben (zie ook Klinkenberg, 2021).</description>
     </item>
     
     <item>
@@ -213,8 +213,8 @@ Projecten en producten zijn minder geschikt om te beoordelen of iemand beschikt 
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/portfolio/online/</guid>
-      <description>Als onnline toetsvorm kan het portfolio op de zelfde manier ingezet worden al in de reguliere setting. De drie vormen zijn daarbij:
- Showcase In een showcase (ook wel presentatieportfolio of showmap) verzamelt de student werk om de kwaliteit ervan te bewijzen. De student gebruikt dit bijvoorbeeld bij een sollicitatie. Assessmentportfolio In een assessmentportfolio (ook wel beoordelingsportfolio) verzamelt de student werk dat aantoont dat een bepaalde (set) competentie(s) of vaardigheid behaald is.</description>
+      <description>Als online toetsvorm kan het portfolio op dezelfde manier ingezet worden al in de reguliere setting. De drie vormen zijn daarbij:
+ Beoordelingsportfolio In een beoordelingsportfolio (ook wel assessmentportfolio) verzamelt de student werk dat aantoont dat een bepaalde (set) competentie(s) of vaardigheid behaald is. Vaak wordt ook feedback van medestudenten, docenten, begeleiders en/of externen bijgevoegd, dit geeft de assessoren nog rijkere informatie. Dit type portfolio wordt voornamelijk gebruikt bij formele beoordelingsmomenten.</description>
     </item>
     
     <item>
@@ -233,8 +233,7 @@ Voordelen  Kan synchroon of asynchroon afgenomen worden Plaats onafhankelijk Kan
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/online/</guid>
-      <description>Bij een project of product voert de student een afgebakende opdracht uit. Projecten hebben vaak een product als een analyse, advies, ontwerp of fabricaat als resultaat.
-Soorten poducten:
+      <description>Bij een project of product voert de student een afgebakende opdracht uit. Projecten hebben vaak een product als een analyse, advies, ontwerp, fabricaat of essay als resultaat:
  Analyse Een student analyseert een situatie, probleem of vraagstuk, onderscheidt hierbij hoofd- en bijzaken en/of identificeert hierbij voor- en nadelen. Advies Een advies volgt vaak op een analyse. De student integreert informatie uit verschillende bronnen om tot een onderbouwd advies te komen en een mogelijke oplossing te presenteren.</description>
     </item>
     
@@ -418,7 +417,7 @@ Anticiperen op technische problemen Het organiseren van online presentaties vers
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/approach/</guid>
       <description>Voorbereiding De voorbereiding voor online projecten en producten verschilt nauwelijks van de voorbereiding bij campus onderwijs. Eerst inventariseer je welke leerdoelen behaald moeten worden door de student. Daarna ontwerp je een opdracht die ervoor zorgt dat deze leerdoelen getoond kunnen worden, bijvoorbeeld in de vorm van producten. Ook schets je de kaders waarbinnen het project of product moet worden afgerond.
-Communicatie Het is belangrijk dat de kaders zoals de beoordelingscriteria/rubric, feedbackmomenten en de inleverdatum vooraf duidelijk zijn gecommuniceerd met de student.</description>
+Het is belangrijk dat de kaders zoals de beoordelingscriteria/rubric, feedbackmomenten en de inleverdatum vooraf duidelijk zijn gecommuniceerd met de student.</description>
     </item>
     
     <item>
@@ -760,6 +759,60 @@ Tips voor deze toetsvorm
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/small/observation/tips/</guid>
       <description>Voor het maken van de opnames is vaak apparatuur nodig zoals een goede camera, een statief en één of meerdere microfoons. Deze apparatuur moet voor de student beschikbaar worden gesteld. Er is apparatuur beschikbaar die speciaal ontwikkeld is voor het opnemen van vaardigheden, bijvoorbeeld apparatuur om lessen op te nemen.
  Indien de studenten zelf filmapparatuur neer moeten zetten, geef ze dan een checklist met duidelijke eisen mee om ervoor te zorgen dat alles goed zichtbaar is.</description>
+    </item>
+    
+    <item>
+      <title>References</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/presentation/references/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/presentation/references/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Referenties</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/references/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/references/</guid>
+      <description>Het minimalizeren van fraude bij kennistoetsen op afstand (zonder inzet van online proctoring) Nguyen, Keuseman, and Humston (2020). Handboek itembanken SURF: Introductie, stappenplan en verdiepende informatie over het opbouwen van een relevante, beheersbare en bruikbare itembank. Handboek proctoring SURF: 1) Een uitleg over online proctoring 2) Een toelichting over het privacy aspect van online proctoring 3) Een toelichting over fraudepreventie door middel van online proctoring. Molkenboer (2015) boek over het opzetten van toetsen met open en gesloten vragen.</description>
+    </item>
+    
+    <item>
+      <title>Referenties</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/observations/references/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/observations/references/</guid>
+      <description>   Toetsen in het hoger onderwijs (Van Berkel, Bax, and Joosten-ten Brinke 2017) is een algemeen boek over toetsen waarin in het hoofdstuk performance assessment verder wordt ingegaan op het toetsen van observeerbare handelingen. Zeer nuttige informatie over het waarborgen van de betrouwbaarheid en validiteit bij deze toetsvorm.  Bibliografie Van Berkel, Henk, Anneke Bax, and Desirée Joosten-ten Brinke. 2017. Toetsen in Het Hoger Onderwijs. Springer.    </description>
+    </item>
+    
+    <item>
+      <title>Referenties</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/oral_exam/references/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/oral_exam/references/</guid>
+      <description>When old becomes new (Akimov and Malin 2020), in dit artikel staat beschreven hoe een online mondeling kan worden ingezet als toetsvorm op afstand of als aanvulling op andere toetsvorm. Het online mondeling wordt vooral gebruikt als interview. Er worden tips gegeven om de betrouwbaarheid en validiteit van deze toetsvorm op afstand te kunnen waarborgen. Een artikel van de open universiteit over online modelinge toetsen. Hierin worden kort de belangrijkste procedurele aspecten van een online mondelinge toets uitgelegd.</description>
+    </item>
+    
+    <item>
+      <title>Referenties</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/portfolio/references/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/portfolio/references/</guid>
+      <description>   Paper van surf over de inzet van e-portfolio’s. Wat is een e-portfolio? E-portfolio in de praktijk, Tools voor e-portfolio, Conclusies en aanbevelingen.  </description>
+    </item>
+    
+    <item>
+      <title>Referenties</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/references/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/references/</guid>
+      <description>Handreiking van de VU waarin variaties in geschreven toetsproducten worden gegeven. Toetsen in het hogeronderwijs (Van Berkel, Bax, and Joosten-ten Brinke 2017), weergave van het belang van feedback op het leerproces. Toetswijzer competentiegericht begeleiden &amp;amp; beoordelen in het hoger onderwijs. Fontys Facilitair Bedrijf, afdeling Onderwijs: Centrum voor onderwijsinnovatie en onderzoek. Peer assessment als leermiddel. Voorbeelden uit het hoger onderwijs (Van den Berg, Pilot, and Admiraal 2005). Projectonderwijs als innovatie in het hoger onderwijs (Van Woerden 1985).</description>
     </item>
     
     <item>
