@@ -17,9 +17,9 @@ De resultaten van de formatieve toetsen zijn zowel waardervol voor de student al
 
 ### Voor en nadelen 
 
-+ student kan just in time, binnen het leerproces, direct feedback ontvangen.
++ Student kan just in time, binnen het leerproces, direct feedback ontvangen.
 + Niet afhankelijk van de docent, maar door het systeem.
-+ Geen nakijktijd, maar kwalitatieve feedback is wel toe te voegen.
++ Antwoorden kunnen geautomatiseerd nagekeken worden en narratieve feedback is toe te voegen.
 + Resultaten van studenten kunnen voor hen zelf als voor de docent input geven in het leerproces.
 - Het kost tijd om goede opdrachten te maken en te fine tunen.
 
