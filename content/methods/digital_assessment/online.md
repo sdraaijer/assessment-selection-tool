@@ -26,7 +26,7 @@ De resultaten van de formatieve toetsen zijn zowel waardervol voor de student al
 ## Summatief
 
 De inzet van digitale toetsen voor cijfer bepaling heeft op afstand behoorlijk wat voeten in de aarde. Om de authenticiteit van de toets te kunnen borgen, is het noodzakelijk dat kan worden vastgesteld dat de identiteit van de student gedurende de gehele toetsafname kan worden geverifieerd.
-Online proctoring biedt hier een uitkomst, maar de effectiviteit hangt sterk af van de gekozen toepassing. Er zijn grofweg vier vormen van online proctoring te onderscheiden (SURF, 2020):.
+Online proctoring biedt hier een uitkomst, maar de effectiviteit hangt sterk af van de gekozen toepassing. Er zijn grofweg vier vormen van online proctoring te onderscheiden (SURF, 2020):
 
 *	Live toezicht met conferencing software (SURF whitepaper §1.2)
 *	Live proctoring met proctoring software (SURF whitepaper §1.3)
