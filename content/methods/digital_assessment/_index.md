@@ -1,5 +1,5 @@
 ---
-title: "Digitaal Toetsen"
+title: "Digitale Toetsen"
 description: "Alternative names"
 banner: /images/assessment-hero.jpg
 icon: /icons/assessment-icon.png
