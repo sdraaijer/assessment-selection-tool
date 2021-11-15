@@ -2,7 +2,7 @@ baseURL = "https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/
 publishDir = "docs"
 languageCode = "en-us"
 title = "Assessment Selection Tool"
-theme = "TLC-UvA-theme"
+theme = "Selection-Theme"
 defaultContentLanguage = "nl"
 
 [params]

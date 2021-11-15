@@ -1,0 +1,10 @@
+name = "TLC UvA Theme"
+license = "MIT"
+description = ""
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "Ivan de Wolf"
+  homepage = "ivandewolf.nl"
