@@ -109,7 +109,8 @@ footer {
   display: grid;
   -ms-grid-rows: 75px auto;
       grid-template-rows: 75px auto;
-      grid-template-areas: "header" "main";
+      grid-template-areas: "header"
+ "main";
   min-height: 100vh;
   max-width: 100%;
 }
@@ -1017,3 +1018,34 @@ main {
   visibility: visible;
 }
 /*# sourceMappingURL=app.css.map */
+
+blockquote {
+	font-weight: 100;
+	font-size: 1rem;
+	max-width: 600px;
+	line-height: 1.4;
+	position: relative;
+	margin: 1rem 0 2rem 5rem;
+	padding: .5rem;
+}
+
+blockquote:before,
+blockquote:after {
+	position: absolute;
+	color: #f1efe6;
+	font-size: 8rem;
+	width: 4rem;
+	height: 4rem;
+}
+
+blockquote:before {
+	content: '“';
+	left: -3rem;
+	top: -2rem;
+}
+
+blockquote:after {
+	content: '”';
+	right: -3rem;
+	bottom: 1rem;
+}

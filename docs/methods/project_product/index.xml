@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projecten en Producten on Online Assessment Aid</title>
+    <title>Projecten en Producten on Assessment Selection Tool</title>
     <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/</link>
-    <description>Recent content in Projecten en Producten on Online Assessment Aid</description>
+    <description>Recent content in Projecten en Producten on Assessment Selection Tool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/index.xml" rel="self" type="application/rss+xml" />
@@ -23,8 +23,7 @@ Projecten en producten zijn minder geschikt om te beoordelen of iemand beschikt 
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/online/</guid>
-      <description>Bij een project of product voert de student een afgebakende opdracht uit. Projecten hebben vaak een product als een analyse, advies, ontwerp of fabricaat als resultaat.
-Soorten poducten:
+      <description>Bij een project of product voert de student een afgebakende opdracht uit. Projecten hebben vaak een product als een analyse, advies, ontwerp, fabricaat of essay als resultaat:
  Analyse Een student analyseert een situatie, probleem of vraagstuk, onderscheidt hierbij hoofd- en bijzaken en/of identificeert hierbij voor- en nadelen. Advies Een advies volgt vaak op een analyse. De student integreert informatie uit verschillende bronnen om tot een onderbouwd advies te komen en een mogelijke oplossing te presenteren.</description>
     </item>
     
@@ -35,7 +34,7 @@ Soorten poducten:
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/approach/</guid>
       <description>Voorbereiding De voorbereiding voor online projecten en producten verschilt nauwelijks van de voorbereiding bij campus onderwijs. Eerst inventariseer je welke leerdoelen behaald moeten worden door de student. Daarna ontwerp je een opdracht die ervoor zorgt dat deze leerdoelen getoond kunnen worden, bijvoorbeeld in de vorm van producten. Ook schets je de kaders waarbinnen het project of product moet worden afgerond.
-Communicatie Het is belangrijk dat de kaders zoals de beoordelingscriteria/rubric, feedbackmomenten en de inleverdatum vooraf duidelijk zijn gecommuniceerd met de student.</description>
+Het is belangrijk dat de kaders zoals de beoordelingscriteria/rubric, feedbackmomenten en de inleverdatum vooraf duidelijk zijn gecommuniceerd met de student.</description>
     </item>
     
     <item>
@@ -46,6 +45,15 @@ Communicatie Het is belangrijk dat de kaders zoals de beoordelingscriteria/rubri
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/tips/</guid>
       <description>Ruim voor de inleverdatum van de laatste conceptversie van de scriptie organiseer ik een online peerfeedbacksessie. Aan de hand van een beoordelingsformulier geven studenten feedback op elkaars product. Ik merk dat het mij als docent tijd scheelt bij het geven van feedback. Veelvoorkomende fouten worden door de studenten zelf opgemerkt en aangepast.
   Faciliteer en stimuleer zelfsturend leren binnen een project. Laat studenten persoonlijke doelen stellen binnen het project en hierop reflecteren.</description>
+    </item>
+    
+    <item>
+      <title>Referenties</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/references/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/references/</guid>
+      <description>Handreiking van de VU waarin variaties in geschreven toetsproducten worden gegeven. Toetsen in het hogeronderwijs (Van Berkel, Bax, and Joosten-ten Brinke 2017), weergave van het belang van feedback op het leerproces. Toetswijzer competentiegericht begeleiden &amp;amp; beoordelen in het hoger onderwijs. Fontys Facilitair Bedrijf, afdeling Onderwijs: Centrum voor onderwijsinnovatie en onderzoek. Peer assessment als leermiddel. Voorbeelden uit het hoger onderwijs (Van den Berg, Pilot, and Admiraal 2005). Projectonderwijs als innovatie in het hoger onderwijs (Van Woerden 1985).</description>
     </item>
     
   </channel>

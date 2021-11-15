@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mondeling on Online Assessment Aid</title>
+    <title>Mondeling on Assessment Selection Tool</title>
     <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/oral_exam/</link>
-    <description>Recent content in Mondeling on Online Assessment Aid</description>
+    <description>Recent content in Mondeling on Assessment Selection Tool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/oral_exam/index.xml" rel="self" type="application/rss+xml" />
@@ -43,6 +43,15 @@ Anticiperen op technische problemen Het organiseren verschilt iets van mondeling
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/oral_exam/tips/</guid>
       <description>Voer een assessmentgesprek in groepjes uit. Studenten bekijken vooraf elkaars producten, stellen vragen en geven peerfeedback. Uiteraard kan een examinator ook vragen stellen en feedback geven. Zie deze publicatie van Inholland voor meer informatie over het organiseren van peerfeedback. Faciliteer het oefenen van een assessmentgesprek door het inroosteren van een online bijeenkomst waarin studenten onderling kunnen oefenen. Zorg ervoor dat het beoordelingsformulier beschikbaar is een laat studenten elkaar feedback geven aan de hand van het beoordelingsformulier.</description>
+    </item>
+    
+    <item>
+      <title>Referenties</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/oral_exam/references/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/oral_exam/references/</guid>
+      <description>When old becomes new (Akimov and Malin 2020), in dit artikel staat beschreven hoe een online mondeling kan worden ingezet als toetsvorm op afstand of als aanvulling op andere toetsvorm. Het online mondeling wordt vooral gebruikt als interview. Er worden tips gegeven om de betrouwbaarheid en validiteit van deze toetsvorm op afstand te kunnen waarborgen. Een artikel van de open universiteit over online modelinge toetsen. Hierin worden kort de belangrijkste procedurele aspecten van een online mondelinge toets uitgelegd.</description>
     </item>
     
   </channel>
