@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Ivan de Wolf">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}styles/app.css">
+  <title>{{ .Site.Title }}</title>
+  <meta name="description" content="TLC’s Educational Redesign Aid helps you take your teaching online.">
+  <meta property="og:title" content="Educational Redesign Aid" />
+  <meta property="og:url" content="{{ .Site.BaseURL }}" />
+  <meta property="og:description" content="TLC’s Educational Redesign Aid helps you take your teaching online.">
+  <meta property="og:image"
+    content="{{ .Site.BaseURL }}images/teaching-centre-hero.png">
+</head>
+
+<body>
+  <div class="app">
+    <!-- The header of the website. -->
+    <div class="header">
+      <a href="{{ .Site.BaseURL }}">
+        <img src="{{ .Site.BaseURL }}images/VO_alg_NL.png" alt="Versnellingsplan logo" class="header__logo">
+      </a>
+
+      {{ block "header" . }} {{ end }}
+    </div>
+
+    <!-- The main part where the content lies. -->
+    <main>
+      {{ block "main" . }}
+        {{ .Content }}
+      {{ end }}
+    </main>
+
+    <footer>
+      <div class="footer__content">
+        <div class="footer__line">
+          <span class="footer__line--title">Credits:</span>
+          <p class="footer__line--text">
+            <a href="https://www.linkedin.com/in/marjoleine-dobbelaer-28946330/" target="_blank">Marjoleine Dobbelear</a>, 
+            <a href="https://www.linkedin.com/in/sharonklinkenberg/" target="_blank">Sharon Klinkenberg</a>, 
+            <a href="https://www.linkedin.com/in/rochelle-hurenkamp/" target="_blank">Rochelle Hurenkamp</a>, 
+            <a href="https://www.linkedin.com/in/schoutenp/" target="_blank">Peter Schouten</a>, 
+            <a href="https://www.linkedin.com/in/irene-biemond-61622081/" target="_blank">Irene Biemond</a>, 
+            <a href="https://www.linkedin.com/in/ruben-marciante/?originalSubdomain=nl" target="_blank">Ruben Marciante</a>, 
+            <a href="https://www.linkedin.com/in/ivandewolf/" target="_blank">Ivan de Wolf</a> (programmeur)</p>
+        </div>
+        <div class="footer__line">
+          <span class="footer__line--title">License:</span>
+          <p class="footer__line--text">
+            This tool is offered under a
+            <a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC-BY-SA 2.0</a>
+            license. All content on ERA can be considered under this license unless otherwise noted. Consistent with this license, reuse is possible assuming proper attribution and distribution conditions that follow the
+            <a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">same license</a>
+            as ERA.
+          </p>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+
+  <script src="{{ .Site.BaseURL }}scripts/app.js"></script>
+</body>
+</html>

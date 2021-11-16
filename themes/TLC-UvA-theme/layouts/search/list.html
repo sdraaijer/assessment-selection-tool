@@ -1,0 +1,17 @@
+{{ define "header" }}
+<div class="header__menu">
+  {{ partial "search-form.html" . }}
+
+  {{ range .Translations }}
+  <a href="{{ .Permalink }}">
+    <img width="auto" height="28px" src="{{ .Site.BaseURL }}icons/{{ .Lang }}.svg" alt="Language icon">
+  </a>
+  {{ end }}
+</div>
+{{ end }}
+
+{{ define "main" }}
+<ul id="results" class="container search-results">
+</ul>
+{{ partial "search-index.html" . }}
+{{ end }}
