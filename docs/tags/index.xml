@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Assessment Selection Tool</title>
-    <link>https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/tags/</link>
+    <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/tags/</link>
     <description>Recent content in Tags on Assessment Selection Tool</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,4 +1,4 @@
-baseURL = "https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/"
+baseURL = "https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Assessment Selection Tool"

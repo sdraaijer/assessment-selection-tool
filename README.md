@@ -14,6 +14,6 @@ brew upgrade hugo
 
 # Add config file
 
-blogdown::config_Rprofile()
+blogdown::install_hugo("0.88.1")
 
 # set config file to hugo version 0.88.1
