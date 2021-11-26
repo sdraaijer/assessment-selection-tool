@@ -1,5 +1,5 @@
 ---
-title: "Online Presentatie"
+title: "Presentatie"
 description: "Online pechakucha, pitch, video essay, poster presentatie"
 banner: /images/assessment-hero.jpg
 icon: /icons/assessment-icon.png
