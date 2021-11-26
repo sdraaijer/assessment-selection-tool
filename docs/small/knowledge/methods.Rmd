@@ -9,7 +9,8 @@ weight: 3
 ---
 
 ## Digitale toets
-Klik [hier](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/) voor meer informatie over digitaal toetsen.  
+
+Klik [hier](https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/) voor meer informatie over digitaal toetsen.  
 <br>
 
 **Tips voor deze toetsvorm**
@@ -22,7 +23,7 @@ Klik [hier](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid
 ```
 
 ## Presentaties
-Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/presentation) voor meer informatie over presentaties.  
+Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/presentation) voor meer informatie over presentaties.  
 <br>
 
 **Tips voor deze toetsvorm**
@@ -42,7 +43,7 @@ Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-ai
 ```
 
 ## Mondeling examen
-Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/oral_exam/) voor meer informatie over mondelinge examens.  
+Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/oral_exam/) voor meer informatie over mondelinge examens.  
 <br>
 
 **Tips voor deze toetsvorm**
