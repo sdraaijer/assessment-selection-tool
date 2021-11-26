@@ -34,7 +34,7 @@ Voor de docent kunnen bieden de resultaten inzicht in waar de kennishiaten zich 
 
 De waardering van formatieve toetsen kan van invloed zijn op de inzet van studenten. Met name bij grote groepen kan dit een rol spelen. 
 
-Het mee laten tellen van de formatieve toetsen voor het eindcijfer kan een negatief effect hebben. Overweeg eens een ander beloningssysteem. Zoals een [straf staffel](https://webcolleges.uva.nl/Mediasite/Play/2d74e9c589094bb0bc027cfbae672d6b1d).
+Het mee laten tellen van de formatieve toetsen voor het eindcijfer kan een negatief effect hebben. Overweeg eens een ander beloningssysteem. Zoals een [strafstaffel](https://webcolleges.uva.nl/Mediasite/Play/2d74e9c589094bb0bc027cfbae672d6b1d).
 
 > Bij een vak waarvan de leerstof ook op een later moment in de opleiding getoetst werd, hebben we een summatieve meerkeuzetoets omgezet naar een formatieve toets. Deze toets wordt door de studenten in drietallen gemaakt. De onderlinge discussie zorgde voor een groot leereffect en wij hoeven geen proctoring meer te gebruiken.
 
