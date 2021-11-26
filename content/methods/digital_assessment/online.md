@@ -20,8 +20,8 @@ De resultaten van de formatieve toetsen zijn zowel waardervol voor de student al
 + De student kan just in time, binnen het leerproces, direct feedback ontvangen.
 + De beoordeling is niet afhankelijk van de docent, maar wordt door het systeem uitgevoerd.
 + Antwoorden kunnen geautomatiseerd nagekeken worden en narratieve feedback is toe te voegen.
-+ Resultaten van studenten kunnen voor hen zelf als voor de docent input geven in het leerproces.
-- Het kost tijd om goede opdrachten te maken en te fine tunen.
++ Toetsresultaten geven input in het leerproces en bieden de docent informatie over onderdelen die nog niet beheerst worden.
+- Het kost tijd om goede opdrachten te maken en te finetunen.
 
 ## Summatief
 
