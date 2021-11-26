@@ -9,7 +9,7 @@ weight: 3
 ---
 
 ## Presentaties
-Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/presentation) voor meer informatie over presentaties.  
+Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/presentation) voor meer informatie over presentaties.  
 <br>
 
 **Tips voor deze toetsvorm**
@@ -23,8 +23,8 @@ Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-ai
 ```
 
 ## Observaties
-Klik [hier](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/observations/) voor meer informatie over observaties.  
+Klik [hier](https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/observations/) voor meer informatie over observaties.  
 <br> 
 
 ## Portfolio
-Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/portfolio/) voor meer informatie over portfolio’s.  
+Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/portfolio/) voor meer informatie over portfolio’s.  
