@@ -8,6 +8,34 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Definitie</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/definition/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/definition/</guid>
+      <description>Onder digitale toetsen verstaan we toetsen die worden afgenomen in een daarvoor gespecialiseerde applicatie. Dit kan een functionaliteit van de elektronische leeromgeving zijn als Canvas, of een afzonderlijke toetsapplicatie zoals TestVision of Remindo. Met een digitale toets kan je gebruik maken van diverse vraagvormen. Deze lopen uiteen van meerkeuzevragen, drag-and-drop vragen tot korte essayvragen. Digitale toetsen zijn geschikt voor toetsen van de volgende cognitieve niveaus: onthouden, begrijpen, toepassen, analyseren, evalueren.</description>
+    </item>
+    
+    <item>
+      <title>Online</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/online/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/online/</guid>
+      <description>Digitale toetsen kunnen zowel op de campus als online (plaatsonafhankelijk) worden afgenomen. Een keuze die hierbij echter nog te maken valt is of de afname ook tijdonafhankelijk kan. Maken alle studenten de toets tegelijkertijd of kunnen ze dit op verschillende momenten doen? Voor formatieve toetsing kleven hier relatief weinig bezwaren aan. Voor summatieve toetsen heeft dat echter wel implicaties. De vragen van een eerdere afname kunnen immers uitlekken. Voor zowel plaats- als tijdsonafhankelijke summatieve toetsing is het raadzaam om de online proctoring goed op orde te hebben (zie ook Klinkenberg, 2021).</description>
+    </item>
+    
+    <item>
+      <title>Aanpak</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/approach/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/approach/</guid>
+      <description>Afhankelijk van de inzet van formatieve of summatieve toetsing zijn er verschillende stappen te zetten in de aanpak. Tevens bepalen de hoeveelheid studenten in je onderwijs en de hoeveelheid beschikbare nakijktijd de mogelijkheid om meer of minder vragen op te nemen die niet geautomatiseerd nagekeken kunnen worden.
+Formatief Voor aanvang Keuze van het toetssysteem: gebruik bij voorkeur hetzelfde systeem als voor de summatieve toets, zodat studenten kunnen wennen aan de omgeving.</description>
+    </item>
+    
+    <item>
       <title>Tips</title>
       <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/tips/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
@@ -23,7 +51,7 @@
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/references/</guid>
-      <description>Het minimalizeren van fraude bij kennistoetsen op afstand (zonder inzet van online proctoring) Nguyen, Keuseman, and Humston (2020). Handboek itembanken SURF: Introductie, stappenplan en verdiepende informatie over het opbouwen van een relevante, beheersbare en bruikbare itembank. Handboek proctoring SURF: 1) Een uitleg over online proctoring 2) Een toelichting over het privacy aspect van online proctoring 3) Een toelichting over fraudepreventie door middel van online proctoring. Molkenboer (2015) boek over het opzetten van toetsen met open en gesloten vragen.</description>
+      <description>Het minimalizeren van fraude bij kennistoetsen op afstand (zonder inzet van online proctoring) @nguyen2020minimize. Handboek itembanken SURF: Introductie, stappenplan en verdiepende informatie over het opbouwen van een relevante, beheersbare en bruikbare itembank. Handboek proctoring SURF: 1) Een uitleg over online proctoring 2) Een toelichting over het privacy aspect van online proctoring 3) Een toelichting over fraudepreventie door middel van online proctoring. @molkenboer2015toetsen boek over het opzetten van toetsen met open en gesloten vragen.</description>
     </item>
     
   </channel>
