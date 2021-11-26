@@ -1,5 +1,5 @@
 ---
-title: "References"
+title: "Referenties"
 icon: /icons/why-do-this.png
 menuicon: /icons/why-do-this-menu.png
 date: 2020-07-31T11:05:44+02:00
