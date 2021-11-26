@@ -31,4 +31,4 @@ Bij observeren op afstand kan de informatie voor de beoordelaar beperkter zijn d
 
 * Mogelijk beperktere informatie als beoordelaar
 
-Combineren Een observatie kan worden uitgevoerd in combinatie met een assessmentgesprek om de student de gemaakte keuzes te laten motiveren. 
+**Combineren** Een observatie kan worden uitgevoerd in combinatie met een assessmentgesprek om de student de gemaakte keuzes te laten motiveren. 
