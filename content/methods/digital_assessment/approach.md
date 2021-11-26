@@ -14,7 +14,7 @@ Afhankelijk van de inzet van **formatieve** of **summatieve** toetsing zijn er v
 
 ### Voor aanvang
 
-Keuze van het toets systeem, bij voorkeur dezelfde als voor de summatieve toets, zodat studenten kunnen wennen aan de omgeving.
+Keuze van het toetssysteem, bij voorkeur dezelfde als voor de summatieve toets, zodat studenten kunnen wennen aan de omgeving.
 
 Ontwerpen van vragen of didactisch leermateriaal. Het advies is om dit ruim voor aanvang van het onderwijs te doen.
 
@@ -34,7 +34,7 @@ Ook als docent kunnen deze resultaten inzichtelijk zijn om te achterhalen waar e
 
 De waardering van formatieve toetsen kan van invloed zijn op de inzet van studenten. Met name bij grote groepen kan dit een rol spelen. 
 
-Het mee laten tellen van de formatieve toetsen voor het eindcijfer kan een negatief effect hebben. Overweeg eens een ander belonings systeem. Zoals een [straf staffel](https://webcolleges.uva.nl/Mediasite/Play/2d74e9c589094bb0bc027cfbae672d6b1d).
+Het mee laten tellen van de formatieve toetsen voor het eindcijfer kan een negatief effect hebben. Overweeg eens een ander beloningssysteem. Zoals een [straf staffel](https://webcolleges.uva.nl/Mediasite/Play/2d74e9c589094bb0bc027cfbae672d6b1d).
 
 > Bij een vak waarvan de leerstof ook op een later moment in de opleiding getoetst werd, hebben we een summatieve meerkeuzetoets omgezet naar een formatieve toets. Deze toets wordt door de studenten in drietallen gemaakt. De onderlinge discussie zorgde voor een groot leereffect en wij hoeven geen proctoring meer te gebruiken.
 
@@ -48,15 +48,15 @@ Opstellen van je tentamenvragen, liefst in een persoonlijke of gedeelde itembank
 
 Afhankelijk van de inrichting van het toetsprocess binnen je instelling worden sommige taken zoals het plannen van de afname, het toevoegen van studenten aan de afname en het informeren van studenten in meer of mindere mate voor je gedaan. 
 
-Communiceer duidelijk en goed over de inzet van online proctoring methode. Niet alle studenten hebben thuis een geschikte ruimte of bezitten de benodigde apparatuur. Geef vroegtijdig aan wat je van de studenten verwacht, wat ze nodig hebben, op welke manier ze ondersteuning kunnen krijgen vanuit de instelling (bijvoorbeeld leenapparatuur) en hoe ze voorafgaand aan de toetsafname kunnen oefenen.
+Communiceer duidelijk en goed over de inzet van online proctoringmethode. Niet alle studenten hebben thuis een geschikte ruimte of bezitten de benodigde apparatuur. Geef vroegtijdig aan wat je van de studenten verwacht, wat ze nodig hebben, op welke manier ze ondersteuning kunnen krijgen vanuit de instelling (bijvoorbeeld leenapparatuur) en hoe ze voorafgaand aan de toetsafname kunnen oefenen.
 
 ### Tijdens
 
-Afhankelijk van de gekozen proctoring methode ben je als docent zelf virtueel aanwezig in de conferencing software, kijk je live mee met de beelden of ben je enkel standby.
+Afhankelijk van de gekozen proctoringmethode ben je als docent zelf virtueel aanwezig in de conferencing software, kijk je live mee met de beelden of ben je enkel standby.
 
 ### Na afloop
 
-De verwerking van de proctoring resultaten is na afloop niet alleen afhankelijk van de gekozen proctoring methode, maar ook van de proces afspraken die er binnen de instelling gemaakt zijn. Informeer dus naar het beleid en werkwijze.
+De verwerking van de proctoring resultaten is na afloop niet alleen afhankelijk van de gekozen proctoringmethode, maar ook van de procesafspraken die er binnen de instelling gemaakt zijn. Informeer dus naar het beleid en werkwijze.
 
 Als er gebruik is gemaakt van ‘recorded proctoring’ of ‘automated proctoring’ moeten de opnames geanalyseerd worden. Mogelijke fraudegevallen worden vervolgens ter beoordeling voorgelegd aan de examinator of  examencommissie. 
 
