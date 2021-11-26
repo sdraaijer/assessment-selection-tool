@@ -14,21 +14,21 @@ Afhankelijk van de inzet van **formatieve** of **summatieve** toetsing zijn er v
 
 ### Voor aanvang
 
-Keuze van het toetssysteem, bij voorkeur dezelfde als voor de summatieve toets, zodat studenten kunnen wennen aan de omgeving.
+Keuze van het toetssysteem: gebruik bij voorkeur hetzelfde systeem als voor de summatieve toets, zodat studenten kunnen wennen aan de omgeving.
 
 Ontwerpen van vragen of didactisch leermateriaal. Het advies is om dit ruim voor aanvang van het onderwijs te doen.
 
-Het maken van formatieve toetsen, met name de inzet van een oefentoets als didactisch leermiddel kan erg tijdrovend zijn. De inzet van student assistenten kan hier echter een uitkomst bieden. Zie ook [dit interview waarin dit tersprake komt](https://youtu.be/Z6Ie_ELBq40?t=1219)
+Het maken van formatieve toetsen, met name de inzet van een oefentoets als didactisch leermiddel kan erg tijdrovend zijn. De inzet van studentassistenten kan hier echter een uitkomst bieden. Zie ook [dit interview waarin dit tersprake komt](https://youtu.be/Z6Ie_ELBq40?t=1219)
 
 ### Tijdens
 
-De afname van een formatieve toets hoeft zich niet te beperken tot een specifiek moment. Opdrachten kunnen ook gedurende een week open gezet worden of juist ter voorbereiding op een college of werkgroep. 
+De afname van een formatieve toets hoeft zich niet te beperken tot een specifiek moment. Opdrachten kunnen ook gedurende een week opengezet worden of juist ter voorbereiding op een college of werkgroep. 
 
 ### Na afloop
 
 Om een optimaal leereffect te bevorderen is het relevant om studenten na afloop van de formatieve toets toegang te geven tot de resultaten en model antwoorden.
 
-Ook als docent kunnen deze resultaten inzichtelijk zijn om te achterhalen waar er nog problemen bevinden. Deze inzichten kunnen vervolgens nog gaande de cursus gebruikt worden om het onderwijs te sturen.
+Voor de docent kunnen bieden de resultaten inzicht in waar de kennishiaten zich bevinden. Deze inzichten kunnen vervolgens tijdens de lopende cursus gebruikt worden om het onderwijs te sturen.
 
 ### Aandachtspunten
 
