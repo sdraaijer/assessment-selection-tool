@@ -58,7 +58,7 @@ Afhankelijk van de gekozen proctoringmethode kan het zijn dat je als docent virt
 
 De verwerking van de proctoringsresultaten is na afloop niet alleen afhankelijk van de gekozen proctoringmethode, maar ook van de procesafspraken die er binnen de instelling gemaakt zijn. Informeer dus naar het beleid en de werkwijze.
 
-Als er gebruik is gemaakt van ‘recorded proctoring’ of ‘automated proctoring’ moeten de opnames geanalyseerd worden. Mogelijke fraudegevallen worden vervolgens ter beoordeling voorgelegd aan de examinator of  examencommissie. 
+Als er gebruik is gemaakt van ‘recorded proctoring’ of ‘automated proctoring’ moeten de opnames geanalyseerd worden. Mogelijke fraudegevallen worden vervolgens ter beoordeling voorgelegd aan de examinator of examencommissie. 
 
 De verwerking van de toetsresultaten verloopt verder analoog aan het digitaal toetsen op de campus.
 
