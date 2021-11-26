@@ -6,11 +6,11 @@ date: 2020-07-31T11:05:44+02:00
 expandable: true
 instructions: false
 weight: 3
----
+--- 
 
 Afhankelijk van de inzet van **formatieve** of **summatieve** toetsing zijn er verschillende stappen te zetten in de aanpak. Tevens bepalen de hoeveelheid studenten in je onderwijs en de hoeveelheid beschikbare nakijktijd de mogelijkheid om meer of minder vragen op te nemen die niet geautomatiseerd nagekeken kunnen worden. 
 
-## Formatief
+## Formatief 
 
 ### Voor aanvang
 

@@ -18,8 +18,8 @@ defaultContentLanguage = "nl"
 #   [languages.en]
 #     languageName = "English"
 #     title = "Educational Redesign Aid"
-#     weight = 1
+#     weight = 2
 #   [languages.nl]
 #     languageName = "Nederlands"
 #     title = "Educational Redesign Aid"
-#     weight = 2
+#     weight = 1

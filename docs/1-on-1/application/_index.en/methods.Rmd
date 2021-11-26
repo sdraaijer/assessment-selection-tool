@@ -1,0 +1,60 @@
+---
+title: "Toetsvormen op afstand"
+icon: /icons/tools.png
+menuicon: /icons/tools-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: false
+instructions: false
+weight: 3
+---
+
+## Digitale toets
+
+Klik [hier](https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/) voor meer informatie over digitaal toetsen.  
+<br>
+
+**Tips voor deze toetsvorm**
+
+* Indien het gaat om een toets die ook bij andere studenten wordt afgenomen (bijvoorbeeld op een ander moment), bied de vragen dan in willekeurige volgorde aan om het doorgeven van antwoorden te voorkomen. 
+
+* Bij een individuele toets is het goed haalbaar om live proctoring toe te passen.
+
+```{r, child="../../snippets/knowledge/know_methods_limitations.md"}
+```
+
+## Presentaties
+Klik [hier](https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/presentation) voor meer informatie over presentaties.  
+<br>
+
+**Tips voor deze toetsvorm**
+
+```{r, child="../../snippets/knowledge/know_methods_questions.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_methods_ID.md"}
+```
+
+## Mondeling examen
+Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/oral_exam/) voor meer informatie over mondelinge examens.  
+<br>
+
+**Tips voor deze toetsvorm**
+
+```{r, child="../../snippets/knowledge/know_methods_questions.md"}
+```
+
+## Observaties
+Klik [hier](https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/observations/) voor meer informatie over observaties.  
+<br> 
+
+**Tips voor deze toetsvorm**
+
+```{r, child="../../snippets/knowledge/know_methods_questions.md"}
+```
+
+## Portfolio
+Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/portfolio/) voor meer informatie over portfolio’s.  
+<br> 
+
+## Projecten en producten
+Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/project_product/) voor meer informatie over projecten en producten.  

@@ -15,7 +15,7 @@ Digitale toetsen kunnen zowel op de campus als online (plaatsonafhankelijk) word
 Bij het op afstand inzetten van formatieve toetsen kan je denken aan digitale oefentoetsen voor een tentamen dat alle leerdoelen van het tentamen bevat, maar ook aan toetsen die een beperkt leerdoel bevragen. Zoals een digitale formatieve toets die random vragen selecteert uit een grote vragenbank over een bepaald onderwerp. Een andere mogelijkheid is het inzetten van een oefentoets als een didactisch leerinstrument. Hierbij kan de toets bijvoorbeeld instructie in de vorm van kennisclips, tekst, beeld en bestanden bevatten. Een voorbeeld hiervan is een Exceltoets waarin eerst wordt uitgelegd hoe je Excel moet gebruiken, je een Excelbestand kan downloaden, een bepaalde handeling moet uitvoeren en in een invulveld kan aangeven wat een bepaalde uitkomst is van de handeling.
 De resultaten van de formatieve toetsen zijn zowel waardervol voor de student als voor de docent. Beiden krijgen hiermee inzicht in waar de student staat in het leerproces, maar ook waar de hiaten zich nog bevinden.
 
-### Voor- en nadelen 
+### Voor- en nadelen  
 
 + De student kan just in time, binnen het leerproces, direct feedback ontvangen.
 + De beoordeling is niet afhankelijk van de docent, maar wordt door het systeem uitgevoerd.

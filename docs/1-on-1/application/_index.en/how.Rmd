@@ -1,0 +1,10 @@
+---
+title: "Wat te doen"
+icon: /icons/what-to-do.png
+menuicon: /icons/what-to-do-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: false
+instructions: false
+weight: 2
+---
+Op individuele schaal zijn er veel mogelijkheden voor het toetsen van toepassingsvaardigheden op afstand. Kies voor de vorm die het beste past bij de leerdoelen van het vak en het gegeven onderwijs. 
