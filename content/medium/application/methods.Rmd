@@ -9,7 +9,7 @@ weight: 3
 ---
 
 ## Digitale toets
-Klik [hier](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/) voor meer informatie over digitaal toetsen.  
+Klik [hier](https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/) voor meer informatie over digitaal toetsen.  
 <br>
 
 **Tips voor deze toetsvorm**
@@ -23,7 +23,7 @@ Klik [hier](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid
 ```
 
 ## Presentaties
-Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/presentation) voor meer informatie over presentaties.  
+Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/presentation) voor meer informatie over presentaties.  
 <br>
 
 **Tips voor deze toetsvorm**
@@ -41,11 +41,11 @@ Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-ai
 ```
 
 ## Portfolio
-Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/portfolio/) voor meer informatie over portfolio’s.  
+Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/portfolio/) voor meer informatie over portfolio’s.  
 <br> 
 
 ## Projecten en producten
-Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/) voor meer informatie over projecten en producten.  
+Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/project_product/) voor meer informatie over projecten en producten.  
 <br>
 
 **Tips voor deze toetsvorm**
