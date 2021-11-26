@@ -16,8 +16,8 @@ Uiteraard zijn combinaties mogelijk.
 
 ## Voor
 
-* Plaats onafhankelijk.
-* Minder fraude gevoelig
+* Plaatsonafhankelijk
+* Minder fraudegevoelig
 
 ## Nadeel
 
