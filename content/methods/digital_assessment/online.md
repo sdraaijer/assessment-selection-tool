@@ -28,10 +28,10 @@ De resultaten van de formatieve toetsen zijn zowel waardervol voor de student al
 De inzet van digitale toetsen voor cijferbepaling heeft op afstand behoorlijk wat voeten in de aarde. Om de authenticiteit van de toets te kunnen borgen, is het noodzakelijk dat kan worden vastgesteld dat de identiteit van de student gedurende de gehele toetsafname kan worden geverifieerd.
 Online proctoring biedt hier een uitkomst, maar de effectiviteit hangt sterk af van de gekozen toepassing. Er zijn grofweg vier vormen van online proctoring te onderscheiden (SURF, 2020):
 
-*	Live toezicht met conferencing software (SURF whitepaper §1.2)
-*	Live proctoring met proctoring software (SURF whitepaper §1.3)
-*	Opslag en controle achteraf met proctoring software (SURF whitepaper §1.4)
-*	Geautomatiseerde reviewing (SURF whitepaper §1.4)
+*	Live toezicht met conferencing software ([SURF whitepaper](https://www.surf.nl/whitepaper-online-proctoring-surveilleren-op-afstand) §1.2)
+*	Live proctoring met proctoring software ([SURF whitepaper](https://www.surf.nl/whitepaper-online-proctoring-surveilleren-op-afstand) §1.3)
+*	Opslag en controle achteraf met proctoring software ([SURF whitepaper](https://www.surf.nl/whitepaper-online-proctoring-surveilleren-op-afstand) §1.4)
+*	Geautomatiseerde reviewing ([SURF whitepaper](https://www.surf.nl/whitepaper-online-proctoring-surveilleren-op-afstand) §1.4)
 
 Afhankelijk van het belang van de toets moet een afweging gemaakt worden welke vorm van online proctoring ingezet moeten worden. Informeer binnen je eigen instelling welke voorzieningen beschikbaar zijn en wat het beleid is omtrent de inzet van online proctoring.
 
