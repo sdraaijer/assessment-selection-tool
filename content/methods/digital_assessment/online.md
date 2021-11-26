@@ -37,10 +37,10 @@ Afhankelijk van het belang van de toets moet een afweging gemaakt worden welke v
 
 ## Voor- en nadelen
 
-+ Kan alternatief zijn voor gebrek aan capaciteit op de campus.
-+ Geeft studenten met een functie beperking de mogelijkheid om thuis hun tentamen te maken. Waar ze wellicht betere voorzieningen hebben.
-+ Legt minder druk op openbaar vervoer.
-- Technisch uitdagend. Als er iets mis gaat is dat zeer vervelend.
++ Kan een alternatief zijn voor gebrek aan capaciteit op de campus.
++ Geeft studenten met een functiebeperking de mogelijkheid om thuis hun tentamen te maken, waar ze wellicht betere voorzieningen hebben.
++ Legt minder druk op het openbaar vervoer.
+- Technisch uitdagend. Als er iets misgaat is dat zeer vervelend.
 - Hogere druk op examencommissies
 - Ervaren inbreuk op privacy
 
