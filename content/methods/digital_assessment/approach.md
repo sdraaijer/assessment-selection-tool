@@ -44,23 +44,23 @@ Het mee laten tellen van de formatieve toetsen voor het eindcijfer kan een negat
 
 ### Voor aanvang
 
-Opstellen van je tentamenvragen, liefst in een persoonlijke of gedeelde itembank, zodat je later vragen kunt hergebruiken.
+Het opstellen van je tentamenvagen doen je bij voorkeur door gebruik te maken van een persoonlijke of gedeelde itembank, zodat je later vragen kunt hergebruiken.
 
 Afhankelijk van de inrichting van het toetsprocess binnen je instelling worden sommige taken zoals het plannen van de afname, het toevoegen van studenten aan de afname en het informeren van studenten in meer of mindere mate voor je gedaan. 
 
-Communiceer duidelijk en goed over de inzet van online proctoringmethode. Niet alle studenten hebben thuis een geschikte ruimte of bezitten de benodigde apparatuur. Geef vroegtijdig aan wat je van de studenten verwacht, wat ze nodig hebben, op welke manier ze ondersteuning kunnen krijgen vanuit de instelling (bijvoorbeeld leenapparatuur) en hoe ze voorafgaand aan de toetsafname kunnen oefenen.
+Communiceer duidelijk en goed over de inzet van online proctoringmethode. Niet alle studenten hebben thuis een geschikte ruimte of hebben de beschikking tot de benodigde apparatuur. Geef vroegtijdig aan wat je van de studenten verwacht, wat ze nodig hebben, op welke manier ze ondersteuning kunnen krijgen vanuit de instelling (bijvoorbeeld leenapparatuur) en hoe ze voorafgaand aan de toetsafname kunnen oefenen.
 
 ### Tijdens
 
-Afhankelijk van de gekozen proctoringmethode ben je als docent zelf virtueel aanwezig in de conferencing software, kijk je live mee met de beelden of ben je enkel standby.
+Afhankelijk van de gekozen proctoringmethode kan het zijn dat je als docent virtueel aanwezig bent in de conferencing software, live meekijkt met de beelden of enkel standby bent. Bij sommige instellingen hebben de docenten expliciet geen rol in het meekijken met de beelden. 
 
 ### Na afloop
 
-De verwerking van de proctoring resultaten is na afloop niet alleen afhankelijk van de gekozen proctoringmethode, maar ook van de procesafspraken die er binnen de instelling gemaakt zijn. Informeer dus naar het beleid en werkwijze.
+De verwerking van de proctoringsresultaten is na afloop niet alleen afhankelijk van de gekozen proctoringmethode, maar ook van de procesafspraken die er binnen de instelling gemaakt zijn. Informeer dus naar het beleid en de werkwijze.
 
 Als er gebruik is gemaakt van ‘recorded proctoring’ of ‘automated proctoring’ moeten de opnames geanalyseerd worden. Mogelijke fraudegevallen worden vervolgens ter beoordeling voorgelegd aan de examinator of  examencommissie. 
 
-De verwerking van de toetsresultaten verlopen verder analoog aan het digitaal toetsen op de campus.
+De verwerking van de toetsresultaten verloopt verder analoog aan het digitaal toetsen op de campus.
 
 ### Aandachtspunten
 
