@@ -14,12 +14,12 @@ defaultContentLanguage = "nl"
 
   color = "#9E8E67"
 
-# [languages]
-#   [languages.en]
-#     languageName = "English"
-#     title = "Educational Redesign Aid"
-#     weight = 2
-#   [languages.nl]
-#     languageName = "Nederlands"
-#     title = "Educational Redesign Aid"
-#     weight = 1
+ [languages]
+   [languages.en]
+     languageName = "English"
+     title = "Educational Redesign Aid"
+     weight = 2
+   [languages.nl]
+languageName = "Nederlands"
+     title = "Educational Redesign Aid"
+     weight = 1
