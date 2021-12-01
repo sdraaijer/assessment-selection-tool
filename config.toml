@@ -1,25 +1,118 @@
 baseURL = "https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/"
 publishDir = "docs"
-languageCode = "en-us"
+languageCode = "nl-NL"
 title = "Assessment Selection Tool"
 theme = "Selection-Theme"
 defaultContentLanguage = "nl"
 
 [params]
+  # General site parameters
+  color = "#9E8E67"
+  author = "Werkgroep Toetsen op Afstand"
+  description = "Beschrijving tekst"
+  siteLogo = "images/VO_alg_NL.png"
   landingpageTitle = "Breng je toetsing online"
   landingpageSubtitle = "De werkgroep toetsen op afstand heeft deze keuze tool voor toetsen ontwikkeld. Op basis van jouw onderwijssituatie kom je snel tot de geschikte toetsmethoden."
   landingpageBannerImage = "images/landing-no-logo-2.jpg"
   landingpageLogoImage = "images/toetsendiap.png"
   landingpageLogoImageSmall = "images/toetsendiap.png"
+  
+  # Homepage parameters
+  homeChoiceTitle = "Kies je groepsgrootte"
+  homeChoiceSubtitle = """
+  Voor online toetsadvies, voorbeelden en tips.
+  
+  Of lees over de verschillende [toetsvormen](#methods) ![dropdown icon](icons/dropdown-arrow.png)
+  """
+  
+  # Homepage description
+  homeAboutTitle = "Over deze tool"
+  homeAboutDescription = """
+  **Werkgroep Toetsen op Afstand**
 
-  color = "#9E8E67"
+  Doordat in 2020 toetsen opeens massaal op afstand moesten plaatsvinden, ontstond een grote vraag naar alternatieven voor de reguliere toets. [De werkgroep Toetsen op afstand](https://www.versnellingsplan.nl/werkgroep-toetsen-op-afstand/) van [het Versnellingsplan](https://www.versnellingsplan.nl/) voerde begin 2021 een [enquête uit onder docenten](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Docenten/). Daaruit bleek: er bestaat wel kennis rond dit onderwerp, maar deze is lastig te vinden en ook niet iedereen weet de kennis te vinden. Daarom ontwikkelde de werkgroep deze tool die docenten helpt bij het kiezen van de juiste toetsvorm die op afstand afgenomen kan worden. De tool bevat een beslisboom waarmee de docent op basis van groepsgrootte en toetsdoel snel kan zien welke toetsvormen inzetbaar zijn. De tool toont tips en aanvullende aandachtspunten bij elke specifieke toetsvorm. De tool bundelt de adviezen van verschillende handreikingen die tijdens de coronapandemie zijn ontwikkeld.
+  """
+  
+  # Homepage second choice
+  homeChoice2Title = "Lees over de verschillende toetsvormen"
+  homeChoice2Subtitle = "Voor instructie, voorbeelden en tips."
+  
+  
+  # List page parameters
+  listMenuBackHomeText = "Andere groepsgrootte"
+  listTitle = ": kies je toetsdoel"
+  listSubtitle = """
+  En lees over de geschikte online toetsmethoden.
+  
+  Of lees de algemene [best practices & tips](#tips) ![dropdown icon](../icons/dropdown-arrow.png)
+  """
 
-# [languages]
-#   [languages.en]
-#     languageName = "English"
-#     title = "Educational Redesign Aid"
-#     weight = 2
-#   [languages.nl]
-#     languageName = "Nederlands"
-#     title = "Educational Redesign Aid"
-#     weight = 1
+  # Single page parameters
+  singleShowEverything = "Toon meer"
+  singleShowLess = "Toon minder"
+  singleInstructions = "Uitleg & Links"
+  singleJumpMenuTitle = "Ga naar:"
+  singleOtherPagesTitle = "Ander toetsdoel"
+  singleBackHomeText = "Verander groepsgrootte"
+
+  # Footer parameters
+  footer = """
+  **Credits:** [Marjoleine Dobbelear](https://www.linkedin.com/in/marjoleine-dobbelaer-28946330/), 
+            [Sharon Klinkenberg](https://www.linkedin.com/in/sharonklinkenberg/), 
+            [Rochelle Hurenkamp](https://www.linkedin.com/in/rochelle-hurenkamp/), 
+            [Peter Schouten](https://www.linkedin.com/in/schoutenp/), 
+            [Irene Biemond](https://www.linkedin.com/in/irene-biemond-61622081/), 
+            [Ruben Marciante](https://www.linkedin.com/in/ruben-marciante/?originalSubdomain=nl), 
+            [Ivan de Wolf](https://www.linkedin.com/in/ivandewolf/) (programmeur)
+  
+  **License:** This tool is offered under a [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. All content can be considered under this license unless otherwise noted.
+  """
+
+[languages]
+ [languages.nl]
+   languageName = "Nederlands"
+   weight = 1
+ [languages.en]
+   languageName = "English"
+   weight = 2
+   landingpageTitle = "Bring your assessment online"
+   landingpageSubtitle = "The Working group Remote digital assessment created this Assessment Selection Tool. Based on your education setting, you will quickly come to the appropriate assessment method "
+   
+   # Homepage parameters
+   homeChoiceTitle = "Choose your groupsize"
+   homeChoiceSubtitle = """
+   For advice on online assessment, examples and tips.
+   
+   Or read about the different [assessment methods](#methods) ![dropdown icon](icons/dropdown-arrow.png)
+   """
+
+  # Homepage description
+  homeAboutTitle = "About this tool"
+  homeAboutDescription = """
+  **Working group Remote digital assessment**
+
+  Doordat in 2020 toetsen opeens massaal op afstand moesten plaatsvinden, ontstond een grote vraag naar alternatieven voor de reguliere toets. [De werkgroep Toetsen op afstand](https://www.versnellingsplan.nl/werkgroep-toetsen-op-afstand/) van [het Versnellingsplan](https://www.versnellingsplan.nl/) voerde begin 2021 een [enquête uit onder docenten](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Docenten/). Daaruit bleek: er bestaat wel kennis rond dit onderwerp, maar deze is lastig te vinden en ook niet iedereen weet de kennis te vinden. Daarom ontwikkelde de werkgroep deze tool die docenten helpt bij het kiezen van de juiste toetsvorm die op afstand afgenomen kan worden. De tool bevat een beslisboom waarmee de docent op basis van groepsgrootte en toetsdoel snel kan zien welke toetsvormen inzetbaar zijn. De tool toont tips en aanvullende aandachtspunten bij elke specifieke toetsvorm. De tool bundelt de adviezen van verschillende handreikingen die tijdens de coronapandemie zijn ontwikkeld.
+  """
+  
+  # Homepage second choice
+  homeChoice2Title = "Read about the different assessment methods"
+  homeChoice2Subtitle = "For instructions, examples and tips."
+  
+  
+  # List page parameters
+  listMenuBackHomeText = "Different groupsize"
+  listTitle = ": Choose your assesment goal"
+  listSubtitle = """
+  Read about appropriate online assessment methods.
+
+  Or read about [best practices & tips](#tips) ![dropdown icon](../icons/dropdown-arrow.png)
+  """
+
+  # Single page parameters
+  singleShowEverything = "Show more"
+  singleShowLess = "Show less"
+  singleInstructions = "More & Links"
+  singleJumpMenuTitle = "Go to:"
+  singleOtherPagesTitle = "Different assessment method"
+  singleBackHomeText = "Change groupsize"   
+
