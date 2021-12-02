@@ -1,0 +1,1 @@
+Assessing knowledge in an online exam is more susceptible to cheating. Measures therefore need to be taken to counter this. Online assessment software can provide tools for preventing cheating as much as possible. For example, the software may turn off certain functions on the computer so that students cannot open an external web page.

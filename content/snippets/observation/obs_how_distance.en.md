@@ -1,0 +1,1 @@
+Some activities, such as an holding an interview or using software, may be carried out by the student at home (or at another location). Other activities, such as a theatre performance or an activity during an internship, are more difficult to assess remotely.

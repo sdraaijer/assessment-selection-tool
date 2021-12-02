@@ -1,0 +1,1 @@
+Another option is to have the student make a video recording, which can be made and watched at any time and location.
