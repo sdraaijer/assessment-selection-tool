@@ -23,13 +23,13 @@ Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-a
 <br>
 
 **Tips for this assessment method**
-```{r, child="../../snippets/knowledge/know_methods_questions.md"}
+```{r, child="../../snippets/knowledge/know_methods_questions.en.md"}
 ```
 
-```{r, child="../../snippets/knowledge/know_methods_video.md"}
+```{r, child="../../snippets/knowledge/know_methods_video.en.md"}
 ```
 
-```{r, child="../../snippets/knowledge/know_methods_ID.md"}
+```{r, child="../../snippets/knowledge/know_methods_ID.en.md"}
 ```
 
 ## Oral exams
@@ -38,5 +38,5 @@ Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-a
 
 **Tips for this assessment method**
 
-```{r, child="../../snippets/knowledge/know_methods_ID.md"}
+```{r, child="../../snippets/knowledge/know_methods_ID.en.md"}
 ```

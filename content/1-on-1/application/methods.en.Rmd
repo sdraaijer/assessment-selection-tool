@@ -19,7 +19,7 @@ Click [here](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-ai
 
 *Live proctoring is quite feasible in the case of individual assessments.
 
-```{r, child="../../snippets/knowledge/know_methods_limitations.md"}
+```{r, child="../../snippets/knowledge/know_methods_limitations.en.md"}
 ```
 
 ## Presentations
@@ -28,10 +28,10 @@ Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-a
 
 **Tips for this assessment method**
 
-```{r, child="../../snippets/knowledge/know_methods_questions.md"}
+```{r, child="../../snippets/knowledge/know_methods_questions.en.md"}
 ```
 
-```{r, child="../../snippets/knowledge/know_methods_ID.md"}
+```{r, child="../../snippets/knowledge/know_methods_ID.en.md"}
 ```
 
 ## Oral exams
@@ -40,7 +40,7 @@ Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-a
 
 **Tips for this assessment method**
 
-```{r, child="../../snippets/knowledge/know_methods_questions.md"}
+```{r, child="../../snippets/knowledge/know_methods_questions.en.md"}
 ```
 
 ## Observations
@@ -49,7 +49,7 @@ Click [here](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-ai
 
 **Tips for this assessment method**
 
-```{r, child="../../snippets/knowledge/know_methods_questions.md"}
+```{r, child="../../snippets/knowledge/know_methods_questions.en.md"}
 ```
 
 ## Portfolio
