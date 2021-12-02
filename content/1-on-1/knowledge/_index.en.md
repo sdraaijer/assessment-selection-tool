@@ -1,5 +1,5 @@
 ---
-title: "Kennis"
+title: "Knowledge"
 subtitle: "1-op-1"
 description: " "
 banner: /images/1-on-1-hero.jpg
