@@ -1,5 +1,5 @@
 ---
-title: "Toepassing"
+title: "Application"
 description: " "
 banner: /images/assessment-hero.jpg
 icon: /icons/assessment-icon.png

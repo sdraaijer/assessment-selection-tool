@@ -1,5 +1,5 @@
 ---
-title: "Kennis"
+title: "Knowledge"
 description: " "
 banner: /images/assessment-hero.jpg
 icon: /icons/assessment-icon.png

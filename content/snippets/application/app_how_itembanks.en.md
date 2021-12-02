@@ -1,0 +1,1 @@
+If both knowledge and its application need to be assessed, you can reduce the workload by using a mixture of multiple-choice or fill-in-the-blank questions and open-ended questions. You can also use item banks or standard model answers, which only require the examiner to scan for certain terms.
