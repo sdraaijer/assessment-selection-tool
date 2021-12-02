@@ -7,7 +7,7 @@ defaultContentLanguage = "nl"
 
 [params]
   # General site parameters
-  color = "#9E8E67"
+  color = "#009FE3"
   author = "Werkgroep Toetsen op Afstand"
   description = "Beschrijving tekst"
   siteLogo = "images/VO_alg_NL.png"
