@@ -1,0 +1,45 @@
+---
+title: "Toetsvormen op afstand"
+icon: /icons/tools.png
+menuicon: /icons/tools-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: false
+instructions: false
+weight: 3
+---
+
+## Presentaties
+
+Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/presentation) voor meer informatie over presentaties.  
+<br>
+
+**Tips voor deze toetsvorm**
+
+```{r, child="../../snippets/observation/obs_methods_videoaudio.md"}
+```
+
+```{r, child="../../snippets/observation/obs_methods_live.md"}
+```
+
+## Observaties
+Klik [hier](https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/observations/) voor meer informatie over observaties.  
+<br> 
+
+**Tips voor deze toetsvorm**
+
+```{r, child="../../snippets/observation/obs_methods_videoaudio.md"}
+```
+
+```{r, child="../../snippets/observation/obs_methods_live.md"}
+```
+
+## Portfolio
+Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/portfolio/) voor meer informatie over portfolio’s.  
+
+**Tips voor deze toetsvorm**
+
+```{r, child="../../snippets/observation/obs_methods_videoaudio.md"}
+```
+
+```{r, child="../../snippets/observation/obs_methods_live.md"}
+```
