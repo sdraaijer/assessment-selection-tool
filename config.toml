@@ -116,15 +116,3 @@ defaultContentLanguage = "nl"
   singleOtherPagesTitle = "Different assessment method"
   singleBackHomeText = "Change groupsize"   
 
-<<<<<<< HEAD
- [languages]
-   [languages.en]
-     languageName = "English"
-     title = "Educational Redesign Aid"
-     weight = 2
-   [languages.nl]
-languageName = "Nederlands"
-     title = "Educational Redesign Aid"
-     weight = 1
-=======
->>>>>>> 5f46aced81cd6800ead68205ed6a02148889299c
