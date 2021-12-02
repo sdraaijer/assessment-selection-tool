@@ -4,7 +4,6 @@ languageCode = "nl-NL"
 title = "Assessment Selection Tool"
 theme = "Selection-Theme"
 defaultContentLanguage = "nl"
-googleAnalytics = "G-BPTG6GJD3L"
 
 [params]
   # General site parameters
@@ -17,6 +16,7 @@ googleAnalytics = "G-BPTG6GJD3L"
   landingpageBannerImage = "images/landing-no-logo-2.jpg"
   landingpageLogoImage = "images/toetsendiap.png"
   landingpageLogoImageSmall = "images/toetsendiap.png"
+  googleAnalytics = "G-BPTG6GJD3L"
   
   # Homepage parameters
   homeChoiceTitle = "Kies je groepsgrootte"
