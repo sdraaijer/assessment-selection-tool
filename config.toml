@@ -4,6 +4,7 @@ languageCode = "nl-NL"
 title = "Assessment Selection Tool"
 theme = "Selection-Theme"
 defaultContentLanguage = "nl"
+googleAnalytics = "G-BPTG6GJD3L"
 
 [params]
   # General site parameters
