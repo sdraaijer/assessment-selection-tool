@@ -15,10 +15,10 @@ Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/assessment-selection
 
 **Tips voor deze toetsvorm**
 
-```{r, child="../../snippets/observation/obs_methods_videoaudio.md"}
+```{r, child="../../snippets/observation/obs_methods_videoaudio.en.md"}
 ```
 
-```{r, child="../../snippets/observation/obs_methods_live.md"}
+```{r, child="../../snippets/observation/obs_methods_live.en.md"}
 ```
 
 ## Observaties
@@ -27,10 +27,10 @@ Klik [hier](https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-
 
 **Tips voor deze toetsvorm**
 
-```{r, child="../../snippets/observation/obs_methods_videoaudio.md"}
+```{r, child="../../snippets/observation/obs_methods_videoaudio.en.md"}
 ```
 
-```{r, child="../../snippets/observation/obs_methods_live.md"}
+```{r, child="../../snippets/observation/obs_methods_live.en.md"}
 ```
 
 ## Portfolio
@@ -38,8 +38,8 @@ Klik [hier]( https://werkgroep-toetsen-op-afstand.github.io/assessment-selection
 
 **Tips voor deze toetsvorm**
 
-```{r, child="../../snippets/observation/obs_methods_videoaudio.md"}
+```{r, child="../../snippets/observation/obs_methods_videoaudio.en.md"}
 ```
 
-```{r, child="../../snippets/observation/obs_methods_live.md"}
+```{r, child="../../snippets/observation/obs_methods_live.en.md"}
 ```
