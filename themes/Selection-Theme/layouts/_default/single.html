@@ -36,6 +36,16 @@
     </div>
   </div>
   {{ end }}
+  
+    <!-- Dash between the menu items. -->
+  <span>-</span>
+  
+    {{ range .Translations }}
+  <a href="{{ .Permalink }}">
+    <img width="auto" height="28px" src="{{ .Site.BaseURL }}icons/{{ .Lang }}.svg" alt="Language icon">
+  </a>
+  {{ end }}
+  
 </div>
 {{ end }}
 
