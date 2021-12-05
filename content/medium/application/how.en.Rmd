@@ -10,5 +10,5 @@ weight: 2
 
 Depending on the time and manpower available, it may still be too labour-intensive to only set open-ended questions at this scale. 
 
-```{r, child="../../snippets/application/app_how_distance.md"}
+```{r, child="../../snippets/application/app_how_distance.en.md"}
 ```

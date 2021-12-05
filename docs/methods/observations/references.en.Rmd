@@ -1,0 +1,17 @@
+---
+title: "References"
+icon: /icons/why-do-this.png
+menuicon: /icons/why-do-this-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: true
+instructions: false
+weight: 5
+bibliography: ../../literature.bib
+link-citations: TRUE
+bilbio-style: "apalike"
+---
+
+* Toetsen in het hoger onderwijs [@van2017toetsen] (Assessment in higher education) is a general book about assessment with a chapter on assessment of performance that deals in more detail with the assessment of observable activities. It contains very useful information on ensuring reliability and validity during this form of assessment.
+
+
+## Bibliography

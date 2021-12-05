@@ -9,10 +9,10 @@ weight: 1
 ---
 An obvious method for assessing knowledge is a multiple-choice exam with open-ended questions. On campus, this type of exam is often taken in a large sports hall or lecture theatre.  
 
-```{r, child="../../snippets/knowledge/know_description_advantages.md"}
+```{r, child="../../snippets/knowledge/know_description_advantages.en.md"}
 ```
 
 There are also other options for assessing knowledge at the medium scale, such as a group presentation or a group oral exam.
 
-```{r, child="../../snippets/knowledge/know_description_oral.md"}
+```{r, child="../../snippets/knowledge/know_description_oral.en.md"}
 ```

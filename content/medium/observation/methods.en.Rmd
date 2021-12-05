@@ -13,31 +13,31 @@ Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-a
 <br>
 
 **Tips for this assessment method**
-```{r, child="../../snippets/observation/obs_methods_groups.md"}
+```{r, child="../../snippets/observation/obs_methods_groups.en.md"}
 ```
 
-```{r, child="../../snippets/observation/obs_methods_videoaudio.md"}
+```{r, child="../../snippets/observation/obs_methods_videoaudio.en.md"}
 ```
 
-```{r, child="../../snippets/observation/obs_methods_live.md"}
+```{r, child="../../snippets/observation/obs_methods_live.en.md"}
 ```
 
 ## Observations
 Click [here](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/observations/) for more information on observations.  
 <br> 
 
-```{r, child="../../snippets/observation/obs_methods_videoaudio.md"}
+```{r, child="../../snippets/observation/obs_methods_videoaudio.en.md"}
 ```
 
-```{r, child="../../snippets/observation/obs_methods_live.md"}
+```{r, child="../../snippets/observation/obs_methods_live.en.md"}
 ```
 
 ## Portfolio
 Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/portfolio/) for more information on portfolios.  
 
-```{r, child="../../snippets/observation/obs_methods_videoaudio.md"}
+```{r, child="../../snippets/observation/obs_methods_videoaudio.en.md"}
 ```
 
-```{r, child="../../snippets/observation/obs_methods_live.md"}
+```{r, child="../../snippets/observation/obs_methods_live.en.md"}
 ```
 

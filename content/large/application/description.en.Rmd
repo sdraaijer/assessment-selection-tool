@@ -8,9 +8,9 @@ instructions: false
 weight: 1
 ---
 
-```{r, child="../../snippets/application/app_description_presentations.md"}
+```{r, child="../../snippets/application/app_description_presentations.en.md"}
 ```
 You should therefore be realistic about what is possible in the time available.  
 
-```{r, child="../../snippets/application/app_description_distance.md"}
+```{r, child="../../snippets/application/app_description_distance.en.md"}
 ```

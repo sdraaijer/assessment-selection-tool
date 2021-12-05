@@ -13,11 +13,11 @@ Click [here](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-ai
 <br>
 
 **Tips for this assessment method**
-```{r, child="../../snippets/knowledge/know_methods_mc.md"}
+```{r, child="../../snippets/knowledge/know_methods_mc.en.md"}
 ```
 
-```{r, child="../../snippets/knowledge/know_methods_limitations.md"}
+```{r, child="../../snippets/knowledge/know_methods_limitations.en.md"}
 ```
 
-```{r, child="../../snippets/knowledge/know_methods_breakoutrooms.md"}
+```{r, child="../../snippets/knowledge/know_methods_breakoutrooms.en.md"}
 ```

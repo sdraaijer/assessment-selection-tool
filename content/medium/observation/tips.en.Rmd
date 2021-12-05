@@ -8,11 +8,11 @@ instructions: false
 weight: 4
 ---
 
-```{r, child="../../snippets/observation/obs_tips_equipment.md"}
+```{r, child="../../snippets/observation/obs_tips_equipment.en.md"}
 ```
 
-```{r, child="../../snippets/observation/obs_tips_visibility.md"}
+```{r, child="../../snippets/observation/obs_tips_visibility.en.md"}
 ```
 
-```{r, child="../../snippets/observation/obs_tips_peerfeedback.md"}
+```{r, child="../../snippets/observation/obs_tips_peerfeedback.en.md"}
 ```

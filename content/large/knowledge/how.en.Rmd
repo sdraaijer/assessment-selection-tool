@@ -8,11 +8,11 @@ instructions: false
 weight: 2
 ---
 
-```{r, child="../../snippets/knowledge/know_how_fraud.md"}
+```{r, child="../../snippets/knowledge/know_how_fraud.en.md"}
 ```
 
-```{r, child="../../snippets/knowledge/know_how_proctoring.md"}
+```{r, child="../../snippets/knowledge/know_how_proctoring.en.md"}
 ```
 
-```{r, child="../../snippets/knowledge/know_how_itembanks.md"}
+```{r, child="../../snippets/knowledge/know_how_itembanks.en.md"}
 ```

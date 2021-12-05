@@ -1,0 +1,13 @@
+---
+title: "How"
+icon: /icons/what-to-do.png
+menuicon: /icons/what-to-do-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: false
+instructions: false
+weight: 2
+---
+There are lots of options for the online assessment of application skills at the small scale. Select the form that best suits the learning objectives and the teaching provided. 
+
+```{r, child="../../snippets/application/app_how_distance.en.md"}
+```

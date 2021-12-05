@@ -10,11 +10,11 @@ weight: 2
 
 Find out whether location- and time-independent exams are possible, and what the advantages would be.
 
-```{r, child="../../snippets/observation/obs_how_distance.md"}
+```{r, child="../../snippets/observation/obs_how_distance.en.md"}
 ```
 
-```{r, child="../../snippets/observation/obs_how_live.md"}
+```{r, child="../../snippets/observation/obs_how_live.en.md"}
 ```
 
-```{r, child="../../snippets/observation/obs_how_record.md"}
+```{r, child="../../snippets/observation/obs_how_record.en.md"}
 ```

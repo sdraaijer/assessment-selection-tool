@@ -13,13 +13,13 @@ Click [here](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-ai
 <br>
 
 **Tips for this assessment method**
-```{r, child="../../snippets/knowledge/know_methods_mc.md"}
+```{r, child="../../snippets/knowledge/know_methods_mc.en.md"}
 ```
 
-```{r, child="../../snippets/knowledge/know_methods_limitations.md"}
+```{r, child="../../snippets/knowledge/know_methods_limitations.en.md"}
 ```
 
-```{r, child="../../snippets/knowledge/know_methods_breakoutrooms.md"}
+```{r, child="../../snippets/knowledge/know_methods_breakoutrooms.en.md"}
 ```
 
 ## Presentations
@@ -28,16 +28,16 @@ Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-a
 
 **Tips for this assessment method**
 
-```{r, child="../../snippets/knowledge/know_methods_questions.md"}
+```{r, child="../../snippets/knowledge/know_methods_questions.en.md"}
 ```
 
-```{r, child="../../snippets/knowledge/know_methods_video.md"}
+```{r, child="../../snippets/knowledge/know_methods_video.en.md"}
 ```
 
-```{r, child="../../snippets/knowledge/know_methods_groups-presentations.md"}
+```{r, child="../../snippets/knowledge/know_methods_groups-presentations.en.md"}
 ```
 
-```{r, child="../../snippets/knowledge/know_methods_peerfeedback.md"}
+```{r, child="../../snippets/knowledge/know_methods_peerfeedback.en.md"}
 ```
 
 ## Portfolio
@@ -48,4 +48,4 @@ Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-a
 Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/) for more information on projects and products.
 
 **Tips for this assessment method**
-```{r, child="../../snippets/application/app_methods_groups.md"}
+```{r, child="../../snippets/application/app_methods_groups.en.md"}
