@@ -1,1 +1,1 @@
-*Emphasise the student’s ethical responsibility not to cheat.
+* Emphasize the student’s ethical responsibility not to cheat.

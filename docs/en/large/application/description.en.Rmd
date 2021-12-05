@@ -1,0 +1,16 @@
+---
+title: "Description"
+icon: /icons/why-do-this.png
+menuicon: /icons/why-do-this-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: false
+instructions: false
+weight: 1
+---
+
+```{r, child="../../snippets/application/app_description_presentations.en.md"}
+```
+You should therefore be realistic about what is possible in the time available.  
+
+```{r, child="../../snippets/application/app_description_distance.en.md"}
+```

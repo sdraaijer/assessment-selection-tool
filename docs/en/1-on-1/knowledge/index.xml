@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kennis on Assessment Selection Tool</title>
+    <title>Knowledge on Assessment Selection Tool</title>
     <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/</link>
-    <description>Recent content in Kennis on Assessment Selection Tool</description>
+    <description>Recent content in Knowledge on Assessment Selection Tool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-NL</language>
     <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/index.xml" rel="self" type="application/rss+xml" />
@@ -37,7 +37,7 @@ Tips for this assessment method
 *Live proctoring is quite feasible in the case of individual assessment.
  Presentations Click here for more information on presentations.
 Tips for this assessment method
- Het beoordelen van presentaties, projecten of producenten kan veel tijd kosten.</description>
+*Assessing presentations, projects or products can be very time-consuming, and may therefore not seem to be an obvious choice at this scale.</description>
     </item>
     
     <item>
@@ -46,10 +46,9 @@ Tips for this assessment method
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/tips/</guid>
-      <description>Stel een passende tijdslimiet: teveel tijd vergroot de kans op fraude, maar tijdsnood zorgt voor stress bij studenten en minder valide toetsresultaten. Zie van Berkel (1999) voor tijdsindicaties.
- Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
- Zorg voor een goede communicatie met studenten.
- Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten.</description>
+      <description>*Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
+*Emphasise the student’s ethical responsibility not to cheat.
+Ensure good communication with the students. Be transparent about the online assessment process, so that students know what to expect.</description>
     </item>
     
   </channel>

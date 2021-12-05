@@ -1,1 +1,1 @@
-*Make sure that the rules and requirements for making a video recording are clear, and don’t forget the audio. 
+* Make sure that the rules and requirements for making a video recording are clear, and don’t forget the audio. 

@@ -1,1 +1,1 @@
-*Not every student has suitable living conditions with a quiet room to take an exam in. Where possible, offer an alternative, such as a room on campus that students can use.
+* Not every student has suitable living conditions with a quiet room to take an exam in. Where possible, offer an alternative, such as a room on campus that students can use.
