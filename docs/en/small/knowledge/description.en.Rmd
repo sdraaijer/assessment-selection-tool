@@ -1,0 +1,18 @@
+---
+title: "Description"
+icon: /icons/why-do-this.png
+menuicon: /icons/why-do-this-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: false
+instructions: false
+weight: 1
+---
+
+One method for assessing knowledge is a multiple-choice exam with open-ended questions.  
+
+```{r, child="../../snippets/knowledge/know_description_advantages.en.md"}
+```
+
+There are other options for assessing knowledge at the small scale, such as an individual or group presentation or an oral exam.
+```{r, child="../../snippets/knowledge/know_description_oral.en.md"}
+```

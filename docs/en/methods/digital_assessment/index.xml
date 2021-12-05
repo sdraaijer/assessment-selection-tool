@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digitale Toetsen on Assessment Selection Tool</title>
+    <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/digital_assessment/</link>
+    <description>Recent content in Digitale Toetsen on Assessment Selection Tool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-NL</language>
+    <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/digital_assessment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Definition</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/digital_assessment/definition/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/digital_assessment/definition/</guid>
+      <description>By digital assessment, we mean assessment using a software programme that has been designed for that purpose. This can be a part of an e-learning platform such as Canvas, or a separate assessment software programme such as TestVision or Remindo. Digital assessment makes it possible to use various types of questions, from multiple choice, to drag and drop, to short essay questions. Digital assessment is suitable for assessing the following levels of cognitive learning: remembering, understanding, applying, analysing and evaluating.</description>
+    </item>
+    
+    <item>
+      <title>Online</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/digital_assessment/online/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/digital_assessment/online/</guid>
+      <description>Digital assessment can take place either on-campus or online. However, a decision needs to be made as to whether it can also be taken at any time. Should every student take the exam at the same time, or can they take it at different times? In the case of formative assessment, there is little objection to this. However, it does have implications for summative assessment, as the questions from previous exams may have been leaked.</description>
+    </item>
+    
+    <item>
+      <title>Approach</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/digital_assessment/approach/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/digital_assessment/approach/</guid>
+      <description>Various steps are involved, depending on whether formative or summative assessment is used. Furthermore, the number of questions in an exam that cannot be marked automatically will depend on the number of students and the time available for marking.
+Formative Prior to assessment Choice of assessment method: preferably the same as for summative assessment, so that students can familiarise themselves with the selected method.
+Design of exam questions or educational resources: we advise doing this well before the course starts.</description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/digital_assessment/tips/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/digital_assessment/tips/</guid>
+      <description>I have students write their own exam questions and let other students use them as practice material. Some of these questions can also be used in the exam.
+ *Use tags to link your learning objectives to the formative and summative online exams and report the results to the students and to yourself as lecturer. See SURF publication, in Dutch. *In the case of formative assessment, emphasise that it is permitted to make mistakes, but that the students should do their best to practice.</description>
+    </item>
+    
+    <item>
+      <title>References</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/digital_assessment/references/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/digital_assessment/references/</guid>
+      <description>Minimise online cheating for online assessments (without using online proctoring) Nguyen, Keuseman, and Humston (2020). SURF handbook on item banks: Introduction, step-by-step plan and in-depth information on creating a relevant, manageable and usable item bank. SURF handbook on proctoring: 1) What is online proctoring? 2) The privacy aspects of online proctoring 3) Preventing cheating through online proctoring. Molkenboer (2015), book on designing exams with open-ended and closed-ended questions.</description>
+    </item>
+    
+  </channel>
+</rss>
