@@ -13,6 +13,7 @@ Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-a
 <br>
 
 **Tips for this assessment method**
+
 ```{r, child="../../snippets/observation/obs_methods_groups.en.md"}
 ```
 

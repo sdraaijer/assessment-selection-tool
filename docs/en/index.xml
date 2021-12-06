@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ERA on Assessment Selection Tool</title>
+    <title>Assessment Selection Tool</title>
     <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/</link>
-    <description>Recent content in ERA on Assessment Selection Tool</description>
+    <description>Recent content on Assessment Selection Tool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-NL</language>
     <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/index.xml" rel="self" type="application/rss+xml" />
@@ -424,9 +424,9 @@ Anticipate technical problems Organising online presentations differs somewhat f
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/application/methods/</guid>
       <description>Digital assessment Click here for more information on digital assessment.
 Tips for this assessment method
-*If the assessment will also be taken by other students (e.g. at a different time), present the questions in random order to prevent the sharing of answers.
-*Live proctoring is quite feasible in the case of individual assessments.
-*In the case of open-ended questions, set a limit on the number of words, for exaple, or what the answer should include, to prevent long-winded answers.</description>
+ If the assessment will also be taken by other students (e.g. at a different time), present the questions in random order to prevent the sharing of answers.
+ Live proctoring is quite feasible in the case of individual assessments.
+ In the case of open-ended questions, set a limit on the number of words, for exaple, or what the answer should include, to prevent long-winded answers.</description>
     </item>
     
     <item>
@@ -441,7 +441,7 @@ Tips for this assessment method
 *Live proctoring is quite feasible in the case of individual assessment.
  Presentations Click here for more information on presentations.
 Tips for this assessment method
-*Assessing presentations, projects or products can be very time-consuming, and may therefore not seem to be an obvious choice at this scale.</description>
+ Assessing presentations, projects or products can be very time-consuming, and may therefore not seem to be an obvious choice at this scale.</description>
     </item>
     
     <item>
@@ -452,8 +452,8 @@ Tips for this assessment method
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/large/application/methods/</guid>
       <description>Digital assessment Click here for more information on digital assessment.
 Tips for this assessment method
-*If the group of students is too large to be able to use lots of open-ended questions, you could use closed-ended questions with automatic marking. Examples are multiple choice questions, drag-and-drop questions or short essay questions. Note however that this makes it even more important to ensure that students cannot cheat.
-*In the case of open-ended questions, set a limit on the number of words, for exaple, or what the answer should include, to prevent long-winded answers.</description>
+ If the group of students is too large to be able to use lots of open-ended questions, you could use closed-ended questions with automatic marking. Examples are multiple choice questions, drag-and-drop questions or short essay questions. Note however that this makes it even more important to ensure that students cannot cheat.
+ In the case of open-ended questions, set a limit on the number of words, for exaple, or what the answer should include, to prevent long-winded answers.</description>
     </item>
     
     <item>
@@ -464,8 +464,8 @@ Tips for this assessment method
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/large/knowledge/methods/</guid>
       <description>Digital assessment Click here for more information on digital assessment.
 Tips for this assessment method
-*If the group of students is too large to be able to use lots of open-ended questions, you could use closed-ended questions with automatic marking. Examples are multiple choice questions, drag-and-drop questions or short essay questions. Note however that this makes it even more important to ensure that students cannot cheat.
-*In the case of open-ended questions, set a limit on the number of words, for exaple, or what the answer should include, to prevent long-winded answers.</description>
+ If the group of students is too large to be able to use lots of open-ended questions, you could use closed-ended questions with automatic marking. Examples are multiple choice questions, drag-and-drop questions or short essay questions. Note however that this makes it even more important to ensure that students cannot cheat.
+ In the case of open-ended questions, set a limit on the number of words, for exaple, or what the answer should include, to prevent long-winded answers.</description>
     </item>
     
     <item>
@@ -476,9 +476,9 @@ Tips for this assessment method
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/large/observation/methods/</guid>
       <description>Presentations Click here for more information on presentations.
 Tips for this assessment method
-*At this scale, this assessment method is most suitable for group presentations or performances.
-*Make sure that the rules and requirements for making a video recording are clear, and don’t forget the audio.
-*Use a live recording if it is necessary to intervene in the activity or discuss it immediately afterwards, or if the activity needs to be done properly in one go or within a certain time.</description>
+ At this scale, this assessment method is most suitable for group presentations or performances.
+ Make sure that the rules and requirements for making a video recording are clear, and don’t forget the audio.
+ Use a live recording if it is necessary to intervene in the activity or discuss it immediately afterwards, or if the activity needs to be done properly in one go or within a certain time.</description>
     </item>
     
     <item>
@@ -489,8 +489,8 @@ Tips for this assessment method
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/medium/application/methods/</guid>
       <description>Digital assessment Click here for more information on digital assessment.
 Tips for this assessment method
-*If the group of students is too large to be able to use lots of open-ended questions, you could use closed-ended questions with automatic marking. Examples are multiple choice questions, drag-and-drop questions or short essay questions. Note however that this makes it even more important to ensure that students cannot cheat.
-*In the case of open-ended questions, set a limit on the number of words, for exaple, or what the answer should include, to prevent long-winded answers.</description>
+ If the group of students is too large to be able to use lots of open-ended questions, you could use closed-ended questions with automatic marking. Examples are multiple choice questions, drag-and-drop questions or short essay questions. Note however that this makes it even more important to ensure that students cannot cheat.
+ In the case of open-ended questions, set a limit on the number of words, for exaple, or what the answer should include, to prevent long-winded answers.</description>
     </item>
     
     <item>
@@ -501,8 +501,8 @@ Tips for this assessment method
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/medium/knowledge/methods/</guid>
       <description>Digital assessment Click here for more information on digital assessment.
 Tips for this assessment method
-*If the group of students is too large to be able to use lots of open-ended questions, you could use closed-ended questions with automatic marking. Examples are multiple choice questions, drag-and-drop questions or short essay questions. Note however that this makes it even more important to ensure that students cannot cheat.
-*In the case of open-ended questions, set a limit on the number of words, for exaple, or what the answer should include, to prevent long-winded answers.</description>
+ If the group of students is too large to be able to use lots of open-ended questions, you could use closed-ended questions with automatic marking. Examples are multiple choice questions, drag-and-drop questions or short essay questions. Note however that this makes it even more important to ensure that students cannot cheat.
+ In the case of open-ended questions, set a limit on the number of words, for exaple, or what the answer should include, to prevent long-winded answers.</description>
     </item>
     
     <item>
@@ -513,9 +513,9 @@ Tips for this assessment method
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/medium/observation/methods/</guid>
       <description>Presentations Click here for more information on presentations.
 Tips for this assessment method
-*At this scale, this assessment method is most suitable for group presentations or performances.
-*Make sure that the rules and requirements for making a video recording are clear, and don’t forget the audio.
-*Use a live recording if it is necessary to intervene in the activity or discuss it immediately afterwards, or if the activity needs to be done properly in one go or within a certain time.</description>
+ At this scale, this assessment method is most suitable for group presentations or performances.
+ Make sure that the rules and requirements for making a video recording are clear, and don’t forget the audio.
+ Use a live recording if it is necessary to intervene in the activity or discuss it immediately afterwards, or if the activity needs to be done properly in one go or within a certain time.</description>
     </item>
     
     <item>
@@ -527,8 +527,7 @@ Tips for this assessment method
       <description>Digital assessment Click here for more information on digital assessment.
 Tips for this assessment method * Use open-ended questions as much as possible, in random order.
 *Live proctoring is quite feasible on a small scale.
-*In the case of open-ended questions, set a limit on the number of words, for exaple, or what the answer should include, to prevent long-winded answers.
- Presentations Click here for more information on presentations.</description>
+ In the case of open-ended questions, set a limit on the number of words, for exaple, or what the answer should include, to prevent long-winded answers.   Presentations Click here for more information on presentations.</description>
     </item>
     
     <item>
@@ -541,8 +540,7 @@ Tips for this assessment method * Use open-ended questions as much as possible, 
 Tips for this assessment method
 Use open-ended questions as much as possible, in random order.
 *Live proctoring is quite feasible on a small scale.
-*In the case of open-ended questions, set a limit on the number of words, for exaple, or what the answer should include, to prevent long-winded answers.
- Presentations Click here for more information on presentations.</description>
+ In the case of open-ended questions, set a limit on the number of words, for exaple, or what the answer should include, to prevent long-winded answers.   Presentations Click here for more information on presentations.</description>
     </item>
     
     <item>
@@ -553,8 +551,8 @@ Use open-ended questions as much as possible, in random order.
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/small/observation/methods/</guid>
       <description>Presentations Click here for more information on presentations.
 Tips for this assessment method
-*Make sure that the rules and requirements for making a video recording are clear, and don’t forget the audio.
-*Use a live recording if it is necessary to intervene in the activity or discuss it immediately afterwards, or if the activity needs to be done properly in one go or within a certain time. Otherwise, it is easier to make a video recording.</description>
+ Make sure that the rules and requirements for making a video recording are clear, and don’t forget the audio.
+ Use a live recording if it is necessary to intervene in the activity or discuss it immediately afterwards, or if the activity needs to be done properly in one go or within a certain time.</description>
     </item>
     
     <item>
@@ -563,9 +561,10 @@ Tips for this assessment method
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/application/tips/</guid>
-      <description>*Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
-*Emphasise the student’s ethical responsibility not to cheat.
-Ensure good communication with the students. Be transparent about the online assessment process, so that students know what to expect.</description>
+      <description>Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
+ Emphasize the student’s ethical responsibility not to cheat.
+ Ensure good communication with the students.
+ Be transparent about the online assessment process, so that students know what to expect.</description>
     </item>
     
     <item>
@@ -574,9 +573,10 @@ Ensure good communication with the students. Be transparent about the online ass
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/tips/</guid>
-      <description>*Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
-*Emphasise the student’s ethical responsibility not to cheat.
-Ensure good communication with the students. Be transparent about the online assessment process, so that students know what to expect.</description>
+      <description>Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
+ Emphasize the student’s ethical responsibility not to cheat.
+ Ensure good communication with the students.
+ Be transparent about the online assessment process, so that students know what to expect.</description>
     </item>
     
     <item>
@@ -585,8 +585,8 @@ Ensure good communication with the students. Be transparent about the online ass
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/observation/tips/</guid>
-      <description>*To make a video recording, the student may need equipment such a good camera, a tripod and one or more microphones. The student needs access to such equipment. Institutions also have special equipment for recording certain activities such as a lesson.
-*If the students need to set up the recording equipment themselves, provide them with a checklist with clear instructions to ensure that the examiner can see everything they need to.</description>
+      <description>To make a video recording, the student may need equipment such a good camera, a tripod and one or more microphones. The student needs access to such equipment. Institutions also have special equipment for recording certain activities such as a lesson.
+ If the students need to set up the recording equipment themselves, provide them with a checklist with clear instructions to ensure that the examiner can see everything they need to.</description>
     </item>
     
     <item>
@@ -595,9 +595,10 @@ Ensure good communication with the students. Be transparent about the online ass
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/large/application/tips/</guid>
-      <description>*Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
-*Emphasise the student’s ethical responsibility not to cheat.
-Ensure good communication with the students. Be transparent about the online assessment process, so that students know what to expect.</description>
+      <description>Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
+ Emphasize the student’s ethical responsibility not to cheat.
+ Ensure good communication with the students.
+ Be transparent about the online assessment process, so that students know what to expect.</description>
     </item>
     
     <item>
@@ -606,9 +607,10 @@ Ensure good communication with the students. Be transparent about the online ass
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/large/knowledge/tips/</guid>
-      <description>*Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
-*Emphasise the student’s ethical responsibility not to cheat.
-Ensure good communication with the students. Be transparent about the online assessment process, so that students know what to expect.</description>
+      <description>Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
+ Emphasize the student’s ethical responsibility not to cheat.
+ Ensure good communication with the students.
+ Be transparent about the online assessment process, so that students know what to expect.</description>
     </item>
     
     <item>
@@ -617,8 +619,8 @@ Ensure good communication with the students. Be transparent about the online ass
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/large/observation/tips/</guid>
-      <description>*To make a video recording, the student may need equipment such a good camera, a tripod and one or more microphones. The student needs access to such equipment. Institutions also have special equipment for recording certain activities such as a lesson.
-*If the students need to set up the recording equipment themselves, provide them with a checklist with clear instructions to ensure that the examiner can see everything they need to.</description>
+      <description>To make a video recording, the student may need equipment such a good camera, a tripod and one or more microphones. The student needs access to such equipment. Institutions also have special equipment for recording certain activities such as a lesson.
+ If the students need to set up the recording equipment themselves, provide them with a checklist with clear instructions to ensure that the examiner can see everything they need to.</description>
     </item>
     
     <item>
@@ -627,9 +629,10 @@ Ensure good communication with the students. Be transparent about the online ass
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/medium/application/tips/</guid>
-      <description>*Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
-*Emphasise the student’s ethical responsibility not to cheat.
-Ensure good communication with the students. Be transparent about the online assessment process, so that students know what to expect.</description>
+      <description>Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
+ Emphasize the student’s ethical responsibility not to cheat.
+ Ensure good communication with the students.
+ Be transparent about the online assessment process, so that students know what to expect.</description>
     </item>
     
     <item>
@@ -638,9 +641,10 @@ Ensure good communication with the students. Be transparent about the online ass
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/medium/knowledge/tips/</guid>
-      <description>*Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
-*Emphasise the student’s ethical responsibility not to cheat.
-Ensure good communication with the students. Be transparent about the online assessment process, so that students know what to expect.</description>
+      <description>Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
+ Emphasize the student’s ethical responsibility not to cheat.
+ Ensure good communication with the students.
+ Be transparent about the online assessment process, so that students know what to expect.</description>
     </item>
     
     <item>
@@ -649,8 +653,8 @@ Ensure good communication with the students. Be transparent about the online ass
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/medium/observation/tips/</guid>
-      <description>*To make a video recording, the student may need equipment such a good camera, a tripod and one or more microphones. The student needs access to such equipment. Institutions also have special equipment for recording certain activities such as a lesson.
-*If the students need to set up the recording equipment themselves, provide them with a checklist with clear instructions to ensure that the examiner can see everything they need to.</description>
+      <description>To make a video recording, the student may need equipment such a good camera, a tripod and one or more microphones. The student needs access to such equipment. Institutions also have special equipment for recording certain activities such as a lesson.
+ If the students need to set up the recording equipment themselves, provide them with a checklist with clear instructions to ensure that the examiner can see everything they need to.</description>
     </item>
     
     <item>
@@ -715,9 +719,10 @@ Ensure good communication with the students. Be transparent about the online ass
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/small/application/tips/</guid>
-      <description>*Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
-*Emphasise the student’s ethical responsibility not to cheat.
-Ensure good communication with the students. Be transparent about the online assessment process, so that students know what to expect.</description>
+      <description>Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
+ Emphasize the student’s ethical responsibility not to cheat.
+ Ensure good communication with the students.
+ Be transparent about the online assessment process, so that students know what to expect.</description>
     </item>
     
     <item>
@@ -726,9 +731,10 @@ Ensure good communication with the students. Be transparent about the online ass
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/small/knowledge/tips/</guid>
-      <description>*Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
-*Emphasise the student’s ethical responsibility not to cheat.
-Ensure good communication with the students. Be transparent about the online assessment process, so that students know what to expect.</description>
+      <description>Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
+ Emphasize the student’s ethical responsibility not to cheat.
+ Ensure good communication with the students.
+ Be transparent about the online assessment process, so that students know what to expect.</description>
     </item>
     
     <item>
@@ -737,8 +743,8 @@ Ensure good communication with the students. Be transparent about the online ass
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/small/observation/tips/</guid>
-      <description>*To make a video recording, the student may need equipment such a good camera, a tripod and one or more microphones. The student needs access to such equipment. Institutions also have special equipment for recording certain activities such as a lesson.
-*If the students need to set up the recording equipment themselves, provide them with a checklist with clear instructions to ensure that the examiner can see everything they need to.</description>
+      <description>To make a video recording, the student may need equipment such a good camera, a tripod and one or more microphones. The student needs access to such equipment. Institutions also have special equipment for recording certain activities such as a lesson.
+ If the students need to set up the recording equipment themselves, provide them with a checklist with clear instructions to ensure that the examiner can see everything they need to.</description>
     </item>
     
     <item>
