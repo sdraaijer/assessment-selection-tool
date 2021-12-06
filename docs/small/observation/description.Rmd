@@ -7,4 +7,8 @@ expandable: false
 instructions: false
 weight: 1
 ---
+
+```{r, child="../../snippets/observation/obs_description_tasks.md"}
+```
+
 Het afnemen van een dergelijke toets op afstand is geschikt voor deze schaal. De opnames kunnen individueel worden gemaakt of in groepen. Bij handelingen die op individueel niveau plaatsvinden hoeft er maar één persoon in beeld te zijn en is het goed mogelijk om duidelijke video-opnames te maken. Handelingen die in groepen plaatsvinden, zoals een theatervoorstelling, kunnen op deze manier efficiënt worden beoordeeld door iedereen in beeld te brengen. 

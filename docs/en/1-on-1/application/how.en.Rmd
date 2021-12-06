@@ -7,4 +7,5 @@ expandable: false
 instructions: false
 weight: 2
 ---
+
 There are lots of options for the remote assessment of individual application skills. Select the method that best reflects the learning objectives and the teaching provided. 
