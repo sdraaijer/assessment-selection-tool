@@ -1,6 +1,6 @@
 ---
-title: "Digitale Toetsen"
-description: "Of online toets/tentamen/examen, digitaal toets/examen/tentamen, take-home tentamen, openboektoets of toets met open/gesloten vragen, kennistoets"
+title: "Digital Assessment"
+description: "Or online exam, digitaal exam, take-home exam, open bookexam, test, knowledge test"
 banner: /images/assessment-hero.jpg
 icon: /icons/assessment-icon.png
 date: 2020-07-31T11:05:44+02:00
