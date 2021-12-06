@@ -1,0 +1,24 @@
+---
+title: "Online assessment methods"
+icon: /icons/tools.png
+menuicon: /icons/tools-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: false
+instructions: false
+weight: 3
+---
+
+## Digital assessment
+Click [here](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/) for more information on digital assessment.  
+<br>
+
+**Tips for this assessment method**
+
+```{r, child="../../snippets/knowledge/know_methods_mc.en.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_methods_limitations.en.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_methods_breakoutrooms.en.md"}
+```

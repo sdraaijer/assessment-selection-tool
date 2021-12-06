@@ -1,0 +1,14 @@
+---
+title: "How"
+icon: /icons/what-to-do.png
+menuicon: /icons/what-to-do-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: false
+instructions: false
+weight: 2
+---
+
+Depending on the time and manpower available, it may still be too labour-intensive to only set open-ended questions at this scale. 
+
+```{r, child="../../snippets/application/app_how_distance.en.md"}
+```

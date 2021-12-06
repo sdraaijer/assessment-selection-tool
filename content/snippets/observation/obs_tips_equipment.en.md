@@ -1,0 +1,1 @@
+* To make a video recording, the student may need equipment such a good camera, a tripod and one or more microphones. The student needs access to such equipment. Institutions also have special equipment for recording certain activities such as a lesson.

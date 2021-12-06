@@ -1,0 +1,1 @@
+* Use a live recording if it is necessary to intervene in the activity or discuss it immediately afterwards, or if the activity needs to be done properly in one go or within a certain time. Otherwise, it is easier to make a video recording.

@@ -1,0 +1,15 @@
+---
+title: "Description"
+icon: /icons/what-to-do.png
+menuicon: /icons/what-to-do-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: false
+instructions: false
+weight: 1
+---
+
+
+```{r, child="../../snippets/observation/obs_description_tasks.en.md"}
+```
+
+Remote assessment is appropriate for this scale. If the recordings are made individually, only one person needs to be in the picture and it is quite easy to make clear video recordings. 

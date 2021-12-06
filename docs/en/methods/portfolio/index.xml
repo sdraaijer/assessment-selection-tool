@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Assessment Selection Tool</title>
+    <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/portfolio/</link>
+    <description>Recent content in Portfolio on Assessment Selection Tool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-NL</language>
+    <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Definition</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/portfolio/definition/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/portfolio/definition/</guid>
+      <description>A portfolio is collection of documents/files that prove that a student has acquired certain skills or competences. A portfolio may therefore be made up of different assessment methods. It usually contains self-reflection assignments and is built up over a longer time, giving insight into the student’s development and self-management skills. This makes portfolios particularly suitable for formative use, although they are also often used for summative assessment.
+Portfolios are often combined with an individual or group assessment interview or a criteria-based interview.</description>
+    </item>
+    
+    <item>
+      <title>Online</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/portfolio/online/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/portfolio/online/</guid>
+      <description>As an online assessment tool, the portfolio can be used in the same way as in a ‘regular’ setting. There are three types of portfolio:
+ Assessment portfolio In an assessment portfolio, the student collects examples of their work that show that they have acquired a certain skill/competence or set of skills/competences. Feedback from other students, lecturers, supervisors and external supervisors are also often included, providing the examiner with even more information.</description>
+    </item>
+    
+    <item>
+      <title>Approach</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/portfolio/approach/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/portfolio/approach/</guid>
+      <description>The online approach to the student portfolio does not differ very much from the ‘regular’ approach.
+Beforehand The various competences must of course be described clearly and be published online. In some cases, the competences may already be described in the portfolio software.
+During Various online meetings may be set up as part of the portfolio, such as an online kick-off meeting, a meeting to explain how to use the software, or coaching meetings.</description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/portfolio/tips/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/portfolio/tips/</guid>
+      <description>*Facilitate and encourage self-management in students as they build their portfolio. For example, let students set and reflect on their own learning objectives and ask them to indicate which aspects they would most like to receive feedback on. Of course, as the examiner you may also choose to provide feedback on other aspects. *Offer peer feedback. For example, let students ask each other questions about their portfolios. This not only teaches students how to provide constructive criticism and feedback, but also helps them to think about the kinds of questions that people will have about their own portfolio.</description>
+    </item>
+    
+    <item>
+      <title>References</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/portfolio/references/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/portfolio/references/</guid>
+      <description>   Paper by SURF, in Dutch, on using e-portfolios. What is an e-portfolio? E-portfolios in practice, Tools for e-portfolios, Conclusions and recommendations.  </description>
+    </item>
+    
+  </channel>
+</rss>

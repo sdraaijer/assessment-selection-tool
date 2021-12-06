@@ -2,8 +2,8 @@
 title: "Kennis"
 description: " "
 banner: /images/assessment-hero.jpg
-icon: /icons/assessment-icon.png
+icon: /icons/large-course.png
 date: 2020-07-31T11:05:44+02:00
 layout: single
-weight: 7
+weight: 1
 ---

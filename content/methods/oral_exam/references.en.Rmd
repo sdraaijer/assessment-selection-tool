@@ -1,0 +1,18 @@
+---
+title: "References"
+icon: /icons/why-do-this.png
+menuicon: /icons/why-do-this-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: true
+instructions: false
+weight: 5
+bibliography: ../../literature.bib
+link-citations: TRUE
+bilbio-style: "apalike"
+---
+
+* When old becomes new [@akimov2020old] describes how online oral exams can be used as an online assessment tool or to supplement other assessment tools. The online oral exam is mainly used as an interview. Tips are provided for ensuring the reliability and validity of this form of online assessment.
+* An [article (in Dutch) by the Open University on online oral exams](https://youlearn.ou.nl/web/hulp-bij-online-onderwijs/digitale-didactiek/-/pagestructurenavigator/165244334?_nl_ou_dlwo_pagestructure_viewer_portlet_WAR_nloudlwopagestructureportlet__facesViewIdRender=%2Fxhtml%2Fviewer%2FcourseNavigator.xhtml). This article describes the main procedural aspects of online oral exams. 
+
+
+## Bibliography

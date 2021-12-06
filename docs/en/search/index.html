@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Werkgroep Toetsen op Afstand">
+  <link rel="stylesheet" href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/styles/app.css">
+  <title>Assessment Selection Tool</title>
+  <meta name="description" content="Beschrijving tekst">
+  <meta property="og:title" content="Assessment Selection Tool" />
+  <meta property="og:url" content="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/" />
+  <meta property="og:description" content="Beschrijving tekst">
+  <meta property="og:image"
+    content="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/images/toetsendiap.png">
+
+  <style>
+    :root {
+      --primary: #009FE3;
+    }
+  </style>
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BPTG6GJD3L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BPTG6GJD3L', { 'anonymize_ip': true });
+</script>
+  
+</head>
+
+<body>
+  <div class="app">
+    
+    <div class="header">
+      <a href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/">
+        <img src="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/images/VO_alg_NL.png" alt="logo" class="header__logo">
+      </a>
+
+      
+<div class="header__menu">
+  <form id="search" action="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/search" method="get">
+  <div>
+    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+      <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd" />
+    </svg>
+  </div>
+  <input id="search-input" name="query" placeholder="Search" type="search" />
+</form>
+
+
+  
+  <a href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/search/">
+    <img width="auto" height="28px" src="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/icons/nl.svg" alt="Language icon">
+  </a>
+  
+</div>
+
+    </div>
+
+    
+    <main>
+      
+<ul id="results" class="container search-results">
+</ul>
+<script>
+window.store = {
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/search\/": {
+        
+        "title": "Search me!",
+        "description": "",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/search\/"
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/methods\/digital_assessment\/": {
+        
+        "title": "Digitale Toetsen",
+        "description": "Of online toets\/tentamen\/examen, digitaal toets\/examen\/tentamen, take-home tentamen, openboektoets of toets met open\/gesloten vragen, kennistoets",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/methods\/digital_assessment\/"
+    },
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/1-on-1\/knowledge\/": {
+        
+        "title": "Knowledge",
+        "description": " ",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/1-on-1\/knowledge\/"
+    },
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/large\/knowledge\/": {
+        
+        "title": "Knowledge",
+        "description": " ",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/large\/knowledge\/"
+    },
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/medium\/knowledge\/": {
+        
+        "title": "Knowledge",
+        "description": " ",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/medium\/knowledge\/"
+    },
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/small\/knowledge\/": {
+        
+        "title": "Knowlegde",
+        "description": " ",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/small\/knowledge\/"
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/1-on-1\/application\/": {
+        
+        "title": "Application",
+        "description": "  ",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/1-on-1\/application\/"
+    },
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/large\/application\/": {
+        
+        "title": "Application",
+        "description": " ",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/large\/application\/"
+    },
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/medium\/application\/": {
+        
+        "title": "Application",
+        "description": " ",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/medium\/application\/"
+    },
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/small\/application\/": {
+        
+        "title": "Application",
+        "description": " ",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/small\/application\/"
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/methods\/observations\/": {
+        
+        "title": "Observaties",
+        "description": "Performance-assessment, gedragsassessment, vaardigheidstoets, simulatie, praktijkproef, stationstoets (met een reeks handelingen), observatie in de praktijk, proeve van bekwaamheid, korte praktijkbeoordeling (KPB) of een korte vaardigheid beoordeling (KVB), voorstelling.",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/methods\/observations\/"
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/methods\/oral_exam\/": {
+        
+        "title": "Mondeling",
+        "description": "assessmentgesprek, criterium gericht interview (CGI), presentatie, verdediging, pitch, mondelinge toets, mondeling, eindgesprek.",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/methods\/oral_exam\/"
+    },
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/1-on-1\/observation\/": {
+        
+        "title": "Observation",
+        "description": " ",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/1-on-1\/observation\/"
+    },
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/large\/observation\/": {
+        
+        "title": "Observation",
+        "description": " ",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/large\/observation\/"
+    },
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/medium\/observation\/": {
+        
+        "title": "Observation",
+        "description": " ",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/medium\/observation\/"
+    },
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/small\/observation\/": {
+        
+        "title": "Observation",
+        "description": "",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/small\/observation\/"
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/methods\/portfolio\/": {
+        
+        "title": "Portfolio",
+        "description": "of leerwerkmap, competentieoverzicht, vaardighedendossier, verrichtingenoverzicht, presentatieportfolio, showcase, showmap, assessment portfolio, development portfolio, ontwikkelingsportfolio, beoordelingsportfolio, digitaal portfolio of e-portfolio",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/methods\/portfolio\/"
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/methods\/presentation\/": {
+        
+        "title": "Online Presentatie",
+        "description": "Online pechakucha, video essay, poster presentatie",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/methods\/presentation\/"
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/methods\/project_product\/": {
+        
+        "title": "Projecten en Producten",
+        "description": "of analyse, advies, ontwerp, fabricaat, boekbeoordeling, casestudy, rapport, verslag, reflectieverslag, onderzoekverslag, projectopdracht, essay, stage-opdracht, meesterproef, afstudeeropdracht, scriptie, thesis, onderzoeksopdracht, praktijkbeoordeling, productbeoordeling, procesbeoordeling, reflectie-opdracht, werkstuk, groepsopdracht of producttoets",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/werkgroep-toetsen-op-afstand.github.io\/assessment-selection-tool\/en\/methods\/project_product\/"
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+</script>
+
+<script src="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/js/lunr.min.js"></script>
+<script src="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/js/search.js"></script>
+
+
+    </main>
+
+       <footer>
+      <div class="footer__content">
+        <p><strong>Credits:</strong> <a href="https://www.linkedin.com/in/marjoleine-dobbelaer-28946330/">Marjoleine Dobbelear</a>,
+<a href="https://www.linkedin.com/in/sharonklinkenberg/">Sharon Klinkenberg</a>,
+<a href="https://www.linkedin.com/in/rochelle-hurenkamp/">Rochelle Hurenkamp</a>,
+<a href="https://www.linkedin.com/in/schoutenp/">Peter Schouten</a>,
+<a href="https://www.linkedin.com/in/irene-biemond-61622081/">Irene Biemond</a>,
+<a href="https://www.linkedin.com/in/ruben-marciante/?originalSubdomain=nl">Ruben Marciante</a>,
+<a href="https://www.linkedin.com/in/ivandewolf/">Ivan de Wolf</a> (programmeur)</p>
+<p><strong>License:</strong> This tool is offered under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> license. All content can be considered under this license unless otherwise noted.</p>
+
+      </div>
+    </footer>
+  </div>
+
+
+  <script src="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/scripts/app.js"></script>
+</body>
+</html>

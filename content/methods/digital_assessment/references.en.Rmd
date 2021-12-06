@@ -1,0 +1,21 @@
+---
+title: "References"
+icon: /icons/why-do-this.png
+menuicon: /icons/why-do-this-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: true
+instructions: false
+weight: 5
+bibliography: ../../literature.bib
+link-citations: TRUE
+bilbio-style: "apalike"
+---
+
+* Minimise online cheating for online assessments (without using online proctoring) @nguyen2020minimize.
+* [SURF handbook on item banks](https://werkgroep-toetsen-op-afstand.github.io/Handboek-Itembanken/verdieping.html): Introduction, step-by-step plan and in-depth information on creating a relevant, manageable and usable item bank.
+* [SURF handbook on proctoring](https://www.surf.nl/files/2019-01/surf_handboekitembank_web.pdf): 1) What is online proctoring? 2) The privacy aspects of online proctoring 3) Preventing cheating through online proctoring.
+* @molkenboer2015toetsen, book on designing exams with open-ended and closed-ended questions.
+* [Trinity College Dublin handbook on open-book assessment](https://www.tcd.ie/CAPSL/Assets/pdf/gateway/Handbook_Academics.pdf). An introduction to open-book assessment. Focuses on design and implementation.
+* [University of Melbourne handbook on open-book exams](https://melbourne-cshe.unimelb.edu.au/__data/assets/pdf_file/0010/3341944/closed-book-to-open-book-exam_final.pdf). Various do’s and don’ts concerning open-book exams.
+
+## Bibliography

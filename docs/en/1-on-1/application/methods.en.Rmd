@@ -1,0 +1,60 @@
+---
+title: "Online assessment methods"
+icon: /icons/tools.png
+menuicon: /icons/tools-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: false
+instructions: false
+weight: 3
+---
+
+
+## Digital assessment
+Click [here](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/) for more information on digital assessment.  
+<br>
+
+**Tips for this assessment method**
+
+* If the assessment will also be taken by other students (e.g. at a different time), present the questions in random order to prevent the sharing of answers. 
+
+* Live proctoring is quite feasible in the case of individual assessments.
+
+```{r, child="../../snippets/knowledge/know_methods_limitations.en.md"}
+```
+
+## Presentations
+Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/presentation) for more information on presentations.  
+<br>
+
+**Tips for this assessment method**
+
+```{r, child="../../snippets/knowledge/know_methods_questions.en.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_methods_ID.en.md"}
+```
+
+## Oral exams
+Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/oral_exam/) for more information on oral exams.  
+<br>
+
+**Tips for this assessment method**
+
+```{r, child="../../snippets/knowledge/know_methods_questions.en.md"}
+```
+
+## Observations
+Click [here](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/observations/) for more information on observations.  
+<br> 
+
+**Tips for this assessment method**
+
+```{r, child="../../snippets/knowledge/know_methods_questions.en.md"}
+```
+
+## Portfolio
+Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/portfolio/) for more information on portfolios.  
+<br> 
+
+## Projects and products
+Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/) for more information on projects and products.  

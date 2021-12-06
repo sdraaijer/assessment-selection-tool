@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knowledge on Assessment Selection Tool</title>
+    <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/</link>
+    <description>Recent content in Knowledge on Assessment Selection Tool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-NL</language>
+    <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Description</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/description/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/description/</guid>
+      <description>Knowledge assessments carried out in a 1-to-1 setting are mainly presentations, oral exams or resits of exams. Taking such assessments remotely can have advantages, such as not having to arrange a room for a single student and costing the student less in terms of time and travel expenses. The risk of fraud is not very high with remote assessment in a 1-to-1 setting.</description>
+    </item>
+    
+    <item>
+      <title>How</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/how/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/how/</guid>
+      <description>Online proctoring can also be carried out at this scale. Live monitoring is the most obvious option in this case. This means that students are monitored in real time, for example via a webcam or telephone.</description>
+    </item>
+    
+    <item>
+      <title>Online assessment methods</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/methods/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/methods/</guid>
+      <description>Digital assessment Click here for more information on digital assessment.
+Tips for this assessment method
+*If the assessment is also taken by other students (e.g. at a different time), present the questions in random order to prevent the sharing of answers.
+*Live proctoring is quite feasible in the case of individual assessment.
+ Presentations Click here for more information on presentations.
+Tips for this assessment method
+ Assessing presentations, projects or products can be very time-consuming, and may therefore not seem to be an obvious choice at this scale.</description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/tips/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/tips/</guid>
+      <description>Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
+ Emphasize the student’s ethical responsibility not to cheat.
+ Ensure good communication with the students.
+ Be transparent about the online assessment process, so that students know what to expect.</description>
+    </item>
+    
+  </channel>
+</rss>

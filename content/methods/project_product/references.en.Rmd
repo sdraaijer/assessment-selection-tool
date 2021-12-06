@@ -1,0 +1,20 @@
+---
+title: "References"
+icon: /icons/why-do-this.png
+menuicon: /icons/why-do-this-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: true
+instructions: false
+weight: 5
+bibliography: ../../literature.bib
+link-citations: TRUE
+bilbio-style: "apalike"
+---
+
+* [VU guidelines on variations on written assignments](https://sites.google.com/vu.nl/vu-teaching-learning-tips/assessment-for-learning/variations-on-written-assignments).
+* Toetsen in het hogeronderwijs (Assessment in higher education, in Dutch) [@van2017toetsen], about the importance of feedback in the learning process.
+* [Toetswijzer competentiegericht begeleiden & beoordelen in het hoger onderwijs (Assessment guidelines, competence-focused supervision and assessment in higher education, in Dutch)](https://hbo-kennisbank.nl/details/sharekit_fontys:oai:surfsharekit.nl:b2ba5e91-b067-41a1-bce6-bd368c1c1675). Fontys facilities company, department of education: Centre for education innovation and research. 
+* Peer assessment als leermiddel. Voorbeelden uit het hoger onderwijs (Peer assessment as educational resource, examples from higher education (in Dutch)). [@van2005peer].
+* Projectonderwijs als innovatie in het hoger onderwijs (Project education as innovation in higher education, in Dutch) [@van1985projectonderwijs].
+
+## Bibliography

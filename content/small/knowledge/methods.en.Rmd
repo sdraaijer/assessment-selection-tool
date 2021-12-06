@@ -1,0 +1,58 @@
+---
+title: "Online assessment methods"
+icon: /icons/tools.png
+menuicon: /icons/tools-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: false
+instructions: false
+weight: 3
+---
+
+## Digital assessment
+Click [here](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/digital_assessment/) for more information on digital assessment.  
+<br>
+
+**Tips for this assessment method**
+
+Use open-ended questions as much as possible, in random order. 
+
+*Live proctoring is quite feasible on a small scale.  
+
+```{r, child="../../snippets/knowledge/know_methods_limitations.en.md"}
+```
+
+## Presentations
+Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/presentation) for more information on presentations.  
+<br>
+
+**Tips for this assessment method**
+
+```{r, child="../../snippets/knowledge/know_methods_questions.en.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_methods_video.en.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_methods_groups-presentations.en.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_methods_peerfeedback.en.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_methods_ID.en.md"}
+```
+
+## Oral exams
+Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/oral_exam/) for more information on oral exams.  
+<br>
+
+**Tips for this assessment method**
+
+```{r, child="../../snippets/knowledge/know_methods_groups-oral.en.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_methods_peerfeedback.en.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_methods_ID.en.md"}
+```

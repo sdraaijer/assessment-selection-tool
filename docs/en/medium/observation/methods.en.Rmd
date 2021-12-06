@@ -1,0 +1,44 @@
+---
+title: "Online assessment methods"
+icon: /icons/tools.png
+menuicon: /icons/tools-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: false
+instructions: false
+weight: 3
+---
+
+## Presentations
+Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/presentation) for more information on presentations.  
+<br>
+
+**Tips for this assessment method**
+
+```{r, child="../../snippets/observation/obs_methods_groups.en.md"}
+```
+
+```{r, child="../../snippets/observation/obs_methods_videoaudio.en.md"}
+```
+
+```{r, child="../../snippets/observation/obs_methods_live.en.md"}
+```
+
+## Observations
+Click [here](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/observations/) for more information on observations.  
+<br> 
+
+```{r, child="../../snippets/observation/obs_methods_videoaudio.en.md"}
+```
+
+```{r, child="../../snippets/observation/obs_methods_live.en.md"}
+```
+
+## Portfolio
+Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/portfolio/) for more information on portfolios.  
+
+```{r, child="../../snippets/observation/obs_methods_videoaudio.en.md"}
+```
+
+```{r, child="../../snippets/observation/obs_methods_live.en.md"}
+```
+

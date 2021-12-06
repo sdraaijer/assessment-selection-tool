@@ -1,0 +1,17 @@
+---
+title: "How"
+icon: /icons/what-to-do.png
+menuicon: /icons/what-to-do-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: false
+instructions: false
+weight: 2
+---
+
+For groups of more than 100 students, an exam with open-ended questions alone is often inefficient.
+```{r, child="../../snippets/application/app_how_itembanks.en.md"}
+```
+
+Assessing presentations, projects or products can be very time-consuming, which is why this method may not seem to be an obvious choice at this scale.
+```{r, child="../../snippets/application/app_how_itembanks.en.md"}
+```

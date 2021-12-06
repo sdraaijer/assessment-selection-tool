@@ -1,0 +1,1 @@
+* If the students need to set up the recording equipment themselves, provide them with a checklist with clear instructions to ensure that the examiner can see everything they need to. Have the students set up the equipment so that nobody can walk in front of the camera. 

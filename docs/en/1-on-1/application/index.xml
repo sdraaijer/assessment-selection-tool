@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Application on Assessment Selection Tool</title>
+    <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/application/</link>
+    <description>Recent content in Application on Assessment Selection Tool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-NL</language>
+    <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/application/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Description</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/application/description/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/application/description/</guid>
+      <description>Often, you not only want to test knowledge, but its application too. This can be done in online exams, for example in the form of open-ended questions. Other options are open book exams or case study exams. Although these are less susceptible to cheating in their online form than exams with multiple choice questions alone, they are more labour-intensive. They are therefore more likely to be an option if you have help, such as a student assistant.</description>
+    </item>
+    
+    <item>
+      <title>How</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/application/how/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/application/how/</guid>
+      <description>There are lots of options for the remote assessment of individual application skills. Select the method that best reflects the learning objectives and the teaching provided.</description>
+    </item>
+    
+    <item>
+      <title>Online assessment methods</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/application/methods/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/application/methods/</guid>
+      <description>Digital assessment Click here for more information on digital assessment.
+Tips for this assessment method
+ If the assessment will also be taken by other students (e.g. at a different time), present the questions in random order to prevent the sharing of answers.
+ Live proctoring is quite feasible in the case of individual assessments.
+ In the case of open-ended questions, set a limit on the number of words, for exaple, or what the answer should include, to prevent long-winded answers.</description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/application/tips/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/application/tips/</guid>
+      <description>Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
+ Emphasize the student’s ethical responsibility not to cheat.
+ Ensure good communication with the students.
+ Be transparent about the online assessment process, so that students know what to expect.</description>
+    </item>
+    
+  </channel>
+</rss>

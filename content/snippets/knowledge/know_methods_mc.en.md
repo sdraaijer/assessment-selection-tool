@@ -1,0 +1,2 @@
+
+* If the group of students is too large to be able to use lots of open-ended questions, you could use closed-ended questions with automatic marking. Examples are multiple choice questions, drag-and-drop questions or short essay questions. Note however that this makes it even more important to ensure that students cannot cheat.

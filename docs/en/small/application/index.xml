@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Application on Assessment Selection Tool</title>
+    <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/small/application/</link>
+    <description>Recent content in Application on Assessment Selection Tool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-NL</language>
+    <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/small/application/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Description</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/small/application/description/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/small/application/description/</guid>
+      <description>Often, you not only want to test knowledge, but its application too. This can be done in online exams, for example in the form of open-ended questions. Other options are open book exams or case study exams. Although these are less susceptible to cheating in their online form than exams with multiple choice questions alone, they are more labour-intensive. They are therefore more likely to be an option if you have help, such as a student assistant.</description>
+    </item>
+    
+    <item>
+      <title>How</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/small/application/how/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/small/application/how/</guid>
+      <description>There are lots of options for the online assessment of application skills at the small scale. Select the form that best suits the learning objectives and the teaching provided.
+Assessing presentations, projects or products can be very time-consuming, and may therefore not seem to be an obvious choice. However, their assessment can be made easier by dividing the students into groups. Peer feedback can then be implemented in a formative setting, so that students assess each other’s work.</description>
+    </item>
+    
+    <item>
+      <title>Online assessment methods</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/small/application/methods/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/small/application/methods/</guid>
+      <description>Digital assessment Click here for more information on digital assessment.
+Tips for this assessment method * Use open-ended questions as much as possible, in random order.
+*Live proctoring is quite feasible on a small scale.
+ In the case of open-ended questions, set a limit on the number of words, for exaple, or what the answer should include, to prevent long-winded answers.   Presentations Click here for more information on presentations.</description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/small/application/tips/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/small/application/tips/</guid>
+      <description>Set a suitable time limit: too much time increases the risk of cheating, but too little time causes stress and reduces the validity of the exam results. See Van Berkel (1999) (in Dutch) for estimates of the time needed for different types of questions.
+ Emphasize the student’s ethical responsibility not to cheat.
+ Ensure good communication with the students.
+ Be transparent about the online assessment process, so that students know what to expect.</description>
+    </item>
+    
+  </channel>
+</rss>

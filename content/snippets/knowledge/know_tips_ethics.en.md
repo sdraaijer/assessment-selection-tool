@@ -1,0 +1,1 @@
+* Emphasize the student’s ethical responsibility not to cheat.

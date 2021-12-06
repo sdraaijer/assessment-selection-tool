@@ -1,0 +1,2 @@
+
+* Assessing presentations, projects or products can be very time-consuming, and may therefore not seem to be an obvious choice at this scale. However, the assessment in a formative setting can be made easier by dividing students into groups and/or implementing peer feedback, in which students assess one another’s work. It may also help to have students record their presentations, so that you can assess them at a more suitable time and location. 
