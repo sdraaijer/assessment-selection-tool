@@ -1,5 +1,5 @@
 ---
-title: "Observatie"
+title: "Handelingen"
 description: ""
 banner: /images/assessment-hero.jpg
 icon: /icons/assessment-icon.png
