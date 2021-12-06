@@ -11,14 +11,11 @@ weight: 4
 ```{r, child="../../snippets/knowledge/know_tips_timelimit.en.md"}
 ```
 
-
 ```{r, child="../../snippets/knowledge/know_tips_ethics.en.md"}
 ```
 
-
 ```{r, child="../../snippets/knowledge/know_tips_communication.en.md"}
 ```
-
 
 ```{r, child="../../snippets/knowledge/know_tips_environment.en.md"}
 ```

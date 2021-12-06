@@ -26,6 +26,7 @@ Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-a
 <br>
 
 **Tips for this assessment method**
+
 ```{r, child="../../snippets/knowledge/know_methods_questions.en.md"}
 ```
 
@@ -46,6 +47,7 @@ Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-a
 <br>
 
 **Tips for this assessment method**
+
 ```{r, child="../../snippets/knowledge/know_methods_groups-oral.en.md"}
 ```
 

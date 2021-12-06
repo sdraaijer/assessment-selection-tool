@@ -13,6 +13,7 @@ Click [here](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-ai
 <br>
 
 **Tips for this assessment method**
+
 ```{r, child="../../snippets/knowledge/know_methods_mc.en.md"}
 ```
 
@@ -23,10 +24,12 @@ Click [here](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-ai
 ```
 
 ## Presentations
+
 Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/presentation) for more information on presentations.  
 <br>
 
 **Tips for this assessment method**
+
 ```{r, child="../../snippets/knowledge/know_methods_questions.en.md"}
 ```
 
@@ -43,10 +46,12 @@ Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-a
 ```
 
 ## Oral exams
+
 Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/oral_exam/) for more information on oral exams.  
 <br>
 
 **Tips for this assessment method**
+
 ```{r, child="../../snippets/knowledge/know_methods_groups-oral.en.md"}
 ```
 

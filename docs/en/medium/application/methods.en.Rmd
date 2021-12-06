@@ -13,6 +13,7 @@ Click [here](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-ai
 <br>
 
 **Tips for this assessment method**
+
 ```{r, child="../../snippets/knowledge/know_methods_mc.en.md"}
 ```
 
@@ -48,4 +49,5 @@ Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-a
 Click [here]( https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/project_product/) for more information on projects and products.
 
 **Tips for this assessment method**
+
 ```{r, child="../../snippets/application/app_methods_groups.en.md"}

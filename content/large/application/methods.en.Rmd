@@ -13,6 +13,7 @@ Click [here](https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-ai
 <br>
 
 **Tips for this assessment method**
+
 ```{r, child="../../snippets/knowledge/know_methods_mc.en.md"}
 ```
 
