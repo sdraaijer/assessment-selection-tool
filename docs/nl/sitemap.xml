@@ -326,6 +326,12 @@
                 href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/knowledge/"
                 />
   </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/knowledge/tools/uva_assessment_documentation/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/knowledge/tools/canvas_assessments/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+  </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
     <xhtml:link
@@ -481,6 +487,9 @@
                 hreflang="nl"
                 href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/application/"
                 />
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/knowledge/tools/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/1-on-1/application/how/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
