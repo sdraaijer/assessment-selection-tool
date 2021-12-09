@@ -1,15 +1,11 @@
 ---
 title: "Digitaal Toetsen"
 subtitle: "none"
+link: "http://localhost:4321/assessment-selection-tool/methods/digital_assessment/"
 date: '2021-12-08'
 weight: 3
 category: "tool"
 ---
-
-## Digitale toets
-
-Klik [hier](https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/) voor meer informatie over digitaal toetsen.  
-<br>
 
 **Tips voor deze toetsvorm**
 
