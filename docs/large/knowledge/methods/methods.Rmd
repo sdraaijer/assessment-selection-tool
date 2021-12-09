@@ -1,9 +1,9 @@
 ---
 title: "Toetsvormen op afstand"
-subtitle: "None"
-date: 2020-07-31T11:05:44+02:00
+subtitle: None
+date: '2020-07-31T11:05:44+02:00'
 weight: 3
-category: "tool"
+category: tool
 ---
 
 ## Digitale toets
