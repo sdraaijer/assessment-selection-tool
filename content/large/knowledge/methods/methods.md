@@ -1,11 +1,9 @@
 ---
 title: "Toetsvormen op afstand"
-icon: /icons/tools.png
-menuicon: /icons/tools-menu.png
+subtitle: "None"
 date: 2020-07-31T11:05:44+02:00
-expandable: false
-instructions: false
 weight: 3
+category: "tool"
 ---
 
 ## Digitale toets
@@ -14,6 +12,7 @@ Klik [hier](https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-
 <br>
 
 **Tips voor deze toetsvorm**
+
 ```{r, child="../../snippets/knowledge/know_methods_mc.md"}
 ```
 
