@@ -1,0 +1,23 @@
+---
+title: "Digitaal Toetsen"
+subtitle: "none"
+date: '2020-07-31T11:05:44+02:00'
+weight: 3
+category: "tool"
+---
+
+## Digitale toets
+
+Klik [hier](https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/) voor meer informatie over digitaal toetsen.  
+<br>
+
+**Tips voor deze toetsvorm**
+
+```{r, child="../../snippets/knowledge/know_methods_mc.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_methods_limitations.md"}
+```
+
+```{r, child="../../snippets/knowledge/know_methods_breakoutrooms.md"}
+```
