@@ -1,0 +1,21 @@
+---
+title: "Referenties"
+icon: /icons/why-do-this.png
+menuicon: /icons/why-do-this-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: true
+instructions: false
+weight: 5
+bibliography: ../../literature.bib
+link-citations: TRUE
+bilbio-style: "apalike"
+---
+
+* Het minimalizeren van fraude bij kennistoetsen op afstand (zonder inzet van online  proctoring) @nguyen2020minimize.
+* [Handboek itembanken SURF](https://werkgroep-toetsen-op-afstand.github.io/Handboek-Itembanken/verdieping.html): Introductie, stappenplan en verdiepende informatie over het opbouwen van een relevante, beheersbare en bruikbare itembank.
+* [Handboek proctoring SURF](https://www.surf.nl/files/2019-01/surf_handboekitembank_web.pdf): 1) Een uitleg over online proctoring 2) Een toelichting over het privacy aspect van online proctoring 3) Een toelichting over fraudepreventie door middel van online proctoring.
+* @molkenboer2015toetsen boek over het opzetten van toetsen met open en gesloten vragen.
+* [Handboek van het Trinity College Dublin over open boek tentamens](https://www.tcd.ie/CAPSL/Assets/pdf/gateway/Handbook_Academics.pdf). Een introductie over open boek tentamens. Gericht op ontwerp, implementatie.
+* [Handboek van de Universiteit van Melbourne over open boek tentamens](https://melbourne-cshe.unimelb.edu.au/__data/assets/pdf_file/0010/3341944/closed-book-to-open-book-exam_final.pdf). Verchillende do’s and don’ts met betrekking tot open boek tentamens.
+
+### Bibliografie
