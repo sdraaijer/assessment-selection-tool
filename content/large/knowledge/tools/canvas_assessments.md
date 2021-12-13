@@ -7,3 +7,5 @@ category: "tool"
 ---
 
 Here are the instructions to [set up an assessment](https://canvas.uva.nl/courses/169/pages/creating-assignments-online-submissions?module_item_id=1424) in Canvas.
+
+hoi
