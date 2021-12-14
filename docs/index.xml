@@ -180,24 +180,6 @@ Projecten en producten zijn minder geschikt om te beoordelen of iemand beschikt 
     </item>
     
     <item>
-      <title>UvA Assessment Documentation</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/knowledge/tools/uva_assessment_documentation/</link>
-      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
-      
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/knowledge/tools/uva_assessment_documentation/</guid>
-      <description>Find out more here.</description>
-    </item>
-    
-    <item>
-      <title>Canvas assessments</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/knowledge/tools/canvas_assessments/</link>
-      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
-      
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/knowledge/tools/canvas_assessments/</guid>
-      <description>Here are the instructions to set up an assessment in Canvas.</description>
-    </item>
-    
-    <item>
       <title>Online</title>
       <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/online/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
@@ -377,6 +359,17 @@ De beoordelaar kan ervoor kiezen om live mee te kijken. In dat geval moet er geb
     </item>
     
     <item>
+      <title>Digitaal Toetsen</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/knowledge/methods/digital_assessment/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/knowledge/methods/digital_assessment/</guid>
+      <description>Tips voor deze toetsvorm
+ Wanneer het aantal studenten te groot is om gebruik te maken van veel open vragen, kan er gebruik worden gemaakt van gesloten vragen die automatisch gescoord kunnen worden. Denk bijvoorbeeld aan meerkeuzevragen, drag-and-drop vragen of korte essayvragen. Het belang van de overige genoemde maatregelen om fraude tegen te gaan wordt dan groter.
+ Stel bij open vragen beperkingen aan de antwoorden van studenten, bijvoorbeeld in het aantal woorden of in de inhoud van de antwoorden, om te uitgebreide antwoorden te voorkomen.</description>
+    </item>
+    
+    <item>
       <title>Aanpak</title>
       <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/approach/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
@@ -482,18 +475,6 @@ Tips voor deze toetsvorm
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/application/methods/</guid>
-      <description>Digitale toets Klik hier voor meer informatie over digitaal toetsen.
-Tips voor deze toetsvorm
- Wanneer het aantal studenten te groot is om gebruik te maken van veel open vragen, kan er gebruik worden gemaakt van gesloten vragen die automatisch gescoord kunnen worden. Denk bijvoorbeeld aan meerkeuzevragen, drag-and-drop vragen of korte essayvragen. Het belang van de overige genoemde maatregelen om fraude tegen te gaan wordt dan groter.
- Stel bij open vragen beperkingen aan de antwoorden van studenten, bijvoorbeeld in het aantal woorden of in de inhoud van de antwoorden, om te uitgebreide antwoorden te voorkomen.</description>
-    </item>
-    
-    <item>
-      <title>Toetsvormen op afstand</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/knowledge/methods/</link>
-      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
-      
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/knowledge/methods/</guid>
       <description>Digitale toets Klik hier voor meer informatie over digitaal toetsen.
 Tips voor deze toetsvorm
  Wanneer het aantal studenten te groot is om gebruik te maken van veel open vragen, kan er gebruik worden gemaakt van gesloten vragen die automatisch gescoord kunnen worden. Denk bijvoorbeeld aan meerkeuzevragen, drag-and-drop vragen of korte essayvragen. Het belang van de overige genoemde maatregelen om fraude tegen te gaan wordt dan groter.
@@ -785,7 +766,7 @@ Tips voor deze toetsvorm
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/references/</guid>
-      <description>Het minimalizeren van fraude bij kennistoetsen op afstand (zonder inzet van online proctoring) @nguyen2020minimize. Handboek itembanken SURF: Introductie, stappenplan en verdiepende informatie over het opbouwen van een relevante, beheersbare en bruikbare itembank. Handboek proctoring SURF: 1) Een uitleg over online proctoring 2) Een toelichting over het privacy aspect van online proctoring 3) Een toelichting over fraudepreventie door middel van online proctoring. @molkenboer2015toetsen boek over het opzetten van toetsen met open en gesloten vragen.</description>
+      <description>Het minimalizeren van fraude bij kennistoetsen op afstand (zonder inzet van online proctoring) Nguyen, Keuseman, and Humston (2020). Handboek itembanken SURF: Introductie, stappenplan en verdiepende informatie over het opbouwen van een relevante, beheersbare en bruikbare itembank. Handboek proctoring SURF: 1) Een uitleg over online proctoring 2) Een toelichting over het privacy aspect van online proctoring 3) Een toelichting over fraudepreventie door middel van online proctoring. Molkenboer (2015) boek over het opzetten van toetsen met open en gesloten vragen.</description>
     </item>
     
     <item>
@@ -794,7 +775,7 @@ Tips voor deze toetsvorm
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/observations/references/</guid>
-      <description> Toetsen in het hoger onderwijs [@van2017toetsen] is een algemeen boek over toetsen waarin in het hoofdstuk performance assessment verder wordt ingegaan op het toetsen van observeerbare handelingen. Zeer nuttige informatie over het waarborgen van de betrouwbaarheid en validiteit bij deze toetsvorm.  Bibliografie </description>
+      <description>   Toetsen in het hoger onderwijs (Van Berkel, Bax, and Joosten-ten Brinke 2017) is een algemeen boek over toetsen waarin in het hoofdstuk performance assessment verder wordt ingegaan op het toetsen van observeerbare handelingen. Zeer nuttige informatie over het waarborgen van de betrouwbaarheid en validiteit bij deze toetsvorm.  Bibliografie Van Berkel, Henk, Anneke Bax, and Desirée Joosten-ten Brinke. 2017. Toetsen in Het Hoger Onderwijs. Springer.    </description>
     </item>
     
     <item>
@@ -803,7 +784,7 @@ Tips voor deze toetsvorm
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/oral_exam/references/</guid>
-      <description>When old becomes new [@akimov2020old], in dit artikel staat beschreven hoe een online mondeling kan worden ingezet als toetsvorm op afstand of als aanvulling op andere toetsvorm. Het online mondeling wordt vooral gebruikt als interview. Er worden tips gegeven om de betrouwbaarheid en validiteit van deze toetsvorm op afstand te kunnen waarborgen. Een artikel van de open universiteit over online modelinge toetsen. Hierin worden kort de belangrijkste procedurele aspecten van een online mondelinge toets uitgelegd.</description>
+      <description>When old becomes new (Akimov and Malin 2020), in dit artikel staat beschreven hoe een online mondeling kan worden ingezet als toetsvorm op afstand of als aanvulling op andere toetsvorm. Het online mondeling wordt vooral gebruikt als interview. Er worden tips gegeven om de betrouwbaarheid en validiteit van deze toetsvorm op afstand te kunnen waarborgen. Een artikel van de open universiteit over online modelinge toetsen. Hierin worden kort de belangrijkste procedurele aspecten van een online mondelinge toets uitgelegd.</description>
     </item>
     
     <item>
@@ -812,8 +793,8 @@ Tips voor deze toetsvorm
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/portfolio/references/</guid>
-      <description>  Paper van surf over de inzet van e-portfolio’s.	Wat is een e-portfolio? E-portfolio in de praktijk, Tools voor e-portfolio, Conclusies en aanbevelingen.
-  Publicatie van Inholland voor meer informatie over het organiseren van peerfeedback
+      <description>   Paper van surf over de inzet van e-portfolio’s. Wat is een e-portfolio? E-portfolio in de praktijk, Tools voor e-portfolio, Conclusies en aanbevelingen.
+ Publicatie van Inholland voor meer informatie over het organiseren van peerfeedback
   </description>
     </item>
     
@@ -823,7 +804,7 @@ Tips voor deze toetsvorm
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/presentation/references/</guid>
-      <description></description>
+      <description>  </description>
     </item>
     
     <item>
@@ -832,7 +813,7 @@ Tips voor deze toetsvorm
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/project_product/references/</guid>
-      <description> Handreiking van de VU waarin variaties in geschreven toetsproducten worden gegeven. Toetsen in het hogeronderwijs [@van2017toetsen], weergave van het belang van feedback op het leerproces. Toetswijzer competentiegericht begeleiden &amp;amp; beoordelen in het hoger onderwijs. Fontys Facilitair Bedrijf, afdeling Onderwijs: Centrum voor onderwijsinnovatie en onderzoek. Peer assessment als leermiddel. Voorbeelden uit het hoger onderwijs [@van2005peer]. Projectonderwijs als innovatie in het hoger onderwijs [@van1985projectonderwijs].  Bibliografie </description>
+      <description>Handreiking van de VU waarin variaties in geschreven toetsproducten worden gegeven. Toetsen in het hogeronderwijs (Van Berkel, Bax, and Joosten-ten Brinke 2017), weergave van het belang van feedback op het leerproces. Toetswijzer competentiegericht begeleiden &amp;amp; beoordelen in het hoger onderwijs. Fontys Facilitair Bedrijf, afdeling Onderwijs: Centrum voor onderwijsinnovatie en onderzoek. Peer assessment als leermiddel. Voorbeelden uit het hoger onderwijs (Van den Berg, Pilot, and Admiraal 2005). Projectonderwijs als innovatie in het hoger onderwijs (Van Woerden 1985).</description>
     </item>
     
     <item>

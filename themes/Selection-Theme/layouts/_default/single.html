@@ -115,8 +115,7 @@
           <div class="card card--collapsible card--no-padding" style="margin-bottom: 20px;">
             <div class="card--single-line">
               <div class="card--single-line--title">
-                <span class="card__main">{{ index .Params "title" }} -</span>
-                <span class="card__text">{{ index .Params "subtitle" }}</span>
+                <span class="card__main">{{ index .Params "title" }}</span>
               </div>
               <div class="card__action card__action--right">
                 <span class="hide-on-small">{{ .Site.Params.singleInstructions }}</span>
@@ -128,8 +127,15 @@
             </div>
 
             <div class="card__text card__expandable">
+              
+              
               <!-- The text that needs to appear. -->
-              {{ .Content }}
+              <p>{{ .Content }}</p>
+              
+            <h3>{{ .Site.Params.singleJumpMenuTitle }} <a href="{{ .Params.link }}">{{ index .Params "title" }}</a></h3>
+
+
+              
             </div>
           </div>
         {{ end }}

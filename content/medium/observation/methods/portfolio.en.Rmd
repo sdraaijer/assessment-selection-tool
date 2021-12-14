@@ -1,0 +1,17 @@
+---
+title: "Portfolio"
+subtitle: "none"
+link: "https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/portfolio/"
+date: '2021-12-08'
+weight: 3
+category: "tool"
+---
+
+**Tips for this assessment method**
+
+```{r, child="../../../snippets/observation/obs_methods_videoaudio.en.md"}
+```
+
+```{r, child="../../../snippets/observation/obs_methods_live.en.md"}
+```
+
