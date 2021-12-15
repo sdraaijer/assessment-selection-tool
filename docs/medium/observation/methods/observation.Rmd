@@ -1,0 +1,16 @@
+---
+title: "Observaties"
+subtitle: "none"
+link: "https://werkgroep-toetsen-op-afstand.github.io/remote-assessment-aid/methods/observations/"
+date: '2021-12-08'
+weight: 2
+category: "tool"
+---
+
+**Tips voor deze toetsmethode**
+
+```{r, child="../../../snippets/observation/obs_methods_videoaudio.md"}
+```
+
+```{r, child="../../../snippets/observation/obs_methods_live.md"}
+```

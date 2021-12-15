@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Online assessment methods on Assessment Selection Tool</title>
+    <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/methods/</link>
+    <description>Recent content in Online assessment methods on Assessment Selection Tool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-NL</language>
+    <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/methods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Assessment</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/methods/digital_assessment/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/methods/digital_assessment/</guid>
+      <description>  Tips for this assessment method
+ If the assessment is also taken by other students (e.g. at a different time), present the questions in random order to prevent the sharing of answers.
+ Live proctoring is quite feasible in the case of individual assessment.
+  </description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/methods/presentation/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/methods/presentation/</guid>
+      <description>Tips for this assessment method
+ Assessing presentations, projects or products can be very time-consuming, and may therefore not seem to be an obvious choice at this scale. However, the assessment in a formative setting can be made easier by dividing students into groups and/or implementing peer feedback, in which students assess one another’s work. It may also help to have students record their presentations, so that you can assess them at a more suitable time and location.</description>
+    </item>
+    
+    <item>
+      <title>Oral Exam</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/methods/oral_exams/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/methods/oral_exams/</guid>
+      <description>  Tips for this assessment method
+ If the examiner does not know a student, ask the student to hold up their ID card or student card to show who they are.  </description>
+    </item>
+    
+  </channel>
+</rss>

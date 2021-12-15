@@ -1,0 +1,14 @@
+---
+title: "Digitaal Toetsen"
+subtitle: "none"
+link: "https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/"
+date: '2021-12-08'
+weight: 1
+category: "tool"
+---
+
+**Tips voor deze toetsvorm**
+
+* Indien het gaat om een toets die ook bij andere studenten wordt afgenomen (bijvoorbeeld op een ander moment), bied de vragen dan in willekeurige volgorde aan om het doorgeven van antwoorden te voorkomen. 
+
+* Bij een individuele toets is het goed haalbaar om live proctoring toe te passen.  

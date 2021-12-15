@@ -1,0 +1,13 @@
+---
+title: "Projects and products"
+subtitle: "none"
+link: "https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/project_product/"
+date: '2021-12-08'
+weight: 3
+category: "tool"
+---
+
+**Tips for this assessment method**
+```{r, child="../../../snippets/application/app_methods_groups.en.md"}
+```
+
