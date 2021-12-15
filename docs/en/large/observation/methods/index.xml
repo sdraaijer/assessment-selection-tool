@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Online assessment methods on Assessment Selection Tool</title>
+    <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/large/observation/methods/</link>
+    <description>Recent content in Online assessment methods on Assessment Selection Tool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-NL</language>
+    <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/large/observation/methods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentations</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/large/observation/methods/presentation/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/large/observation/methods/presentation/</guid>
+      <description>Tips for this assessment method
+ At this scale, this assessment method is most suitable for group presentations or performances.
+ Make sure that the rules and requirements for making a video recording are clear, and don’t forget the audio.
+ Use a live recording if it is necessary to intervene in the activity or discuss it immediately afterwards, or if the activity needs to be done properly in one go or within a certain time.</description>
+    </item>
+    
+    <item>
+      <title>Observations</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/large/observation/methods/observation/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/large/observation/methods/observation/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/large/observation/methods/portfolio/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/large/observation/methods/portfolio/</guid>
+      <description>  </description>
+    </item>
+    
+  </channel>
+</rss>

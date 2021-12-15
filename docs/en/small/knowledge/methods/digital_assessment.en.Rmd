@@ -1,0 +1,17 @@
+---
+title: "Digital Assessment"
+subtitle: "none"
+link: "https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/digital_assessment/"
+date: '2021-12-08'
+weight: 1
+category: "tool"
+---
+
+**Tips for this assessment method**
+
+* Use open-ended questions as much as possible, in random order. 
+
+* Live proctoring is quite feasible on a small scale.  
+
+```{r, child="../../../snippets/knowledge/know_methods_limitations.en.md"}
+```

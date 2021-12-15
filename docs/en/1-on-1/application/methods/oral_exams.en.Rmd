@@ -1,0 +1,16 @@
+---
+title: "Oral Exam"
+subtitle: "none"
+link: "https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/oral_exam/"
+date: '2021-12-08'
+weight: 3
+category: "tool"
+---
+
+**Tips for this assessment method**
+
+```{r, child="../../../snippets/knowledge/know_methods_video.en.md"}
+```
+
+```{r, child="../../../snippets/knowledge/know_methods_ID.en.md"}
+```

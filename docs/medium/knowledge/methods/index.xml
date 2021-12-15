@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toetsvormen op afstand on Assessment Selection Tool</title>
+    <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/knowledge/methods/</link>
+    <description>Recent content in Toetsvormen op afstand on Assessment Selection Tool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-NL</language>
+    <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/knowledge/methods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digitaal Toetsen</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/knowledge/methods/digital_assessment/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/knowledge/methods/digital_assessment/</guid>
+      <description>Tips voor deze toetsvorm
+ Wanneer het aantal studenten te groot is om gebruik te maken van veel open vragen, kan er gebruik worden gemaakt van gesloten vragen die automatisch gescoord kunnen worden. Denk bijvoorbeeld aan meerkeuzevragen, drag-and-drop vragen of korte essayvragen. Het belang van de overige genoemde maatregelen om fraude tegen te gaan wordt dan groter.
+ Stel bij open vragen beperkingen aan de antwoorden van studenten, bijvoorbeeld in het aantal woorden of in de inhoud van de antwoorden, om te uitgebreide antwoorden te voorkomen.</description>
+    </item>
+    
+    <item>
+      <title>Presentaties</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/knowledge/methods/presentation/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/knowledge/methods/presentation/</guid>
+      <description>Tips voor deze toetsvorm
+ Het beoordelen van presentaties, projecten of producenten kan veel tijd kosten. Daarom lijkt deze vorm wellicht minder voor de hand liggend voor deze schaal. Echter kan het nakijken van deze toetsvormen in een formatieve setting behapbaarder worden gemaakt door de studenten op te delen in groepen en/of gebruik te maken van peer feedback, waarbij studenten elkaars werk beoordelen. Ook kan het praktisch zijn om de studenten hun presentaties op te laten nemen, zodat de beoordelaar deze tijd- en plaatsonafhankelijk kan beoordelen.</description>
+    </item>
+    
+    <item>
+      <title>Mondeling</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/knowledge/methods/oral_exams/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/knowledge/methods/oral_exams/</guid>
+      <description>  Tips voor deze toetsmethode
+ Deel de studenten op in groepen en houd mondelinge groepsgesprekken om de beoordelingstijd te beperken.
+ Bij formatief evalueren kan er gebruik worden gemaakt van peerfeedback.
+ Vraag de student een identiteitskaart of studentenpas te tonen als de beoordelaar onbekend is met de student.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

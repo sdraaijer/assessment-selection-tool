@@ -1,0 +1,17 @@
+---
+title: "Digitaal Toetsen"
+subtitle: "none"
+link: "https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/digital_assessment/"
+date: '2021-12-08'
+weight: 1
+category: "tool"
+---
+
+**Tips voor deze toetsvorm**
+
+* Gebruik zoveel mogelijk open vragen en bied deze in willekeurige volgorde aan. 
+
+* Op kleine schaal is het goed haalbaar om live proctoring toe te passen.  
+
+```{r, child="../../../snippets/knowledge/know_methods_limitations.md"}
+```
