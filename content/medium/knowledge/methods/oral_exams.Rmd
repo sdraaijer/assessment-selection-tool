@@ -1,0 +1,19 @@
+---
+title: "Mondeling"
+subtitle: "none"
+link: "https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/oral_exam/"
+date: '2021-12-08'
+weight: 3
+category: "tool"
+---
+
+**Tips voor deze toetsmethode**
+
+```{r, child="../../../snippets/knowledge/know_methods_groups-oral.md"}
+```
+
+```{r, child="../../../snippets/knowledge/know_methods_peerfeedback.md"}
+```
+
+```{r, child="../../../snippets/knowledge/know_methods_ID.md"}
+```

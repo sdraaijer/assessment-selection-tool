@@ -1,0 +1,23 @@
+---
+title: "Presentations"
+subtitle: "none"
+link: "https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/presentation/"
+date: '2021-12-08'
+weight: 2
+category: "tool"
+---
+
+**Tips for this assessment method**
+
+```{r, child="../../../snippets/knowledge/know_methods_questions.en.md"}
+```
+
+```{r, child="../../../snippets/knowledge/know_methods_video.en.md"}
+```
+
+```{r, child="../../../snippets/knowledge/know_methods_groups-presentations.en.md"}
+```
+
+```{r, child="../../../snippets/knowledge/know_methods_peerfeedback.en.md"}
+```
+
