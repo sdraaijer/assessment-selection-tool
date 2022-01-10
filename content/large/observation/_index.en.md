@@ -1,5 +1,5 @@
 ---
-title: "Observation"
+title: "Physical abilities"
 description: " "
 banner: /images/assessment-hero.jpg
 icon: /icons/large-course.png

@@ -1,5 +1,5 @@
 ---
-title: "Observation"
+title: "Physical abilities"
 subtitle: "1-on-1"
 description: " "
 banner: /images/1-on-1-hero.jpg

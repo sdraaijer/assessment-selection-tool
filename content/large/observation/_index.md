@@ -1,5 +1,5 @@
 ---
-title: "Handelingen"
+title: "Fysieke handelingen"
 description: " "
 banner: /images/assessment-hero.jpg
 icon: /icons/large-course.png
