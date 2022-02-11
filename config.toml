@@ -16,7 +16,7 @@ defaultContentLanguage = "nl"
   landingpageBannerImage = "images/landing-no-logo-2.jpg"
   landingpageLogoImage = "images/toetsendiap.png"
   landingpageLogoImageSmall = "images/toetsendiap.png"
-  googleAnalytics = "G-BPTG6GJD3L"
+  googleAnalytics = "G-BN5Y1JDBGF"
   
   # Homepage parameters
   homeChoiceTitle = "Kies je groepsgrootte"
