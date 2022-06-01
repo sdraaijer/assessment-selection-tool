@@ -6,11 +6,3 @@ date: '2021-12-08'
 weight: 3
 category: "tool"
 ---
-
-**Tips voor deze toetsvorm**
-
-```{r, child="../../../snippets/observation/obs_methods_videoaudio.md"}
-```
-
-```{r, child="../../../snippets/observation/obs_methods_live.md"}
-```

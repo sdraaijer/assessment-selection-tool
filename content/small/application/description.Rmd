@@ -13,5 +13,4 @@ weight: 1
 ```{r, child="../../snippets/application/app_description_presentations.md"}
 ```
 
-
-Op kleine schaal zijn er veel mogelijkheden voor het toetsen van toepassingsvaardigheden en inzicht op afstand. Kies voor de vorm die het beste past bij de leerdoelen van het vak en het gegeven onderwijs.  
+Op kleine schaal zijn er veel mogelijkheden voor het toetsen van toepassingsvaardigheden en inzicht op afstand. Kies voor de vorm die het beste past bij de leerdoelen van het vak en het gegeven onderwijs.
