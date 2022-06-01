@@ -8,11 +8,8 @@ instructions: false
 weight: 1
 ---
 
-Een voor de hand liggende vorm van een kennistoets is een multiple choice-toets of een toets met open vragen.  
+Onder kennis verstaan we hier reproductiekennis; dit kan worden onderverdeeld in feitenkennis enerzijds en samenvatten (of begrip) anderzijds (Van Berkel, 1999). Bij feitenkennis gaat het om de vraag of de student de kennis heeft onthouden. Een voorbeeld van feitenkennis is het kunnen benoemen van de kenmerken van een zoogdier. Bij samenvatten gaat het om de vraag of de student de leerstof heeft begrepen. Hierbij kan bijvoorbeeld worden gedacht aan het in eigen woorden uitleggen van de werking van een verbrandingsmotor. 
 
-```{r, child="../../snippets/knowledge/know_description_advantages.md"}
-```
+Bij een kleine(re) groep studenten zijn er meer mogelijkheden om hun begrip van de leerstof te toetsen. 
 
-Op een kleine schaal zijn er ook andere mogelijkheden om kennis te toetsen, bijvoorbeeld een (groeps)presentatie of mondeling examen.
-```{r, child="../../snippets/knowledge/know_description_oral.md"}
-```
+Bij een kleine(re) groep studenten zijn er naast digitale toetsen ook andere mogelijkheden om kennis te toetsen op afstand, bijvoorbeeld met individuele presentaties of mondelinge examens. 

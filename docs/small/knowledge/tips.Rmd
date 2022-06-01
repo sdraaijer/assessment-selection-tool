@@ -8,10 +8,6 @@ instructions: false
 weight: 4
 ---
 
-```{r, child="../../snippets/knowledge/know_tips_timelimit.md"}
-```
-
-
 ```{r, child="../../snippets/knowledge/know_tips_ethics.md"}
 ```
 
@@ -21,4 +17,8 @@ weight: 4
 
 
 ```{r, child="../../snippets/knowledge/know_tips_environment.md"}
+```
+
+
+```{r, child="../../snippets/observation/obs_tips_peerfeedback.md"} 
 ```
