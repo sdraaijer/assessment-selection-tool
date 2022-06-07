@@ -945,3 +945,31 @@ main {
     visibility: visible;
   }
 }
+
+blockquote {
+    margin: 10px 0 10px 20px;
+    width: 95%;
+    padding:10px;
+    position: relative;
+    background: #ddd;
+}
+
+blockquote:before {
+  position: absolute;
+  content: open-quote;
+  font-size: 4em;
+  margin-left: -0.4em;
+  margin-top: -0.6em;
+}
+blockquote:after {
+  position: absolute;
+  content: close-quote;
+  font-size: 4em;
+  bottom: 0;
+  right: 0;
+  margin-right: -0.2em;
+  margin-bottom: -0.8em;
+}
+blockquote p {
+  display: inline;
+}
