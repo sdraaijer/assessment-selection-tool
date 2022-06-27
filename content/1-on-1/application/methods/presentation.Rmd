@@ -7,10 +7,4 @@ weight: 2
 category: "tool"
 ---
 
-**Tips voor deze toetsvorm**
-
-```{r, child="../../../snippets/knowledge/know_methods_video.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_ID.md"}
-```
+Hogere cognitieve vaardigheden kunnen ook worden getoetst met een individuele presentatie. Een presentatie biedt studenten ruimte voor originaliteit en creativiteit. Daarnaast kunnen hiermee ook presentatievaardigheden worden getoetst. De gelegenheid die een presentatie biedt voor interactie, bijvoorbeeld het stellen van vragen na afloop van de presentatie, biedt de beoordelaar extra mogelijkheden voor het toetsen van het inzicht van de student. 

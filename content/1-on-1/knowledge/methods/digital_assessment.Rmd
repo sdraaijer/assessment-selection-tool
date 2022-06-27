@@ -7,8 +7,10 @@ weight: 1
 category: "tool"
 ---
 
-**Tips voor deze toetsvorm**
+Het vergt tijd om een betrouwbare en valide (digitale) schriftelijke toets te ontwikkelen. Daarom is dit geen voor de hand liggende optie wanneer slechts één of enkele studenten hoeven te worden getoetst. Het is wel een optie als de toets op een later moment ook voor andere studenten kan worden gebruikt en er maatregelen worden genomen waardoor voorkomen wordt dat studenten toetsvragen en antwoorden doorgeven; denk hierbij aan het in willekeurige volgorde aanbieden van de vragen en van de antwoordopties.  
 
-* Indien het gaat om een toets die ook bij andere studenten wordt afgenomen (bijvoorbeeld op een ander moment), bied de vragen dan in willekeurige volgorde aan om het doorgeven van antwoorden te voorkomen. 
+Als het vaak voorkomt dat individuele studenten moeten worden getoetst, bijvoorbeeld omdat de opleiding flexibele leerroutes heeft, dan is dat één reden om de mogelijkheden te verkennen voor het bouwen van een itembank. Het gebruik van itembanken maakt het gemakkelijker om meerdere toetsversies met een verschillende set van vragen te maken. Meer informatie hierover vind je in het [Handboek Itembanken](https://werkgroep-toetsen-op-afstand.github.io/Handboek-Itembanken/) en in de [SURF thema-uitgave Digitale toets- en vragenbanken in het onderwijs]( https://www.surf.nl/files/2019-02/thema-uitgave-itembanken_-webversie_def.pdf). 
 
-* Bij een individuele toets is het goed haalbaar om live proctoring toe te passen.  
+Een voor de hand liggende vorm van een kennistoets is een multiple choice-toets of een toets met open vragen. Voor het toetsen van feitenkennis en/of begrip kan het beste (voornamelijk) gebruikgemaakt worden van gesloten vragen. Op dit cognitieve niveau zijn gesloten vragen relatief gemakkelijk te construeren. Het voordeel van gesloten vragen is dat deze sneller te beantwoorden zijn door studenten, waardoor meer vragen kunnen worden opgenomen in de toets, wat de representativiteit ervan verhoogt (Van Berkel, 1999). 
+
+Bij toetsen op individueel niveau is het goed haalbaar om live proctoring toe te passen. Dit houdt in dat studenten in real-time, via bijvoorbeeld een webcam of telefoon, worden bekeken. 

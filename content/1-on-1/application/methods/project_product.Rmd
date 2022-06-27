@@ -7,3 +7,4 @@ weight: 6
 category: "tool"
 ---
 
+Projecten en producten zijn geschikt om vast te stellen of de student kennis kan toepassen, analyseren, evalueren of creëren. Hoewel het van toegevoegde waarde is om studenten in groepsverband aan projecten en producten te laten werken, kan het ook prima worden ingezet als toetsvorm voor individuele studenten. 
