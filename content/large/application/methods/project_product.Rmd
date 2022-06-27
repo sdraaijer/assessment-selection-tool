@@ -7,7 +7,4 @@ weight: 3
 category: "tool"
 ---
 
-**Tips voor deze toetsvorm**
-```{r, child="../../../snippets/application/app_methods_groups.md"}
-```
-
+Projecten en producten zijn geschikt om vast te stellen of de student kennis kan toepassen, analyseren, evalueren of creëren. Overweeg, zeker bij deze groepsgrootte, om van de opdracht een groepsopdracht te maken. Niet alleen beperkt dit de beoordelingstijd, maar bij groepsopdrachten hebben studenten ook meer interactie met elkaar en kunnen ze samen een project uitvoeren dat ze alleen nooit hadden kunnen realiseren. 

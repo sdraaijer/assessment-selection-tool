@@ -1,0 +1,10 @@
+---
+title: "Portfolio"
+subtitle: "none"
+link: "https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/portfolio/"
+date: '2021-12-08'
+weight: 2
+category: "tool"
+---
+
+Een portfolio is een verzameling documenten/bestanden die aantonen dat de student bepaalde competenties bezit en/of zich ontwikkelt en die vaak over een langere tijd wordt opgebouwd. In het portfolio kunnen dus ook andere toetsvormen opgenomen zijn. In het geval van een grote groep studenten is het waarschijnlijk te tijdrovend om portfolio’s van individuele studenten te beoordelen. Formatief gebruik van een portfolio in de vorm van een ontwikkelingsportfolio is wel haalbaar op deze schaal. In dit portfolio kunnen studenten onder meer video-opnames van observaties, producten van projecten en de resultaten van de beoordeling hiervan opnemen, samen met reflecties hierop waarin de student ingaat op welke (deel)competenties onvoldoende beheerst worden en waar dus nog aan moet worden gewerkt. 
