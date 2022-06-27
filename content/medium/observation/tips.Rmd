@@ -16,3 +16,6 @@ weight: 4
 
 ```{r, child="../../snippets/observation/obs_tips_peerfeedback.md"}
 ```
+
+```{r, child="../../snippets/observation/obs_how_live.md"} 
+``` 

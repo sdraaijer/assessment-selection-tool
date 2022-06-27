@@ -7,10 +7,4 @@ weight: 2
 category: "tool"
 ---
 
-**Tips voor deze toetsmethode**
-
-```{r, child="../../../snippets/observation/obs_methods_videoaudio.md"}
-```
-
-```{r, child="../../../snippets/observation/obs_methods_live.md"}
-```
+Een observatie is bij uitstek geschikt voor het toetsen van fysieke handelingen. Op deze schaal is deze toetsvorm echter vooral haalbaar als studenten tegelijkertijd in groepen kunnen worden beoordeeld (zoals in een toneelvoorstelling). Beoordeling kan ook plaats- en tijdsonafhankelijk plaatsvinden, met behulp van videoconferencing of een video-opname. Dit bespaart de beoordelaar reistijd en kan een uitkomst bieden als de beoordeling van een prestatie van een individuele student vereist is. 

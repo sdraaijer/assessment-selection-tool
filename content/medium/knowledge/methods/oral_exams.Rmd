@@ -7,13 +7,6 @@ weight: 3
 category: "tool"
 ---
 
-**Tips voor deze toetsmethode**
+Een mondeling examen heeft als voordeel dat docenten de mogelijkheid hebben om door te vragen; dit is met name een voordeel bij het toetsen van hogere cognitieve vaardigheden als toepassen, analyseren, synthetiseren en evalueren. Als studenten met hun antwoord op de vraag een andere kant opgaan dan de docent beoogt, dan kan de docent de bedoeling van de vraag nader toelichten (Van Berkel, Bax, & Joosten-ten-Brinke, 2017). Het afnemen en beoordelen van mondelinge examens kan echter veel tijd kosten. Bij deze groepsgrootte is het daarom aanbevolen om studenten op te delen in groepen en om mondelinge groepsgesprekken te houden, om de beoordelingstijd te beperken. 
 
-```{r, child="../../../snippets/knowledge/know_methods_groups-oral.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_peerfeedback.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_ID.md"}
-```
+Hoewel gesprekken vaak op locatie plaatsvinden, zijn er ook mogelijkheden om dit op afstand te doen door gebruik te maken van videoconferencing software zoals Zoom of Microsoft Teams. Dit kan docenten en studenten reistijd en -kosten besparen. 

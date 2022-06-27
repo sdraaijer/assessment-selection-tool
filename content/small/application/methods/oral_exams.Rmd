@@ -9,4 +9,4 @@ category: "tool"
 
 Een mondeling examen heeft als voordeel dat docenten de mogelijkheid hebben om door te vragen; dit is met name een voordeel bij het toetsen van hogere cognitieve vaardigheden als toepassen, analyseren, synthetiseren en evalueren. Als studenten met hun antwoord op de vraag een andere kant opgaan dan de docent beoogt, dan kan de docent de bedoeling van de vraag nader toelichten (Van Berkel, Bax, & Joosten-ten-Brinke, 2017).  
 
-Hoewel gesprekken vaak op locatie plaatsvinden, zijn er ook mogelijkheden om dit op afstand te doen door gebruik te maken van video conferencing software zoals Zoom of Microsoft Teams. Dit kan docenten en studenten reistijd en -kosten besparen. 
+Hoewel gesprekken vaak op locatie plaatsvinden, zijn er ook mogelijkheden om dit op afstand te doen door gebruik te maken van videoconferencing software zoals Zoom of Microsoft Teams. Dit kan docenten en studenten reistijd en -kosten besparen. 

@@ -8,8 +8,6 @@ instructions: false
 weight: 1
 ---
 
-### Toepassen, analyseren, synthetiseren, evalueren 
-
 ```{r, child="../../snippets/application/app_description_presentations.md"}
 ```
 

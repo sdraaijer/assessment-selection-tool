@@ -8,6 +8,7 @@ instructions: false
 weight: 4
 ---
 
+
 ```{r, child="../../snippets/knowledge/know_tips_ethics.md"}
 ```
 
