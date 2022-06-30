@@ -34,7 +34,7 @@ Voor de docent kunnen bieden de resultaten inzicht in waar de kennishiaten zich 
 
 De waardering van formatieve toetsen kan van invloed zijn op de inzet van studenten. Met name bij grote groepen kan dit een rol spelen. 
 
-Het mee laten tellen van de formatieve toetsen voor het eindcijfer kan een negatief effect hebben. Overweeg eens een ander beloningssysteem. Zoals een [strafstaffel](https://webcolleges.uva.nl/Mediasite/Play/2d74e9c589094bb0bc027cfbae672d6b1d).
+Het mee laten tellen van de formatieve toetsen voor het eindcijfer kan een negatief effect hebben. Overweeg eens een ander beloningssysteem. Zoals een [strafstaffel](https://webcolleges.uva.nl/Mediasite/Play/2d74e9c589094bb0bc027cfbae672d6b1d), zoals ook beschreven in [Klinkenberg (2017)](https://link.springer.com/chapter/10.1007/978-3-319-57744-9_6).
 
 > Bij een vak waarvan de leerstof ook op een later moment in de opleiding getoetst werd, hebben we een summatieve meerkeuzetoets omgezet naar een formatieve toets. Deze toets wordt door de studenten in drietallen gemaakt. De onderlinge discussie zorgde voor een groot leereffect en wij hoeven geen proctoring meer te gebruiken.
 
@@ -44,7 +44,7 @@ Het mee laten tellen van de formatieve toetsen voor het eindcijfer kan een negat
 
 ### Voor aanvang
 
-Het opstellen van je tentamenvagen doen je bij voorkeur door gebruik te maken van een persoonlijke of gedeelde itembank, zodat je later vragen kunt hergebruiken.
+Het opstellen van je tentamenvagen doen je bij voorkeur door gebruik te maken van een persoonlijke of gedeelde itembank, zodat je later vragen kunt hergebruiken. Meer informatie hierover vind je in het [Handboek Itembanken](https://werkgroep-toetsen-op-afstand.github.io/Handboek-Itembanken/) en in de [SURF thema-uitgave Digitale toets- en vragenbanken in het onderwijs]( https://www.surf.nl/files/2019-02/thema-uitgave-itembanken_-webversie_def.pdf). 
 
 Afhankelijk van de inrichting van het toetsprocess binnen je instelling worden sommige taken zoals het plannen van de afname, het toevoegen van studenten aan de afname en het informeren van studenten in meer of mindere mate voor je gedaan. 
 
@@ -63,6 +63,15 @@ Als er gebruik is gemaakt van ‘recorded proctoring’ of ‘automated proctori
 De verwerking van de toetsresultaten verloopt verder analoog aan het digitaal toetsen op de campus.
 
 ### Aandachtspunten
+
+```{r, child="../../snippets/knowledge/know_how_fraud.md"} 
+```
+
+```{r, child="../../snippets/knowledge/know_how_proctoring.md"} 
+```
+
+```{r, child="../../snippets/knowledge/know_how_itembanks.md"} 
+```
 
 Niet alle studenten hebben een thuissituatie die geschikt is voor het maken van toetsen. Zeker bij toetsen met proctoring kan dit een probleem vormen. Wijs de studenten op een eventuele alternatieve afnamelocatie of ondersteuningsmogelijkheden (zoals het lenen van een laptop en/of webcam). 
 

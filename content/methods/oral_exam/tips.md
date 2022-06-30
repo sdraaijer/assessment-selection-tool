@@ -17,3 +17,6 @@ weight: 4
 *	Een mogelijk alternatief voor een online mondeling is een verwerkingsopdracht. 
 *	Een mogelijk alternatief voor een online mondeling is een toets met open en/of gesloten vragen. 
 *	Kijk of je kunt bijdragen aan een feedbackcultuur, bijvoorbeeld door een deel van de toetsen een formatieve in plaats van een summatieve functie te geven. Lees hier meer over in het boek Toetsrevolutie. 
+
+```{r, child="../../../snippets/knowledge/know_methods_ID.md"} 
+```
