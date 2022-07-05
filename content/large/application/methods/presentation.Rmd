@@ -7,17 +7,6 @@ weight: 2
 category: "tool"
 ---
 
-**Tips voor deze toetsvorm**
+Hogere cognitieve vaardigheden kunnen ook worden getoetst met een (groeps)presentatie. Een presentatie biedt studenten ruimte voor originaliteit en creativiteit. Daarnaast kunnen hiermee ook presentatievaardigheden worden getoetst. De gelegenheid die een presentatie biedt voor interactie, bijvoorbeeld het stellen van vragen na afloop van de presentatie, biedt de beoordelaar extra mogelijkheden voor het toetsen van het inzicht van de student. Het afnemen en beoordelen van presentaties kan echter veel tijd kosten. Door de studenten in groepen op te delen en per groep te laten presenteren kan de benodigde tijd worden beperkt. 
 
-```{r, child="../../../snippets/knowledge/know_methods_questions.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_video.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_groups-presentations.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_peerfeedback.md"}
-```
-
+Hoewel presentaties vaak op locatie plaatsvinden, zijn er ook mogelijkheden om dit op afstand te doen door gebruik te maken van videoconferencing software zoals Zoom of Microsoft Teams. Dit kan docenten en studenten reistijd en -kosten besparen. 

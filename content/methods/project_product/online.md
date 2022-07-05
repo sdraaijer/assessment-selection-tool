@@ -20,7 +20,10 @@ Bovenstaande producten kunnen natuurlijk ook gecombineerd worden tot één eindp
 
 Studenten leveren het werk vaak digitaal via een leer management systeem (LMS) in. Hierdoor kan beoordeling op afstand eenvoudig plaatsvinden. Voor fysieke fabricaten kan gebruik worden gemaakt van een zelfgemaakte opname of een livestream demonstratie.
 
-## Voor- en nadelen
+## Voordelen
 
 + Het toetsen van projecten en producten op afstand is grotendeels niet anders dan hoe de beoordeling via campus onderwijs zou plaatsvinden.
+
+## Nadelen
+
 - Voor de beoordeling van fysieke eindproducten kan een digitale beoordeling soms een minder goed beeld geven. Zo hangt het af van hoe goed de student in staat is om alle relevante details in beeld te brengen.

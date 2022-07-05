@@ -7,13 +7,4 @@ weight: 3
 category: "tool"
 ---
 
-**Tips voor deze toetsmethode**
-
-```{r, child="../../../snippets/knowledge/know_methods_groups-oral.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_peerfeedback.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_ID.md"}
-```
+Op kleine schaal kan kennis ook worden getoetst met een mondeling examen. Hiermee kunnen, naast feitenkennis en begrip, ook mondelinge vaardigheden worden getoetst. Een mondeling examen biedt de beoordelaar mogelijkheden om door te vragen op gegeven antwoorden, waarmee een betere inschatting kan worden gemaakt van het begrip van de student. In het geval van een relatief kleine groep studenten kan gekozen worden voor mondelinge examens met individuele studenten; het voordeel hiervan is dat dit een meer betrouwbare inschatting mogelijk maakt van de mate waarin een individuele student de kennis beheerst. Het afnemen en beoordelen van mondelinge examens kan echter veel tijd kosten. Door de studenten in groepen op te delen en mondelinge groepsgesprekken te houden kan de benodigde tijd worden beperkt. Maak bij de keuze tussen individuele gesprekken of groepsgesprekken een afweging tussen de wenselijkheid van een beter zicht op de prestaties van individuele studenten enerzijds en de praktische haalbaarheid anderzijds. 

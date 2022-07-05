@@ -7,10 +7,4 @@ weight: 2
 category: "tool"
 ---
 
-**Tips voor deze toetsmethode**
-
-```{r, child="../../../snippets/observation/obs_methods_videoaudio.md"}
-```
-
-```{r, child="../../../snippets/observation/obs_methods_live.md"}
-```
+Een observatie is bij uitstek geschikt voor het toetsen van fysieke handelingen. Op kleine schaal is een beoordelaar vaker in de gelegenheid om op locatie aanwezig te zijn, in het geval dat deze handelingen op een specifieke locatie moeten worden uitgevoerd. Als aanwezigheid op locatie de beoordelaar beter zicht geeft op de prestatie van de student dan verdient dit de voorkeur. Maar beoordeling kan ook plaats- en tijdsonafhankelijk plaatsvinden, met behulp van videoconferencing of een video-opname. 

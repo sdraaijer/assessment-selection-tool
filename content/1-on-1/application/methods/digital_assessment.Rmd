@@ -7,12 +7,12 @@ weight: 1
 category: "tool"
 ---
 
-**Tips voor deze toetsvorm**
+Het vergt tijd om een betrouwbare en valide (digitale) schriftelijke toets te ontwikkelen. Daarom is dit geen voor de hand liggende optie wanneer slechts één of enkele studenten hoeven te worden getoetst. Het is wel een optie als de toets op een later moment ook voor andere studenten kan worden gebruikt en er maatregelen worden genomen waardoor voorkomen wordt dat studenten toetsvragen en antwoorden doorgeven.  
 
+Als het vaak voorkomt dat individuele studenten moeten worden getoetst, bijvoorbeeld omdat de opleiding flexibele leerroutes heeft, dan is dat één reden om de mogelijkheden te verkennen voor het bouwen van een itembank. Het gebruik van itembanken maakt het gemakkelijker om meerdere toetsversies met een verschillende set van vragen te maken. Meer informatie hierover vind je in het [Handboek Itembanken](https://werkgroep-toetsen-op-afstand.github.io/Handboek-Itembanken/) en in de [SURF thema-uitgave Digitale toets- en vragenbanken in het onderwijs]( https://www.surf.nl/files/2019-02/thema-uitgave-itembanken_-webversie_def.pdf). 
 
-* Indien het gaat om een toets die ook bij andere studenten wordt afgenomen (bijvoorbeeld op een ander moment), bied de vragen dan in willekeurige volgorde aan om het doorgeven van antwoorden te voorkomen. 
+Met een digitale toets kunnen ook hogere cognitieve vaardigheden worden getoetst als toepassen, analyseren, synthetiseren en evalueren. Voor het op kleine schaal toetsen van hogere cognitieve vaardigheden zijn open vragen bij uitstek geschikt (Van Berkel, Bax, & Joosten-ten-Brinke, 2017). Open vragen bieden ruimte voor doelen waarbij originaliteit of creativiteit een rol spelen (Van Berkel, Bax, & Joosten-ten-Brinke, 2017). Bovendien is het bij ongeveer 50 of minder studenten efficiënter om gebruik te maken van open vragen dan van gesloten vragen; hoewel open vragen meer nakijktijd kosten, kost het minder tijd om ze te construeren, zeker bij het toetsen van hogere cognitieve vaardigheden (Van Berkel, 1999). Hoewel hogere cognitieve vaardigheden wel degelijk ook met gesloten vragen getoetst kunnen worden, vergt een zorgvuldige constructie hiervan tijd (Van Berkel, Bax, & Joosten-ten-Brinke, 2017). Een reden om toch te kiezen voor gesloten vragen is dat zij sneller te beantwoorden zijn door studenten, waardoor meer vragen kunnen worden opgenomen in de toets, wat de representativiteit ervan verhoogt (Van Berkel, 1999). 
 
-* Bij een individuele toets is het goed haalbaar om live proctoring toe te passen.
+Alternatieven voor een toets met open en/of gesloten vragen zijn open boek-tentamens of casustoetsen. Dit is op afstand minder fraudegevoelig dan het afnemen van toetsen met alleen gesloten vragen, maar wel arbeidsintensiever. In het geval slechts één of enkele studenten de toets maken blijft de werklast voor de beoordeling echter beperkt. 
 
-```{r, child="../../../snippets/knowledge/know_methods_limitations.md"}
-```
+Bij toetsen op individueel niveau is het goed haalbaar om live proctoring toe te passen. Dit houdt in dat studenten in real-time, via bijvoorbeeld een webcam of telefoon, worden bekeken. 

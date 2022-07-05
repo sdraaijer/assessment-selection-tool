@@ -7,13 +7,7 @@ weight: 3
 category: "tool"
 ---
 
-**Tips voor deze toetsvorm**
+Een voor de hand liggende vorm van een kennistoets is een multiple choice-toets of een toets met open vragen. Op locatie wordt een dergelijke toets vaak afgenomen in een grote sport- of collegezaal. Voor het op grote schaal toetsen van feitenkennis en/of begrip kan het beste (voornamelijk) gebruikgemaakt worden van gesloten vragen. Op dit cognitieve niveau zijn gesloten vragen relatief gemakkelijk te construeren. Het voordeel van gesloten vragen is dat deze sneller te beantwoorden zijn door studenten, waardoor meer vragen kunnen worden opgenomen in de toets, wat de representativiteit ervan verhoogt (Van Berkel, 1999). 
 
-```{r, child="../../../snippets/knowledge/know_methods_mc.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_limitations.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_breakoutrooms.md"}
+```{r, child="../../../snippets/knowledge/know_methods_breakoutrooms.md"} 
 ```

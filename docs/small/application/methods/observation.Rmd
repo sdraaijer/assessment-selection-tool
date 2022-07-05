@@ -7,13 +7,4 @@ weight: 4
 category: "tool"
 ---
 
-**Tips voor deze toetsmethode**
-
-```{r, child="../../../snippets/knowledge/know_methods_questions.md"}
-```
-
-```{r, child="../../../snippets/observation/obs_methods_videoaudio.md"}
-```
-
-```{r, child="../../../snippets/observation/obs_methods_live.md"}
-```
+Op kleine schaal is het goed mogelijk om toepassingsvaardigheden (zoals de vaardigheid in het werken met beroepsgerelateerde software) te toetsen door middel van observatie. 
