@@ -7,13 +7,9 @@ weight: 1
 category: "tool"
 ---
 
-**Tips voor deze toetsvorm**
+Met een digitale toets kunnen ook hogere cognitieve vaardigheden worden getoetst als toepassen, analyseren, synthetiseren en evalueren. Voor het op deze schaal toetsen van hogere cognitieve vaardigheden als toepassen, analyseren, synthetiseren en evalueren kan het beste (voornamelijk) gebruikgemaakt worden van gesloten vragen. Hoewel het tijd kost om deze zorgvuldig te construeren, weegt dit nog steeds op tegen de tijd die benodigd zou zijn om de open vragen van een relatief grote groep studenten te beoordelen. Daarnaast hebben gesloten vragen als voordeel dat zij sneller te beantwoorden zijn door studenten, waardoor meer vragen kunnen worden opgenomen in de toets, wat de representativiteit ervan verhoogt (Van Berkel, 1999). 
 
-```{r, child="../../../snippets/knowledge/know_methods_mc.md"}
-```
+Alternatieven voor een toets met open en/of gesloten vragen zijn open boek-tentamens of casustoetsen. Dit is op afstand minder fraudegevoelig dan het afnemen van toetsen met alleen gesloten vragen, maar wel arbeidsintensiever. Dit is daarom vooral een optie wanneer er genoeg mankracht beschikbaar is om dit te realiseren, bijvoorbeeld door junior docenten in te zetten.  
 
-```{r, child="../../../snippets/knowledge/know_methods_limitations.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_breakoutrooms.md"}
+```{r, child="../../../snippets/knowledge/know_methods_breakoutrooms.md"} 
 ```

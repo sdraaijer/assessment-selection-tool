@@ -7,3 +7,4 @@ weight: 6
 category: "tool"
 ---
 
+Projecten en producten zijn geschikt om vast te stellen of de student kennis kan toepassen, analyseren, evalueren of creëren. Overweeg om van de opdracht een groepsopdracht te maken. Bij groepsopdrachten hebben studenten meer interactie met elkaar en kunnen ze samen een project uitvoeren dat ze alleen nooit hadden kunnen realiseren. 

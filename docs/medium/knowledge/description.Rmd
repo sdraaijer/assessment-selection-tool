@@ -7,7 +7,7 @@ expandable: false
 instructions: false
 weight: 1
 ---
-### Feitenkennis en begrip
+
 Onder kennis verstaan we hier reproductiekennis; dit kan worden onderverdeeld in feitenkennis enerzijds en samenvatten (of begrip) anderzijds (Van Berkel, 1999). Bij feitenkennis gaat het om de vraag of de student de kennis heeft onthouden. Een voorbeeld van feitenkennis is het kunnen benoemen van de kenmerken van een zoogdier. Bij samenvatten gaat het om de vraag of de student de leerstof heeft begrepen. Hierbij kan bijvoorbeeld worden gedacht aan het in eigen woorden uitleggen van de werking van een verbrandingsmotor. 
 
 Op een middelgrote schaal zijn er naast digitale toetsen ook andere mogelijkheden om kennis te toetsen op afstand, bijvoorbeeld met een groepspresentatie of mondeling examen in groepen. 

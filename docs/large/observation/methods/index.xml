@@ -8,24 +8,12 @@
     <language>nl-NL</language>
     <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/observation/methods/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Presentaties</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/observation/methods/presentation/</link>
-      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/observation/methods/presentation/</guid>
-      <description>Tips voor deze toetsvorm
- Op deze schaal is deze toetsvorm vooral haalbaar bij presentaties of voorstellingen in groepen.
- Zorg voor duidelijke eisen omtrent een video-opname. Vergeet hierbij ook de audio niet.
- Gebruik live opnames als het nodig is om in te grijpen of direct na te bespreken, of als de taak in één keer goed of binnen een bepaalde tijd moet worden uitgevoerd. Anders is het makkelijker om een video-opname te maken.</description>
-    </item>
-    
-    <item>
       <title>Observaties</title>
       <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/observation/methods/observation/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/observation/methods/observation/</guid>
-      <description>  </description>
+      <description>Een observatie is bij uitstek geschikt voor het toetsen van fysieke handelingen. Op deze schaal is deze toetsvorm echter vooral haalbaar als studenten tegelijkertijd in groepen kunnen worden beoordeeld (zoals in een toneelvoorstelling). Beoordeling kan ook plaats- en tijdsonafhankelijk plaatsvinden, met behulp van videoconferencing of een video-opname. Dit bespaart de beoordelaar reistijd en kan een uitkomst bieden als de beoordeling van een prestatie van een individuele student vereist is.</description>
     </item>
     
     <item>
@@ -34,7 +22,7 @@
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/observation/methods/portfolio/</guid>
-      <description>  </description>
+      <description>Een portfolio is een verzameling documenten/bestanden die aantonen dat de student bepaalde competenties bezit en/of zich ontwikkelt en die vaak over een langere tijd wordt opgebouwd. In het portfolio kunnen dus ook andere toetsvormen opgenomen zijn. In het geval van een grote groep studenten is het waarschijnlijk te tijdrovend om portfolio’s van individuele studenten te beoordelen. Formatief gebruik van een portfolio in de vorm van een ontwikkelingsportfolio is wel haalbaar op deze schaal.</description>
     </item>
     
   </channel>

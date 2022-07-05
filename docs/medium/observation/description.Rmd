@@ -11,5 +11,5 @@ weight: 1
 ```{r, child="../../snippets/observation/obs_description_tasks.md"}
 ```
 
-```{r, child="../../snippets/observation/obs_description_situation.md"}
-```
+```{r, child="../../snippets/observation/obs_description_situation.md"} 
+``` 

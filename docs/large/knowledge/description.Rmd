@@ -7,7 +7,7 @@ expandable: false
 instructions: false
 weight: 1
 ---
-Van de toetsen die op grote schaal af te nemen zijn, is een kennistoets wellicht het makkelijkst op afstand te realiseren. Denk bijvoorbeeld aan een multiple choice-toets of een toets met open vragen. Op locatie wordt een dergelijke toets vaak afgenomen in een grote sport- of collegezaal. 
 
-```{r, child="../../snippets/knowledge/know_description_advantages.md"}
-```
+Onder kennis verstaan we hier reproductiekennis; dit kan worden onderverdeeld in feitenkennis enerzijds en samenvatten (of begrip) anderzijds (Van Berkel, 1999). Bij feitenkennis gaat het om de vraag of de student de kennis heeft onthouden. Een voorbeeld van feitenkennis is het kunnen benoemen van de kenmerken van een zoogdier. Bij samenvatten gaat het om de vraag of de student de leerstof heeft begrepen. Hierbij kan bijvoorbeeld worden gedacht aan het in eigen woorden uitleggen van de werking van een verbrandingsmotor. 
+
+Van de toetsen die op grote schaal af te nemen zijn, is een kennistoets wellicht het makkelijkst op afstand te realiseren. Denk bijvoorbeeld aan een multiple choice-toets of een toets met open vragen. Op locatie wordt een dergelijke toets vaak afgenomen in een grote sport- of collegezaal. 

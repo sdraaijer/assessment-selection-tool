@@ -105,58 +105,6 @@
                 href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/knowledge/methods/digital_assessment/"
                 />
   </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/1-on-1/observation/methods/presentation/</loc>
-    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/observation/methods/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/1-on-1/observation/methods/presentation/"
-                />
-  </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/observation/methods/presentation/</loc>
-    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/large/observation/methods/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/observation/methods/presentation/"
-                />
-  </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/observation/methods/presentation/</loc>
-    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/medium/observation/methods/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/observation/methods/presentation/"
-                />
-  </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/observation/methods/presentation/</loc>
-    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/small/observation/methods/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/observation/methods/presentation/"
-                />
-  </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/1-on-1/application/description/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
     <xhtml:link
@@ -508,6 +456,9 @@
                 href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/observation/methods/observation/"
                 />
   </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/application/methods/portfolio/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/1-on-1/application/methods/presentation/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -533,6 +484,9 @@
                 hreflang="nl"
                 href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/1-on-1/knowledge/methods/presentation/"
                 />
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/application/methods/presentation-copy/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/application/methods/presentation/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
@@ -758,84 +712,6 @@
                 href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/application/"
                 />
   </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/1-on-1/application/how/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/application/how/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/1-on-1/application/how/"
-                />
-  </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/1-on-1/knowledge/how/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/knowledge/how/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/1-on-1/knowledge/how/"
-                />
-  </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/1-on-1/observation/how/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/1-on-1/observation/how/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/1-on-1/observation/how/"
-                />
-  </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/application/how/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/large/application/how/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/application/how/"
-                />
-  </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/knowledge/how/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/large/knowledge/how/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/knowledge/how/"
-                />
-  </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/observation/how/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/large/observation/how/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/observation/how/"
-                />
-  </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/application/how/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
     <xhtml:link
@@ -847,19 +723,6 @@
                 rel="alternate"
                 hreflang="nl"
                 href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/application/how/"
-                />
-  </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/observation/how/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/medium/observation/how/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/observation/how/"
                 />
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/large/knowledge/methods/digital_assessment/</loc>
@@ -1538,19 +1401,6 @@
                 href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/observations/tips/"
                 />
   </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/oral_exam/tips/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/oral_exam/tips/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/oral_exam/tips/"
-                />
-  </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/portfolio/tips/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
     <xhtml:link
@@ -1562,19 +1412,6 @@
                 rel="alternate"
                 hreflang="nl"
                 href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/portfolio/tips/"
-                />
-  </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/presentation/tips/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/presentation/tips/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/presentation/tips/"
                 />
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/project_product/tips/</loc>
