@@ -1,4 +1,4 @@
-baseURL = "https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/"
+baseURL = "https://sdraaijer.github.io/assessment-selection-tool/"
 publishDir = "docs"
 languageCode = "nl-NL"
 title = "Assessment Selection Tool"
